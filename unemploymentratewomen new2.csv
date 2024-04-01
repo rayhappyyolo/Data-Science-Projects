@@ -1,0 +1,6232 @@
+country,Code,Year,Female unemployment rate modeled estimate
+Afghanistan,AFG,1991,13.615
+Albania,ALB,1991,10.272
+Algeria,DZA,1991,16.585
+Angola,AGO,1991,3.606
+Argentina,ARG,1991,5.745
+Armenia,ARM,1991,2.137
+Australia,AUS,1991,9.148
+Austria,AUT,1991,3.544
+Azerbaijan,AZE,1991,964
+Bahamas,BHS,1991,12.1
+Bahrain,BHR,1991,3.601
+Bangladesh,BGD,1991,2.084
+Barbados,BRB,1991,25.393
+Belarus,BLR,1991,502
+Belgium,BEL,1991,10.669
+Belize,BLZ,1991,14.249
+Benin,BEN,1991,0.59
+Bhutan,BTN,1991,1.495
+Bolivia,BOL,1991,2.806
+Bosnia and Herzegovina,BIH,1991,21.327
+Botswana,BWA,1991,16.942
+Brazil,BRA,1991,7.996
+Brunei,BRN,1991,6.714
+Bulgaria,BGR,1991,10.975
+Burkina Faso,BFA,1991,2.75
+Burundi,BDI,1991,1.285
+Cambodia,KHM,1991,1.175
+Cameroon,CMR,1991,6.294
+Canada,CAN,1991,9.694
+Cape Verde,CPV,1991,12.035
+Central African Republic,CAF,1991,6.224
+Chad,TCD,1991,296
+Channel Islands,OWID_CIS,1991,6.932
+Chile,CHL,1991,5.692
+China,CHN,1991,2.059
+Colombia,COL,1991,13.775
+Comoros,COM,1991,5.545
+Congo,COG,1991,21.335
+Costa Rica,CRI,1991,7.084
+Cote d'Ivoire,CIV,1991,7.128
+Croatia,HRV,1991,11.169
+Cuba,CUB,1991,12.483
+Cyprus,CYP,1991,4.432
+Czechia,CZE,1991,2.065
+Democratic Republic of Congo,COD,1991,2.534
+Denmark,DNK,1991,10.022
+Djibouti,DJI,1991,37.793
+Dominican Republic,DOM,1991,10.489
+East Asia and Pacific (WB),0,1991,22.764.099
+East Timor,TLS,1991,4.095
+Ecuador,ECU,1991,5.855
+Egypt,EGY,1991,20.959
+El Salvador,SLV,1991,6.433
+Equatorial Guinea,GNQ,1991,8.901
+Eritrea,ERI,1991,5.918
+Estonia,EST,1991,1.526
+Eswatini,SWZ,1991,23.329
+Ethiopia,ETH,1991,3.271
+Europe and Central Asia (WB),0,1991,7.616.737
+European Union (27),0,1991,10.434.056
+Fiji,FJI,1991,5.043
+Finland,FIN,1991,5.026
+France,FRA,1991,11.63
+French Polynesia,PYF,1991,13.402
+Gabon,GAB,1991,16.136
+Gambia,GMB,1991,11.456
+Georgia,GEO,1991,2.574
+Germany,DEU,1991,6.54
+Ghana,GHA,1991,3.52
+Greece,GRC,1991,13.021
+Guam,GUM,1991,3.383
+Guatemala,GTM,1991,3.323
+Guinea,GIN,1991,3.768
+Guinea-Bissau,GNB,1991,6.819
+Guyana,GUY,1991,15.177
+Haiti,HTI,1991,8.744
+High-income countries,0,1991,7.385.763
+Honduras,HND,1991,5.385
+Hong Kong,HKG,1991,1.589
+Hungary,HUN,1991,7.624
+Iceland,ISL,1991,2.894
+India,IND,1991,6.276
+Indonesia,IDN,1991,2.989
+Iran,IRN,1991,24.417
+Iraq,IRQ,1991,9.437
+Ireland,IRL,1991,16.591
+Israel,ISR,1991,16.432
+Italy,ITA,1991,15.754
+Jamaica,JAM,1991,22.981
+Japan,JPN,1991,2.22
+Jordan,JOR,1991,29.172
+Kazakhstan,KAZ,1991,1.021
+Kenya,KEN,1991,3.423
+Kuwait,KWT,1991,1.869
+Kyrgyzstan,KGZ,1991,1.116
+Laos,LAO,1991,2.536
+Latin America and Caribbean (WB),0,1991,7.748.897
+Latvia,LVA,1991,2.688
+Lebanon,LBN,1991,10.937
+Lesotho,LSO,1991,43.542
+Liberia,LBR,1991,2.383
+Libya,LBY,1991,26.648
+Lithuania,LTU,1991,1.089
+Low-income countries,0,1991,43.727.193
+Lower-middle-income countries,0,1991,49.664.493
+Luxembourg,LUX,1991,2.116
+Macao,MAC,1991,3.757
+Madagascar,MDG,1991,5.16
+Malawi,MWI,1991,6.459
+Malaysia,MYS,1991,4.317
+Maldives,MDV,1991,1.547
+Mali,MLI,1991,3.571
+Malta,MLT,1991,6.479
+Mauritania,MRT,1991,12.217
+Mauritius,MUS,1991,13.469
+Mexico,MEX,1991,4.371
+Middle East and North Africa (WB),0,1991,1.683.825
+Middle-income countries,0,1991,4.217.882
+Moldova,MDA,1991,1.585
+Mongolia,MNG,1991,6.42
+Montenegro,MNE,1991,28.849
+Morocco,MAR,1991,13.117
+Mozambique,MOZ,1991,1.728
+Myanmar,MMR,1991,846
+Namibia,NAM,1991,18.613
+Nepal,NPL,1991,1.721
+Netherlands,NLD,1991,9.901
+New Caledonia,NCL,1991,21.164
+New Zealand,NZL,1991,9.765
+Nicaragua,NIC,1991,7.555
+Niger,NER,1991,1.069
+Nigeria,NGA,1991,4.24
+North America (WB),0,1991,6.702.431
+North Korea,PRK,1991,2.459
+North Macedonia,MKD,1991,31.187
+Norway,NOR,1991,4.984
+Oman,OMN,1991,8.003
+Pakistan,PAK,1991,509
+Palestine,PSE,1991,9.822
+Panama,PAN,1991,5.486
+Papua New Guinea,PNG,1991,1.935
+Paraguay,PRY,1991,4.697
+Peru,PER,1991,4.899
+Philippines,PHL,1991,4.069
+Poland,POL,1991,14.384
+Portugal,PRT,1991,5.639
+Puerto Rico,PRI,1991,12.974
+Qatar,QAT,1991,2.77
+Romania,ROU,1991,7.685
+Russia,RUS,1991,5.394
+Rwanda,RWA,1991,149
+Saint Lucia,LCA,1991,23.012
+Saint Vincent and the Grenadines,VCT,1991,22.122
+Samoa,WSM,1991,2.494
+Sao Tome and Principe,STP,1991,17.553
+Saudi Arabia,SAU,1991,4.986
+Senegal,SEN,1991,7.431
+Serbia,SRB,1991,15.831
+Sierra Leone,SLE,1991,2.686
+Singapore,SGP,1991,2.186
+Slovakia,SVK,1991,11.258
+Slovenia,SVN,1991,5.944
+Solomon Islands,SLB,1991,1.237
+Somalia,SOM,1991,23.025
+South Africa,ZAF,1991,35.665
+South Asia (WB),0,1991,5.902.195
+South Korea,KOR,1991,1.985
+South Sudan,SSD,1991,12.926
+Spain,ESP,1991,23.31
+Sri Lanka,LKA,1991,22.758
+Sub-Saharan Africa (WB),0,1991,6.664.125
+Sudan,SDN,1991,19.793
+Suriname,SUR,1991,23.232
+Sweden,SWE,1991,2.947
+Switzerland,CHE,1991,2.524
+Syria,SYR,1991,13.896
+Tajikistan,TJK,1991,1.785
+Tanzania,TZA,1991,4.372
+Thailand,THA,1991,3.436
+Togo,TGO,1991,3.796
+Tonga,TON,1991,1.805
+Trinidad and Tobago,TTO,1991,23.353
+Tunisia,TUN,1991,17.654
+Turkey,TUR,1991,7.138
+Turkmenistan,TKM,1991,937
+Uganda,UGA,1991,573
+Ukraine,UKR,1991,1.69
+United Arab Emirates,ARE,1991,2.574
+United Kingdom,GBR,1991,7.401
+United States,USA,1991,6.36
+United States Virgin Islands,VIR,1991,14.367
+Upper-middle-income countries,0,1991,3.796.076
+Uruguay,URY,1991,11.631
+Uzbekistan,UZB,1991,2.163
+Vanuatu,VUT,1991,1.522
+Venezuela,VEN,1991,9.318
+Vietnam,VNM,1991,1.869
+World,OWID_WRL,1991,4.950.745
+Yemen,YEM,1991,4.215
+Zambia,ZMB,1991,22.106
+Zimbabwe,ZWE,1991,3.092
+Afghanistan,AFG,1992,13.816
+Albania,ALB,1992,27.106
+Algeria,DZA,1992,20.72
+Angola,AGO,1992,3.584
+Argentina,ARG,1992,6.708
+Armenia,ARM,1992,2.413
+Australia,AUS,1992,9.927
+Austria,AUT,1992,3.771
+Azerbaijan,AZE,1992,1.93
+Bahamas,BHS,1992,15.854
+Bahrain,BHR,1992,3.683
+Bangladesh,BGD,1992,2.141
+Barbados,BRB,1992,25.678
+Belarus,BLR,1992,2.582
+Belgium,BEL,1992,9.51
+Belize,BLZ,1992,14.235
+Benin,BEN,1992,0.58
+Bhutan,BTN,1992,1.519
+Bolivia,BOL,1992,3.015
+Bosnia and Herzegovina,BIH,1992,22.039
+Botswana,BWA,1992,18.997
+Brazil,BRA,1992,8.095
+Brunei,BRN,1992,6.829
+Bulgaria,BGR,1992,15.118
+Burkina Faso,BFA,1992,2.782
+Burundi,BDI,1992,1.289
+Cambodia,KHM,1992,1.217
+Cameroon,CMR,1992,6.344
+Canada,CAN,1992,10.195
+Cape Verde,CPV,1992,11.957
+Central African Republic,CAF,1992,6.3
+Chad,TCD,1992,287
+Channel Islands,OWID_CIS,1992,7.191
+Chile,CHL,1992,5.321
+China,CHN,1992,2.059
+Colombia,COL,1992,13.333
+Comoros,COM,1992,5.418
+Congo,COG,1992,21.318
+Costa Rica,CRI,1992,5.312
+Cote d'Ivoire,CIV,1992,7.205
+Croatia,HRV,1992,11.112
+Cuba,CUB,1992,12.854
+Cyprus,CYP,1992,2.238
+Czechia,CZE,1992,3.052
+Democratic Republic of Congo,COD,1992,2.519
+Denmark,DNK,1992,9.872
+Djibouti,DJI,1992,37.707
+Dominican Republic,DOM,1992,10.254
+East Asia and Pacific (WB),0,1992,22.230.558
+East Timor,TLS,1992,4.097
+Ecuador,ECU,1992,6.045
+Egypt,EGY,1992,16.984
+El Salvador,SLV,1992,7.083
+Equatorial Guinea,GNQ,1992,9.056
+Eritrea,ERI,1992,6.155
+Estonia,EST,1992,3.464
+Eswatini,SWZ,1992,23.282
+Ethiopia,ETH,1992,3.287
+Europe and Central Asia (WB),0,1992,811.139
+European Union (27),0,1992,11.200.047
+Fiji,FJI,1992,4.841
+Finland,FIN,1992,9.65
+France,FRA,1992,12.861
+French Polynesia,PYF,1992,13.682
+Gabon,GAB,1992,16.15
+Gambia,GMB,1992,11.543
+Georgia,GEO,1992,5.142
+Germany,DEU,1992,8.228
+Ghana,GHA,1992,5.634
+Greece,GRC,1992,13.05
+Guam,GUM,1992,3.699
+Guatemala,GTM,1992,3.29
+Guinea,GIN,1992,3.745
+Guinea-Bissau,GNB,1992,6.94
+Guyana,GUY,1992,15.127
+Haiti,HTI,1992,8.819
+High-income countries,0,1992,78.742.023
+Honduras,HND,1992,2.935
+Hong Kong,HKG,1992,1.891
+Hungary,HUN,1992,8.714
+Iceland,ISL,1992,4.907
+India,IND,1992,6.379
+Indonesia,IDN,1992,2.965
+Iran,IRN,1992,22.409
+Iraq,IRQ,1992,9.168
+Ireland,IRL,1992,15.306
+Israel,ISR,1992,17.108
+Italy,ITA,1992,13.898
+Jamaica,JAM,1992,23.035
+Japan,JPN,1992,2.261
+Jordan,JOR,1992,28.833
+Kazakhstan,KAZ,1992,1.136
+Kenya,KEN,1992,3.422
+Kuwait,KWT,1992,1.749
+Kyrgyzstan,KGZ,1992,1.228
+Laos,LAO,1992,2.515
+Latin America and Caribbean (WB),0,1992,76.476.383
+Latvia,LVA,1992,6.571
+Lebanon,LBN,1992,10.872
+Lesotho,LSO,1992,44.194
+Liberia,LBR,1992,2.348
+Libya,LBY,1992,26.81
+Lithuania,LTU,1992,1.188
+Low-income countries,0,1992,4.331.331
+Lower-middle-income countries,0,1992,49.513.106
+Luxembourg,LUX,1992,2.778
+Macao,MAC,1992,2.375
+Madagascar,MDG,1992,5.187
+Malawi,MWI,1992,6.571
+Malaysia,MYS,1992,4.398
+Maldives,MDV,1992,1.486
+Mali,MLI,1992,3.576
+Malta,MLT,1992,6.484
+Mauritania,MRT,1992,12.221
+Mauritius,MUS,1992,13.48
+Mexico,MEX,1992,4.185
+Middle East and North Africa (WB),0,1992,1.550.894
+Middle-income countries,0,1992,42.293.596
+Moldova,MDA,1992,3.074
+Mongolia,MNG,1992,6.44
+Montenegro,MNE,1992,29.104
+Morocco,MAR,1992,13.328
+Mozambique,MOZ,1992,1.73
+Myanmar,MMR,1992,745
+Namibia,NAM,1992,19.429
+Nepal,NPL,1992,1.663
+Netherlands,NLD,1992,7.795
+New Caledonia,NCL,1992,21.686
+New Zealand,NZL,1992,9.742
+Nicaragua,NIC,1992,7.578
+Niger,NER,1992,1.059
+Nigeria,NGA,1992,4.199
+North America (WB),0,1992,7.325.434
+North Korea,PRK,1992,2.465
+North Macedonia,MKD,1992,32.559
+Norway,NOR,1992,5.084
+Oman,OMN,1992,8.054
+Pakistan,PAK,1992,513
+Palestine,PSE,1992,9.493
+Panama,PAN,1992,5.497
+Papua New Guinea,PNG,1992,1.88
+Paraguay,PRY,1992,3.569
+Peru,PER,1992,5.025
+Philippines,PHL,1992,4.043
+Poland,POL,1992,15.141
+Portugal,PRT,1992,4.764
+Puerto Rico,PRI,1992,13.279
+Qatar,QAT,1992,2.814
+Romania,ROU,1992,7.851
+Russia,RUS,1992,5.17
+Rwanda,RWA,1992,181
+Saint Lucia,LCA,1992,22.807
+Saint Vincent and the Grenadines,VCT,1992,21.532
+Samoa,WSM,1992,2.84
+Sao Tome and Principe,STP,1992,17.598
+Saudi Arabia,SAU,1992,4.95
+Senegal,SEN,1992,7.468
+Serbia,SRB,1992,15.408
+Sierra Leone,SLE,1992,2.689
+Singapore,SGP,1992,3.184
+Slovakia,SVK,1992,11.524
+Slovenia,SVN,1992,06.09
+Solomon Islands,SLB,1992,1.164
+Somalia,SOM,1992,23.174
+South Africa,ZAF,1992,35.737
+South Asia (WB),0,1992,5.942.604
+South Korea,KOR,1992,2.132
+South Sudan,SSD,1992,12.965
+Spain,ESP,1992,25.252
+Sri Lanka,LKA,1992,22.573
+Sub-Saharan Africa (WB),0,1992,67.270.107
+Sudan,SDN,1992,19.8
+Suriname,SUR,1992,23.582
+Sweden,SWE,1992,4.616
+Switzerland,CHE,1992,3.531
+Syria,SYR,1992,10.124
+Tajikistan,TJK,1992,1.97
+Tanzania,TZA,1992,4.254
+Thailand,THA,1992,1.488
+Togo,TGO,1992,3.83
+Tonga,TON,1992,1.891
+Trinidad and Tobago,TTO,1992,23.997
+Tunisia,TUN,1992,17.5
+Turkey,TUR,1992,7.777
+Turkmenistan,TKM,1992,996
+Uganda,UGA,1992,654
+Ukraine,UKR,1992,1.685
+United Arab Emirates,ARE,1992,2.515
+United Kingdom,GBR,1992,7.434
+United States,USA,1992,7.003
+United States Virgin Islands,VIR,1992,14.51
+Upper-middle-income countries,0,1992,38.179.677
+Uruguay,URY,1992,11.973
+Uzbekistan,UZB,1992,3.307
+Vanuatu,VUT,1992,1.532
+Venezuela,VEN,1992,6.916
+Vietnam,VNM,1992,1.706
+World,OWID_WRL,1992,5.052.816
+Yemen,YEM,1992,4.096
+Zambia,ZMB,1992,21.432
+Zimbabwe,ZWE,1992,03.08
+Afghanistan,AFG,1993,13.712
+Albania,ALB,1993,23.031
+Algeria,DZA,1993,23.305
+Angola,AGO,1993,3.579
+Argentina,ARG,1993,12.53
+Armenia,ARM,1993,7.468
+Australia,AUS,1993,9.993
+Austria,AUT,1993,4.499
+Azerbaijan,AZE,1993,4.828
+Bahamas,BHS,1993,13.032
+Bahrain,BHR,1993,3.545
+Bangladesh,BGD,1993,2.12
+Barbados,BRB,1993,27.719
+Belarus,BLR,1993,7.048
+Belgium,BEL,1993,10.831
+Belize,BLZ,1993,14.379
+Benin,BEN,1993,561
+Bhutan,BTN,1993,1.474
+Bolivia,BOL,1993,2.86
+Bosnia and Herzegovina,BIH,1993,23.069
+Botswana,BWA,1993,21.008
+Brazil,BRA,1993,7.444
+Brunei,BRN,1993,6.689
+Bulgaria,BGR,1993,16.189
+Burkina Faso,BFA,1993,2.748
+Burundi,BDI,1993,1.301
+Cambodia,KHM,1993,1.298
+Cameroon,CMR,1993,6.444
+Canada,CAN,1993,10.681
+Cape Verde,CPV,1993,11.936
+Central African Republic,CAF,1993,6.323
+Chad,TCD,1993,285
+Channel Islands,OWID_CIS,1993,8.169
+Chile,CHL,1993,5.105
+China,CHN,1993,2.337
+Colombia,COL,1993,11.303
+Comoros,COM,1993,5.408
+Congo,COG,1993,21.332
+Costa Rica,CRI,1993,4.981
+Cote d'Ivoire,CIV,1993,6.275
+Croatia,HRV,1993,10.863
+Cuba,CUB,1993,13.336
+Cyprus,CYP,1993,4.19
+Czechia,CZE,1993,5.444
+Democratic Republic of Congo,COD,1993,2.504
+Denmark,DNK,1993,11.082
+Djibouti,DJI,1993,37.791
+Dominican Republic,DOM,1993,10.362
+East Asia and Pacific (WB),0,1993,24.585.302
+East Timor,TLS,1993,4.098
+Ecuador,ECU,1993,6.088
+Egypt,EGY,1993,22.279
+El Salvador,SLV,1993,6.818
+Equatorial Guinea,GNQ,1993,9.152
+Eritrea,ERI,1993,6.349
+Estonia,EST,1993,6.632
+Eswatini,SWZ,1993,23.253
+Ethiopia,ETH,1993,3.225
+Europe and Central Asia (WB),0,1993,9.211.627
+European Union (27),0,1993,12.623.898
+Fiji,FJI,1993,4.952
+Finland,FIN,1993,14.417
+France,FRA,1993,13.42
+French Polynesia,PYF,1993,13.724
+Gabon,GAB,1993,16.01
+Gambia,GMB,1993,11.636
+Georgia,GEO,1993,5.136
+Germany,DEU,1993,9.323
+Ghana,GHA,1993,6.151
+Greece,GRC,1993,13.787
+Guam,GUM,1993,5.153
+Guatemala,GTM,1993,3.324
+Guinea,GIN,1993,3.715
+Guinea-Bissau,GNB,1993,6.98
+Guyana,GUY,1993,15.082
+Haiti,HTI,1993,8.77
+High-income countries,0,1993,8.370.617
+Honduras,HND,1993,3.083
+Hong Kong,HKG,1993,1.941
+Hungary,HUN,1993,10.382
+Iceland,ISL,1993,5.603
+India,IND,1993,6.32
+Indonesia,IDN,1993,3.029
+Iran,IRN,1993,20.197
+Iraq,IRQ,1993,9.048
+Ireland,IRL,1993,15.842
+Israel,ISR,1993,14.868
+Italy,ITA,1993,14.854
+Jamaica,JAM,1993,22.654
+Japan,JPN,1993,2.62
+Jordan,JOR,1993,29.357
+Kazakhstan,KAZ,1993,1.263
+Kenya,KEN,1993,3.399
+Kuwait,KWT,1993,1.723
+Kyrgyzstan,KGZ,1993,3.8
+Laos,LAO,1993,2.549
+Latin America and Caribbean (WB),0,1993,7.634.945
+Latvia,LVA,1993,16.612
+Lebanon,LBN,1993,10.896
+Lesotho,LSO,1993,44.954
+Liberia,LBR,1993,2.313
+Libya,LBY,1993,26.739
+Lithuania,LTU,1993,13.654
+Low-income countries,0,1993,43.015.237
+Lower-middle-income countries,0,1993,50.705.185
+Luxembourg,LUX,1993,3.127
+Macao,MAC,1993,1.947
+Madagascar,MDG,1993,5.266
+Malawi,MWI,1993,6.498
+Malaysia,MYS,1993,4.885
+Maldives,MDV,1993,1.423
+Mali,MLI,1993,3.505
+Malta,MLT,1993,6.488
+Mauritania,MRT,1993,12.192
+Mauritius,MUS,1993,13.534
+Mexico,MEX,1993,4.016
+Middle East and North Africa (WB),0,1993,1.658.657
+Middle-income countries,0,1993,4.490.845
+Moldova,MDA,1993,3.056
+Mongolia,MNG,1993,6.29
+Montenegro,MNE,1993,29.41
+Morocco,MAR,1993,13.311
+Mozambique,MOZ,1993,1.667
+Myanmar,MMR,1993,784
+Namibia,NAM,1993,20.345
+Nepal,NPL,1993,1.655
+Netherlands,NLD,1993,7.688
+New Caledonia,NCL,1993,21.802
+New Zealand,NZL,1993,8.956
+Nicaragua,NIC,1993,7.633
+Niger,NER,1993,01.06
+Nigeria,NGA,1993,4.202
+North America (WB),0,1993,69.844.294
+North Korea,PRK,1993,2.579
+North Macedonia,MKD,1993,33.802
+Norway,NOR,1993,5.174
+Oman,OMN,1993,8.177
+Pakistan,PAK,1993,459
+Palestine,PSE,1993,9.356
+Panama,PAN,1993,5.524
+Papua New Guinea,PNG,1993,1.827
+Paraguay,PRY,1993,4.318
+Peru,PER,1993,4.804
+Philippines,PHL,1993,3.989
+Poland,POL,1993,16.104
+Portugal,PRT,1993,6.279
+Puerto Rico,PRI,1993,13.191
+Qatar,QAT,1993,2.848
+Romania,ROU,1993,8.433
+Russia,RUS,1993,5.817
+Rwanda,RWA,1993,222
+Saint Lucia,LCA,1993,22.927
+Saint Vincent and the Grenadines,VCT,1993,21.093
+Samoa,WSM,1993,3.145
+Sao Tome and Principe,STP,1993,17.625
+Saudi Arabia,SAU,1993,5.462
+Senegal,SEN,1993,7.489
+Serbia,SRB,1993,15.318
+Sierra Leone,SLE,1993,2.632
+Singapore,SGP,1993,3.407
+Slovakia,SVK,1993,11.822
+Slovenia,SVN,1993,6.406
+Solomon Islands,SLB,1993,1.303
+Somalia,SOM,1993,23.099
+South Africa,ZAF,1993,35.71
+South Asia (WB),0,1993,5.877.244
+South Korea,KOR,1993,2.252
+South Sudan,SSD,1993,13.006
+Spain,ESP,1993,28.757
+Sri Lanka,LKA,1993,21.887
+Sub-Saharan Africa (WB),0,1993,67.247.066
+Sudan,SDN,1993,19.812
+Suriname,SUR,1993,23.12
+Sweden,SWE,1993,7.647
+Switzerland,CHE,1993,4.574
+Syria,SYR,1993,6.428
+Tajikistan,TJK,1993,5.802
+Tanzania,TZA,1993,4.108
+Thailand,THA,1993,1.83
+Togo,TGO,1993,3.896
+Tonga,TON,1993,1.783
+Trinidad and Tobago,TTO,1993,23.411
+Tunisia,TUN,1993,17.632
+Turkey,TUR,1993,9.341
+Turkmenistan,TKM,1993,985
+Uganda,UGA,1993,1.004
+Ukraine,UKR,1993,1.769
+United Arab Emirates,ARE,1993,2.476
+United Kingdom,GBR,1993,7.758
+United States,USA,1993,6.571
+United States Virgin Islands,VIR,1993,14.548
+Upper-middle-income countries,0,1993,4.156.253
+Uruguay,URY,1993,11.025
+Uzbekistan,UZB,1993,5.594
+Vanuatu,VUT,1993,1.564
+Venezuela,VEN,1993,5.671
+Vietnam,VNM,1993,1.75
+World,OWID_WRL,1993,5.338.713
+Yemen,YEM,1993,3.993
+Zambia,ZMB,1993,20.603
+Zimbabwe,ZWE,1993,3.029
+Afghanistan,AFG,1994,13.722
+Albania,ALB,1994,18.939
+Algeria,DZA,1994,25.718
+Angola,AGO,1994,3.502
+Argentina,ARG,1994,13.902
+Armenia,ARM,1994,8.592
+Australia,AUS,1994,9.362
+Austria,AUT,1994,3.967
+Azerbaijan,AZE,1994,6.763
+Bahamas,BHS,1994,15.243
+Bahrain,BHR,1994,3.741
+Bangladesh,BGD,1994,2.098
+Barbados,BRB,1994,27.973
+Belarus,BLR,1994,10.569
+Belgium,BEL,1994,12.435
+Belize,BLZ,1994,15.706
+Benin,BEN,1994,555
+Bhutan,BTN,1994,1.479
+Bolivia,BOL,1994,2.835
+Bosnia and Herzegovina,BIH,1994,24.547
+Botswana,BWA,1994,22.987
+Brazil,BRA,1994,7.716
+Brunei,BRN,1994,6.855
+Bulgaria,BGR,1994,12.624
+Burkina Faso,BFA,1994,2.743
+Burundi,BDI,1994,1.289
+Cambodia,KHM,1994,2.143
+Cameroon,CMR,1994,6.415
+Canada,CAN,1994,9.8
+Cape Verde,CPV,1994,11.851
+Central African Republic,CAF,1994,6.34
+Chad,TCD,1994,295
+Channel Islands,OWID_CIS,1994,8.379
+Chile,CHL,1994,6.778
+China,CHN,1994,2.519
+Colombia,COL,1994,12.489
+Comoros,COM,1994,5.414
+Congo,COG,1994,21.353
+Costa Rica,CRI,1994,5.576
+Cote d'Ivoire,CIV,1994,5.34
+Croatia,HRV,1994,10.892
+Cuba,CUB,1994,13.201
+Cyprus,CYP,1994,3.891
+Czechia,CZE,1994,5.196
+Democratic Republic of Congo,COD,1994,2.465
+Denmark,DNK,1994,9.004
+Djibouti,DJI,1994,37.679
+Dominican Republic,DOM,1994,10.53
+East Asia and Pacific (WB),0,1994,27.450.838
+East Timor,TLS,1994,4.129
+Ecuador,ECU,1994,5.947
+Egypt,EGY,1994,22.726
+El Salvador,SLV,1994,6.415
+Equatorial Guinea,GNQ,1994,9.233
+Eritrea,ERI,1994,6.541
+Estonia,EST,1994,7.918
+Eswatini,SWZ,1994,23.229
+Ethiopia,ETH,1994,3.269
+Europe and Central Asia (WB),0,1994,1.028.543
+European Union (27),0,1994,13.331.332
+Fiji,FJI,1994,4.894
+Finland,FIN,1994,14.874
+France,FRA,1994,14.496
+French Polynesia,PYF,1994,13.652
+Gabon,GAB,1994,16.57
+Gambia,GMB,1994,11.728
+Georgia,GEO,1994,7.979
+Germany,DEU,1994,10.32
+Ghana,GHA,1994,6.696
+Greece,GRC,1994,13.829
+Guam,GUM,1994,6.917
+Guatemala,GTM,1994,3.325
+Guinea,GIN,1994,3.706
+Guinea-Bissau,GNB,1994,7.006
+Guyana,GUY,1994,15.081
+Haiti,HTI,1994,8.822
+High-income countries,0,1994,8.481.362
+Honduras,HND,1994,3.299
+Hong Kong,HKG,1994,1.701
+Hungary,HUN,1994,9.367
+Iceland,ISL,1994,5.543
+India,IND,1994,6.342
+Indonesia,IDN,1994,5.151
+Iran,IRN,1994,17.999
+Iraq,IRQ,1994,9.006
+Ireland,IRL,1994,14.707
+Israel,ISR,1994,12.342
+Italy,ITA,1994,15.325
+Jamaica,JAM,1994,22.055
+Japan,JPN,1994,03.02
+Jordan,JOR,1994,29.099
+Kazakhstan,KAZ,1994,8.596
+Kenya,KEN,1994,3.368
+Kuwait,KWT,1994,1.503
+Kyrgyzstan,KGZ,1994,5.255
+Laos,LAO,1994,2.474
+Latin America and Caribbean (WB),0,1994,8.281.051
+Latvia,LVA,1994,18.587
+Lebanon,LBN,1994,10.888
+Lesotho,LSO,1994,45.553
+Liberia,LBR,1994,2.288
+Libya,LBY,1994,26.579
+Lithuania,LTU,1994,13.643
+Low-income countries,0,1994,4.416.461
+Lower-middle-income countries,0,1994,53.904.004
+Luxembourg,LUX,1994,4.285
+Macao,MAC,1994,2.595
+Madagascar,MDG,1994,5.364
+Malawi,MWI,1994,6.633
+Malaysia,MYS,1994,4.353
+Maldives,MDV,1994,1.371
+Mali,MLI,1994,3.453
+Malta,MLT,1994,6.494
+Mauritania,MRT,1994,12.267
+Mauritius,MUS,1994,13.581
+Mexico,MEX,1994,5.007
+Middle East and North Africa (WB),0,1994,16.716.085
+Middle-income countries,0,1994,48.934.307
+Moldova,MDA,1994,4.773
+Mongolia,MNG,1994,6.165
+Montenegro,MNE,1994,30.512
+Morocco,MAR,1994,13.083
+Mozambique,MOZ,1994,1.652
+Myanmar,MMR,1994,775
+Namibia,NAM,1994,21.11
+Nepal,NPL,1994,1.763
+Netherlands,NLD,1994,8.047
+New Caledonia,NCL,1994,21.717
+New Zealand,NZL,1994,7.808
+Nicaragua,NIC,1994,7.582
+Niger,NER,1994,1.052
+Nigeria,NGA,1994,4.176
+North America (WB),0,1994,64.250.984
+North Korea,PRK,1994,2.713
+North Macedonia,MKD,1994,36.402
+Norway,NOR,1994,4.703
+Oman,OMN,1994,8.254
+Pakistan,PAK,1994,459
+Palestine,PSE,1994,9.132
+Panama,PAN,1994,5.507
+Papua New Guinea,PNG,1994,1.97
+Paraguay,PRY,1994,3.68
+Peru,PER,1994,4.552
+Philippines,PHL,1994,3.92
+Poland,POL,1994,16.473
+Portugal,PRT,1994,7.777
+Puerto Rico,PRI,1994,11.312
+Qatar,QAT,1994,2.884
+Romania,ROU,1994,8.745
+Russia,RUS,1994,7.951
+Rwanda,RWA,1994,264
+Saint Lucia,LCA,1994,23.04
+Saint Vincent and the Grenadines,VCT,1994,21.055
+Samoa,WSM,1994,3.636
+Sao Tome and Principe,STP,1994,17.637
+Saudi Arabia,SAU,1994,5.925
+Senegal,SEN,1994,7.525
+Serbia,SRB,1994,16.058
+Sierra Leone,SLE,1994,2.609
+Singapore,SGP,1994,3.447
+Slovakia,SVK,1994,14.093
+Slovenia,SVN,1994,6.944
+Solomon Islands,SLB,1994,1.261
+Somalia,SOM,1994,23.347
+South Africa,ZAF,1994,35.711
+South Asia (WB),0,1994,58.631.053
+South Korea,KOR,1994,1.926
+South Sudan,SSD,1994,13.04
+Spain,ESP,1994,31.612
+Sri Lanka,LKA,1994,20.518
+Sub-Saharan Africa (WB),0,1994,673.199
+Sudan,SDN,1994,19.807
+Suriname,SUR,1994,15.113
+Sweden,SWE,1994,8.137
+Switzerland,CHE,1994,4.42
+Syria,SYR,1994,11.806
+Tajikistan,TJK,1994,8.219
+Tanzania,TZA,1994,3.965
+Thailand,THA,1994,1.622
+Togo,TGO,1994,3.802
+Tonga,TON,1994,2.263
+Trinidad and Tobago,TTO,1994,22.243
+Tunisia,TUN,1994,17.562
+Turkey,TUR,1994,8.094
+Turkmenistan,TKM,1994,3.067
+Uganda,UGA,1994,1.377
+Ukraine,UKR,1994,1.765
+United Arab Emirates,ARE,1994,2.404
+United Kingdom,GBR,1994,7.405
+United States,USA,1994,6.054
+United States Virgin Islands,VIR,1994,14.35
+Upper-middle-income countries,0,1994,46.022.806
+Uruguay,URY,1994,11.993
+Uzbekistan,UZB,1994,8.349
+Vanuatu,VUT,1994,1.434
+Venezuela,VEN,1994,9.566
+Vietnam,VNM,1994,1.711
+World,OWID_WRL,1994,56.677.456
+Yemen,YEM,1994,3.874
+Zambia,ZMB,1994,19.203
+Zimbabwe,ZWE,1994,2.981
+Afghanistan,AFG,1995,14.235
+Albania,ALB,1995,14.122
+Algeria,DZA,1995,30.738
+Angola,AGO,1995,3.441
+Argentina,ARG,1995,22.168
+Armenia,ARM,1995,10.235
+Australia,AUS,1995,8.109
+Austria,AUT,1995,4.904
+Azerbaijan,AZE,1995,7.734
+Bahamas,BHS,1995,11.727
+Bahrain,BHR,1995,3.634
+Bangladesh,BGD,1995,2.135
+Barbados,BRB,1995,22.819
+Belarus,BLR,1995,14.549
+Belgium,BEL,1995,12.219
+Belize,BLZ,1995,17.963
+Benin,BEN,1995,534
+Bhutan,BTN,1995,1.476
+Bolivia,BOL,1995,2.573
+Bosnia and Herzegovina,BIH,1995,25.624
+Botswana,BWA,1995,23.529
+Brazil,BRA,1995,8.112
+Brunei,BRN,1995,6.958
+Bulgaria,BGR,1995,10.939
+Burkina Faso,BFA,1995,2.685
+Burundi,BDI,1995,1.292
+Cambodia,KHM,1995,1.274
+Cameroon,CMR,1995,6.463
+Canada,CAN,1995,9.112
+Cape Verde,CPV,1995,11.84
+Central African Republic,CAF,1995,6.334
+Chad,TCD,1995,316
+Channel Islands,OWID_CIS,1995,8.269
+Chile,CHL,1995,5.24
+China,CHN,1995,2.606
+Colombia,COL,1995,11.457
+Comoros,COM,1995,5.315
+Congo,COG,1995,21.257
+Costa Rica,CRI,1995,6.519
+Cote d'Ivoire,CIV,1995,4.379
+Croatia,HRV,1995,10.52
+Cuba,CUB,1995,13.432
+Cyprus,CYP,1995,3.73
+Czechia,CZE,1995,4.805
+Democratic Republic of Congo,COD,1995,2.435
+Denmark,DNK,1995,8.652
+Djibouti,DJI,1995,37.693
+Dominican Republic,DOM,1995,10.502
+East Asia and Pacific (WB),0,1995,28.153.396
+East Timor,TLS,1995,4.132
+Ecuador,ECU,1995,6.128
+Egypt,EGY,1995,23.629
+El Salvador,SLV,1995,5.869
+Equatorial Guinea,GNQ,1995,9.305
+Eritrea,ERI,1995,6.709
+Estonia,EST,1995,8.873
+Eswatini,SWZ,1995,23.164
+Ethiopia,ETH,1995,3.607
+Europe and Central Asia (WB),0,1995,10.732.268
+European Union (27),0,1995,13.024.647
+Fiji,FJI,1995,4.973
+Finland,FIN,1995,16.154
+France,FRA,1995,14.074
+French Polynesia,PYF,1995,13.654
+Gabon,GAB,1995,17.121
+Gambia,GMB,1995,11.783
+Georgia,GEO,1995,7.206
+Germany,DEU,1995,9.631
+Ghana,GHA,1995,7.219
+Greece,GRC,1995,13.952
+Guam,GUM,1995,7.063
+Guatemala,GTM,1995,3.299
+Guinea,GIN,1995,3.684
+Guinea-Bissau,GNB,1995,6.999
+Guyana,GUY,1995,15.119
+Haiti,HTI,1995,8.43
+High-income countries,0,1995,8.185.502
+Honduras,HND,1995,3.389
+Hong Kong,HKG,1995,2.937
+Hungary,HUN,1995,8.69
+Iceland,ISL,1995,4.912
+India,IND,1995,6.334
+Indonesia,IDN,1995,5.502
+Iran,IRN,1995,15.689
+Iraq,IRQ,1995,8.892
+Ireland,IRL,1995,12.067
+Israel,ISR,1995,10.732
+Italy,ITA,1995,16.124
+Jamaica,JAM,1995,22.659
+Japan,JPN,1995,3.261
+Jordan,JOR,1995,28.659
+Kazakhstan,KAZ,1995,12.537
+Kenya,KEN,1995,3.34
+Kuwait,KWT,1995,1.509
+Kyrgyzstan,KGZ,1995,6.267
+Laos,LAO,1995,2.6
+Latin America and Caribbean (WB),0,1995,96.965.885
+Latvia,LVA,1995,18.877
+Lebanon,LBN,1995,10.867
+Lesotho,LSO,1995,46.248
+Liberia,LBR,1995,2.233
+Libya,LBY,1995,26.685
+Lithuania,LTU,1995,17.324
+Low-income countries,0,1995,4.503.196
+Lower-middle-income countries,0,1995,5.578.268
+Luxembourg,LUX,1995,4.376
+Macao,MAC,1995,2.959
+Madagascar,MDG,1995,5.435
+Malawi,MWI,1995,6.505
+Malaysia,MYS,1995,3.763
+Maldives,MDV,1995,1.314
+Mali,MLI,1995,3.413
+Malta,MLT,1995,6.501
+Mauritania,MRT,1995,12.167
+Mauritius,MUS,1995,13.611
+Mexico,MEX,1995,8.874
+Middle East and North Africa (WB),0,1995,16.972.265
+Middle-income countries,0,1995,52.235.374
+Moldova,MDA,1995,4.334
+Mongolia,MNG,1995,6.068
+Montenegro,MNE,1995,31.526
+Morocco,MAR,1995,13.427
+Mozambique,MOZ,1995,1.637
+Myanmar,MMR,1995,785
+Namibia,NAM,1995,22.675
+Nepal,NPL,1995,1.643
+Netherlands,NLD,1995,8.657
+New Caledonia,NCL,1995,21.501
+New Zealand,NZL,1995,6.488
+Nicaragua,NIC,1995,7.557
+Niger,NER,1995,1.046
+Nigeria,NGA,1995,4.143
+North America (WB),0,1995,6.011.683
+North Korea,PRK,1995,2.718
+North Macedonia,MKD,1995,41.508
+Norway,NOR,1995,6.332
+Oman,OMN,1995,8.233
+Pakistan,PAK,1995,451
+Palestine,PSE,1995,8.973
+Panama,PAN,1995,5.424
+Papua New Guinea,PNG,1995,02.09
+Paraguay,PRY,1995,3.785
+Peru,PER,1995,4.741
+Philippines,PHL,1995,3.918
+Poland,POL,1995,15.162
+Portugal,PRT,1995,7.78
+Puerto Rico,PRI,1995,10.703
+Qatar,QAT,1995,2.918
+Romania,ROU,1995,8.59
+Russia,RUS,1995,9.197
+Rwanda,RWA,1995,295
+Saint Lucia,LCA,1995,21.066
+Saint Vincent and the Grenadines,VCT,1995,20.386
+Samoa,WSM,1995,3.834
+Sao Tome and Principe,STP,1995,17.67
+Saudi Arabia,SAU,1995,6.4
+Senegal,SEN,1995,7.481
+Serbia,SRB,1995,16.104
+Sierra Leone,SLE,1995,2.589
+Singapore,SGP,1995,3.449
+Slovakia,SVK,1995,13.789
+Slovenia,SVN,1995,6.843
+Solomon Islands,SLB,1995,1.252
+Somalia,SOM,1995,23.194
+South Africa,ZAF,1995,35.753
+South Asia (WB),0,1995,58.391.137
+South Korea,KOR,1995,1.68
+South Sudan,SSD,1995,13.025
+Spain,ESP,1995,30.547
+Sri Lanka,LKA,1995,19.315
+Sub-Saharan Africa (WB),0,1995,67.611.055
+Sudan,SDN,1995,19.694
+Suriname,SUR,1995,10.974
+Sweden,SWE,1995,7.863
+Switzerland,CHE,1995,3.923
+Syria,SYR,1995,13.999
+Tajikistan,TJK,1995,9.599
+Tanzania,TZA,1995,3.804
+Thailand,THA,1995,1.342
+Togo,TGO,1995,3.852
+Tonga,TON,1995,2.716
+Trinidad and Tobago,TTO,1995,20.582
+Tunisia,TUN,1995,17.536
+Turkey,TUR,1995,7.33
+Turkmenistan,TKM,1995,5.363
+Uganda,UGA,1995,1.721
+Ukraine,UKR,1995,4.942
+United Arab Emirates,ARE,1995,2.359
+United Kingdom,GBR,1995,6.923
+United States,USA,1995,5.672
+United States Virgin Islands,VIR,1995,13.876
+Upper-middle-income countries,0,1995,50.149.903
+Uruguay,URY,1995,13.023
+Uzbekistan,UZB,1995,8.935
+Vanuatu,VUT,1995,1.561
+Venezuela,VEN,1995,12.616
+Vietnam,VNM,1995,1.677
+World,OWID_WRL,1995,5.851.072
+Yemen,YEM,1995,4.729
+Zambia,ZMB,1995,17.457
+Zimbabwe,ZWE,1995,3.673
+Afghanistan,AFG,1996,140000
+Albania,ALB,1996,12.937
+Algeria,DZA,1996,28.506
+Angola,AGO,1996,3.404
+Argentina,ARG,1996,19.174
+Armenia,ARM,1996,14.865
+Australia,AUS,1996,8.242
+Austria,AUT,1996,5.206
+Azerbaijan,AZE,1996,8.706
+Bahamas,BHS,1996,14.645
+Bahrain,BHR,1996,3.59
+Bangladesh,BGD,1996,2.12
+Barbados,BRB,1996,17.815
+Belarus,BLR,1996,19.937
+Belgium,BEL,1996,12.405
+Belize,BLZ,1996,18.544
+Benin,BEN,1996,523
+Bhutan,BTN,1996,1.441
+Bolivia,BOL,1996,2.324
+Bosnia and Herzegovina,BIH,1996,26.632
+Botswana,BWA,1996,24.128
+Brazil,BRA,1996,9.565
+Brunei,BRN,1996,6.931
+Bulgaria,BGR,1996,12.307
+Burkina Faso,BFA,1996,2.624
+Burundi,BDI,1996,1.284
+Cambodia,KHM,1996,1.376
+Cameroon,CMR,1996,6.517
+Canada,CAN,1996,9.292
+Cape Verde,CPV,1996,11.816
+Central African Republic,CAF,1996,6.405
+Chad,TCD,1996,334
+Channel Islands,OWID_CIS,1996,8.208
+Chile,CHL,1996,9.966
+China,CHN,1996,2.71
+Colombia,COL,1996,15.091
+Comoros,COM,1996,5.299
+Congo,COG,1996,21.238
+Costa Rica,CRI,1996,8.24
+Cote d'Ivoire,CIV,1996,4.361
+Croatia,HRV,1996,10.107
+Cuba,CUB,1996,12.62
+Cyprus,CYP,1996,4.349
+Czechia,CZE,1996,4.657
+Democratic Republic of Congo,COD,1996,2.417
+Denmark,DNK,1996,8.384
+Djibouti,DJI,1996,37.665
+Dominican Republic,DOM,1996,10.538
+East Asia and Pacific (WB),0,1996,290.975
+East Timor,TLS,1996,4.116
+Ecuador,ECU,1996,6.202
+Egypt,EGY,1996,18.477
+El Salvador,SLV,1996,6.474
+Equatorial Guinea,GNQ,1996,9.41
+Eritrea,ERI,1996,6.775
+Estonia,EST,1996,9.238
+Eswatini,SWZ,1996,24.455
+Ethiopia,ETH,1996,3.928
+Europe and Central Asia (WB),0,1996,11.075.883
+European Union (27),0,1996,12.956.916
+Fiji,FJI,1996,4.93
+Finland,FIN,1996,15.554
+France,FRA,1996,14.505
+French Polynesia,PYF,1996,13.647
+Gabon,GAB,1996,17.704
+Gambia,GMB,1996,11.828
+Georgia,GEO,1996,10.883
+Germany,DEU,1996,9.587
+Ghana,GHA,1996,7.748
+Greece,GRC,1996,15.693
+Guam,GUM,1996,7.304
+Guatemala,GTM,1996,3.369
+Guinea,GIN,1996,3.667
+Guinea-Bissau,GNB,1996,7.084
+Guyana,GUY,1996,15.105
+Haiti,HTI,1996,8.465
+High-income countries,0,1996,809.854
+Honduras,HND,1996,4.415
+Hong Kong,HKG,1996,2.386
+Hungary,HUN,1996,9.026
+Iceland,ISL,1996,3.45
+India,IND,1996,6.295
+Indonesia,IDN,1996,5.894
+Iran,IRN,1996,13.414
+Iraq,IRQ,1996,8.722
+Ireland,IRL,1996,11.781
+Israel,ISR,1996,9.689
+Italy,ITA,1996,16.235
+Jamaica,JAM,1996,23.245
+Japan,JPN,1996,3.34
+Jordan,JOR,1996,23.485
+Kazakhstan,KAZ,1996,14.819
+Kenya,KEN,1996,3.325
+Kuwait,KWT,1996,1.503
+Kyrgyzstan,KGZ,1996,8.183
+Laos,LAO,1996,2.491
+Latin America and Caribbean (WB),0,1996,10.312.007
+Latvia,LVA,1996,20.554
+Lebanon,LBN,1996,10.777
+Lesotho,LSO,1996,46.684
+Liberia,LBR,1996,2.181
+Libya,LBY,1996,26.398
+Lithuania,LTU,1996,16.186
+Low-income countries,0,1996,45.528.665
+Lower-middle-income countries,0,1996,56.568.856
+Luxembourg,LUX,1996,4.652
+Macao,MAC,1996,3.623
+Madagascar,MDG,1996,5.518
+Malawi,MWI,1996,6.58
+Malaysia,MYS,1996,2.604
+Maldives,MDV,1996,1.607
+Mali,MLI,1996,3.343
+Malta,MLT,1996,6.506
+Mauritania,MRT,1996,12.205
+Mauritius,MUS,1996,13.252
+Mexico,MEX,1996,7.091
+Middle East and North Africa (WB),0,1996,14.922.615
+Middle-income countries,0,1996,5.364.934
+Moldova,MDA,1996,6.428
+Mongolia,MNG,1996,6.173
+Montenegro,MNE,1996,32.014
+Morocco,MAR,1996,13.051
+Mozambique,MOZ,1996,1.59
+Myanmar,MMR,1996,795
+Namibia,NAM,1996,24.282
+Nepal,NPL,1996,1.686
+Netherlands,NLD,1996,8.107
+New Caledonia,NCL,1996,22.137
+New Zealand,NZL,1996,6.251
+Nicaragua,NIC,1996,7.574
+Niger,NER,1996,1.047
+Nigeria,NGA,1996,4.1
+North America (WB),0,1996,58.422.174
+North Korea,PRK,1996,2.764
+North Macedonia,MKD,1996,44.581
+Norway,NOR,1996,5.347
+Oman,OMN,1996,8.224
+Pakistan,PAK,1996,437
+Palestine,PSE,1996,8.797
+Panama,PAN,1996,5.412
+Papua New Guinea,PNG,1996,1.943
+Paraguay,PRY,1996,8.642
+Peru,PER,1996,4.933
+Philippines,PHL,1996,3.887
+Poland,POL,1996,14.349
+Portugal,PRT,1996,8.45
+Puerto Rico,PRI,1996,11.586
+Qatar,QAT,1996,2.962
+Romania,ROU,1996,7.322
+Russia,RUS,1996,9.302
+Rwanda,RWA,1996,338
+Saint Lucia,LCA,1996,19.628
+Saint Vincent and the Grenadines,VCT,1996,20.284
+Samoa,WSM,1996,4.194
+Sao Tome and Principe,STP,1996,17.709
+Saudi Arabia,SAU,1996,6.84
+Senegal,SEN,1996,7.54
+Serbia,SRB,1996,15.628
+Sierra Leone,SLE,1996,2.546
+Singapore,SGP,1996,3.873
+Slovakia,SVK,1996,12.675
+Slovenia,SVN,1996,6.652
+Solomon Islands,SLB,1996,1.403
+Somalia,SOM,1996,23.213
+South Africa,ZAF,1996,35.775
+South Asia (WB),0,1996,5.748.307
+South Korea,KOR,1996,1.586
+South Sudan,SSD,1996,13.04
+Spain,ESP,1996,29.541
+Sri Lanka,LKA,1996,17.796
+Sub-Saharan Africa (WB),0,1996,68.130.946
+Sudan,SDN,1996,19.643
+Suriname,SUR,1996,16.775
+Sweden,SWE,1996,8.58
+Switzerland,CHE,1996,4.089
+Syria,SYR,1996,14.401
+Tajikistan,TJK,1996,12.463
+Tanzania,TZA,1996,3.656
+Thailand,THA,1996,1.119
+Togo,TGO,1996,3.871
+Tonga,TON,1996,3.431
+Trinidad and Tobago,TTO,1996,20.948
+Tunisia,TUN,1996,17.341
+Turkey,TUR,1996,5.974
+Turkmenistan,TKM,1996,6.574
+Uganda,UGA,1996,2.105
+Ukraine,UKR,1996,7.279
+United Arab Emirates,ARE,1996,2.436
+United Kingdom,GBR,1996,6.336
+United States,USA,1996,5.466
+United States Virgin Islands,VIR,1996,14.251
+Upper-middle-income countries,0,1996,51.912.723
+Uruguay,URY,1996,15.646
+Uzbekistan,UZB,1996,12.28
+Vanuatu,VUT,1996,1.54
+Venezuela,VEN,1996,14.371
+Vietnam,VNM,1996,1.697
+World,OWID_WRL,1996,5.939.836
+Yemen,YEM,1996,5.59
+Zambia,ZMB,1996,15.827
+Zimbabwe,ZWE,1996,4.333
+Afghanistan,AFG,1997,13.805
+Albania,ALB,1997,15.745
+Algeria,DZA,1997,26.167
+Angola,AGO,1997,3.374
+Argentina,ARG,1997,17.603
+Armenia,ARM,1997,17.123
+Australia,AUS,1997,8.069
+Austria,AUT,1997,5.269
+Azerbaijan,AZE,1997,9.789
+Bahamas,BHS,1997,11.327
+Bahrain,BHR,1997,3.568
+Bangladesh,BGD,1997,2.409
+Barbados,BRB,1997,18.013
+Belarus,BLR,1997,13.885
+Belgium,BEL,1997,11.556
+Belize,BLZ,1997,20.499
+Benin,BEN,1997,506
+Bhutan,BTN,1997,1.417
+Bolivia,BOL,1997,2.034
+Bosnia and Herzegovina,BIH,1997,27.461
+Botswana,BWA,1997,23.839
+Brazil,BRA,1997,10.877
+Brunei,BRN,1997,6.785
+Bulgaria,BGR,1997,13.488
+Burkina Faso,BFA,1997,2.617
+Burundi,BDI,1997,1.261
+Cambodia,KHM,1997,1.403
+Cameroon,CMR,1997,6.546
+Canada,CAN,1997,8.92
+Cape Verde,CPV,1997,11.778
+Central African Republic,CAF,1997,6.452
+Chad,TCD,1997,352
+Channel Islands,OWID_CIS,1997,7.97
+Chile,CHL,1997,9.574
+China,CHN,1997,2.806
+Colombia,COL,1997,15.286
+Comoros,COM,1997,5.221
+Congo,COG,1997,21.264
+Costa Rica,CRI,1997,7.34
+Cote d'Ivoire,CIV,1997,4.367
+Croatia,HRV,1997,10.145
+Cuba,CUB,1997,11.399
+Cyprus,CYP,1997,4.502
+Czechia,CZE,1997,5.125
+Democratic Republic of Congo,COD,1997,2.405
+Denmark,DNK,1997,6.437
+Djibouti,DJI,1997,37.607
+Dominican Republic,DOM,1997,10.494
+East Asia and Pacific (WB),0,1997,29.968.016
+East Timor,TLS,1997,4.185
+Ecuador,ECU,1997,6.046
+Egypt,EGY,1997,19.698
+El Salvador,SLV,1997,5.321
+Equatorial Guinea,GNQ,1997,9.474
+Eritrea,ERI,1997,6.803
+Estonia,EST,1997,9.535
+Eswatini,SWZ,1997,25.729
+Ethiopia,ETH,1997,4.311
+Europe and Central Asia (WB),0,1997,11.427.326
+European Union (27),0,1997,1.268.547
+Fiji,FJI,1997,5.121
+Finland,FIN,1997,15.181
+France,FRA,1997,14.438
+French Polynesia,PYF,1997,13.503
+Gabon,GAB,1997,18.258
+Gambia,GMB,1997,11.858
+Georgia,GEO,1997,10.863
+Germany,DEU,1997,10.584
+Ghana,GHA,1997,8.29
+Greece,GRC,1997,15.07
+Guam,GUM,1997,8.441
+Guatemala,GTM,1997,3.328
+Guinea,GIN,1997,3.643
+Guinea-Bissau,GNB,1997,7.132
+Guyana,GUY,1997,15.138
+Haiti,HTI,1997,8.434
+High-income countries,0,1997,7.838.571
+Honduras,HND,1997,3.32
+Hong Kong,HKG,1997,2.074
+Hungary,HUN,1997,7.856
+Iceland,ISL,1997,3.817
+India,IND,1997,6.15
+Indonesia,IDN,1997,5.645
+Iran,IRN,1997,14.979
+Iraq,IRQ,1997,8.546
+Ireland,IRL,1997,10.157
+Israel,ISR,1997,10.893
+Italy,ITA,1997,16.405
+Jamaica,JAM,1997,23.544
+Japan,JPN,1997,3.4
+Jordan,JOR,1997,22.773
+Kazakhstan,KAZ,1997,14.903
+Kenya,KEN,1997,3.332
+Kuwait,KWT,1997,1.503
+Kyrgyzstan,KGZ,1997,8.427
+Laos,LAO,1997,2.376
+Latin America and Caribbean (WB),0,1997,10.367.832
+Latvia,LVA,1997,14.787
+Lebanon,LBN,1997,10.852
+Lesotho,LSO,1997,47.183
+Liberia,LBR,1997,2.178
+Libya,LBY,1997,26.355
+Lithuania,LTU,1997,13.935
+Low-income countries,0,1997,45.977.397
+Lower-middle-income countries,0,1997,5.703.277
+Luxembourg,LUX,1997,3.631
+Macao,MAC,1997,2.634
+Madagascar,MDG,1997,5.595
+Malawi,MWI,1997,6.623
+Malaysia,MYS,1997,2.834
+Maldives,MDV,1997,1.898
+Mali,MLI,1997,3.3
+Malta,MLT,1997,6.511
+Mauritania,MRT,1997,12.292
+Mauritius,MUS,1997,12.907
+Mexico,MEX,1997,6.383
+Middle East and North Africa (WB),0,1997,1.540.893
+Middle-income countries,0,1997,55.440.173
+Moldova,MDA,1997,6.391
+Mongolia,MNG,1997,6.138
+Montenegro,MNE,1997,32.14
+Morocco,MAR,1997,13.347
+Mozambique,MOZ,1997,1.563
+Myanmar,MMR,1997,808
+Namibia,NAM,1997,25.865
+Nepal,NPL,1997,1.677
+Netherlands,NLD,1997,7.137
+New Caledonia,NCL,1997,21.655
+New Zealand,NZL,1997,6.866
+Nicaragua,NIC,1997,7.658
+Niger,NER,1997,1.038
+Nigeria,NGA,1997,4.079
+North America (WB),0,1997,54.482.656
+North Korea,PRK,1997,2.845
+North Macedonia,MKD,1997,40.802
+Norway,NOR,1997,5.029
+Oman,OMN,1997,8.108
+Pakistan,PAK,1997,403
+Palestine,PSE,1997,8.546
+Panama,PAN,1997,5.397
+Papua New Guinea,PNG,1997,2.092
+Paraguay,PRY,1997,6.791
+Peru,PER,1997,4.798
+Philippines,PHL,1997,3.917
+Poland,POL,1997,12.997
+Portugal,PRT,1997,7.504
+Puerto Rico,PRI,1997,12.154
+Qatar,QAT,1997,3.036
+Romania,ROU,1997,5.89
+Russia,RUS,1997,11.448
+Rwanda,RWA,1997,0.39
+Saint Lucia,LCA,1997,24.069
+Saint Vincent and the Grenadines,VCT,1997,19.874
+Samoa,WSM,1997,4.726
+Sao Tome and Principe,STP,1997,17.745
+Saudi Arabia,SAU,1997,7.298
+Senegal,SEN,1997,7.546
+Serbia,SRB,1997,15.983
+Sierra Leone,SLE,1997,2.527
+Singapore,SGP,1997,2.605
+Slovakia,SVK,1997,12.839
+Slovenia,SVN,1997,6.955
+Solomon Islands,SLB,1997,1.469
+Somalia,SOM,1997,23.334
+South Africa,ZAF,1997,35.858
+South Asia (WB),0,1997,5.596.928
+South Korea,KOR,1997,2.305
+South Sudan,SSD,1997,13.026
+Spain,ESP,1997,28.01
+Sri Lanka,LKA,1997,16.454
+Sub-Saharan Africa (WB),0,1997,6.864.415
+Sudan,SDN,1997,19.582
+Suriname,SUR,1997,16.239
+Sweden,SWE,1997,9.682
+Switzerland,CHE,1997,3.986
+Syria,SYR,1997,14.804
+Tajikistan,TJK,1997,12.895
+Tanzania,TZA,1997,3.53
+Thailand,THA,1997,897
+Togo,TGO,1997,3.873
+Tonga,TON,1997,4.011
+Trinidad and Tobago,TTO,1997,19.338
+Tunisia,TUN,1997,17.339
+Turkey,TUR,1997,7.791
+Turkmenistan,TKM,1997,6.965
+Uganda,UGA,1997,2.51
+Ukraine,UKR,1997,8.4
+United Arab Emirates,ARE,1997,2.501
+United Kingdom,GBR,1997,5.81
+United States,USA,1997,5.071
+United States Virgin Islands,VIR,1997,14.103
+Upper-middle-income countries,0,1997,5.448.811
+Uruguay,URY,1997,15.055
+Uzbekistan,UZB,1997,12.536
+Vanuatu,VUT,1997,1.5
+Venezuela,VEN,1997,13.629
+Vietnam,VNM,1997,2.544
+World,OWID_WRL,1997,6.011.227
+Yemen,YEM,1997,6.446
+Zambia,ZMB,1997,13.645
+Zimbabwe,ZWE,1997,05.03
+Afghanistan,AFG,1998,13.833
+Albania,ALB,1998,19.778
+Algeria,DZA,1998,27.177
+Angola,AGO,1998,3.338
+Argentina,ARG,1998,14.016
+Armenia,ARM,1998,13.657
+Australia,AUS,1998,7.333
+Austria,AUT,1998,5.588
+Azerbaijan,AZE,1998,10.767
+Bahamas,BHS,1998,9.798
+Bahrain,BHR,1998,3.506
+Bangladesh,BGD,1998,2.727
+Barbados,BRB,1998,16.543
+Belarus,BLR,1998,11.305
+Belgium,BEL,1998,11.701
+Belize,BLZ,1998,21.525
+Benin,BEN,1998,494
+Bhutan,BTN,1998,1.4
+Bolivia,BOL,1998,2.159
+Bosnia and Herzegovina,BIH,1998,28.33
+Botswana,BWA,1998,23.669
+Brazil,BRA,1998,12.599
+Brunei,BRN,1998,6.867
+Bulgaria,BGR,1998,11.774
+Burkina Faso,BFA,1998,2.582
+Burundi,BDI,1998,1.237
+Cambodia,KHM,1998,1.385
+Cameroon,CMR,1998,6.589
+Canada,CAN,1998,7.992
+Cape Verde,CPV,1998,11.731
+Central African Republic,CAF,1998,6.408
+Chad,TCD,1998,0.37
+Channel Islands,OWID_CIS,1998,7.573
+Chile,CHL,1998,9.324
+China,CHN,1998,2.815
+Colombia,COL,1998,18.287
+Comoros,COM,1998,5.19
+Congo,COG,1998,21.213
+Costa Rica,CRI,1998,7.569
+Cote d'Ivoire,CIV,1998,4.345
+Croatia,HRV,1998,12.076
+Cuba,CUB,1998,9.525
+Cyprus,CYP,1998,4.137
+Czechia,CZE,1998,7.557
+Democratic Republic of Congo,COD,1998,2.375
+Denmark,DNK,1998,6.405
+Djibouti,DJI,1998,37.571
+Dominican Republic,DOM,1998,10.581
+East Asia and Pacific (WB),0,1998,32.190.425
+East Timor,TLS,1998,4.25
+Ecuador,ECU,1998,6.122
+Egypt,EGY,1998,19.508
+El Salvador,SLV,1998,5.777
+Equatorial Guinea,GNQ,1998,9.432
+Eritrea,ERI,1998,6.732
+Estonia,EST,1998,8.504
+Eswatini,SWZ,1998,26.305
+Ethiopia,ETH,1998,4.687
+Europe and Central Asia (WB),0,1998,11.689.161
+European Union (27),0,1998,12.274.179
+Fiji,FJI,1998,5.045
+Finland,FIN,1998,13.579
+France,FRA,1998,14.116
+French Polynesia,PYF,1998,13.165
+Gabon,GAB,1998,18.864
+Gambia,GMB,1998,11.93
+Georgia,GEO,1998,13.704
+Germany,DEU,1998,10.439
+Ghana,GHA,1998,8.823
+Greece,GRC,1998,16.797
+Guam,GUM,1998,6.7
+Guatemala,GTM,1998,3.311
+Guinea,GIN,1998,3.635
+Guinea-Bissau,GNB,1998,7.079
+Guyana,GUY,1998,15.23
+Haiti,HTI,1998,8.388
+High-income countries,0,1998,77.179.623
+Honduras,HND,1998,4.35
+Hong Kong,HKG,1998,4.023
+Hungary,HUN,1998,8.096
+Iceland,ISL,1998,3.806
+India,IND,1998,6.176
+Indonesia,IDN,1998,6.126
+Iran,IRN,1998,16.42
+Iraq,IRQ,1998,8.435
+Ireland,IRL,1998,7.339
+Israel,ISR,1998,11.211
+Italy,ITA,1998,16.544
+Jamaica,JAM,1998,22.203
+Japan,JPN,1998,3.982
+Jordan,JOR,1998,22.098
+Kazakhstan,KAZ,1998,15.07
+Kenya,KEN,1998,3.298
+Kuwait,KWT,1998,1.502
+Kyrgyzstan,KGZ,1998,10.022
+Laos,LAO,1998,2.415
+Latin America and Caribbean (WB),0,1998,10.642.859
+Latvia,LVA,1998,13.499
+Lebanon,LBN,1998,10.639
+Lesotho,LSO,1998,45.865
+Liberia,LBR,1998,2.174
+Libya,LBY,1998,26.268
+Lithuania,LTU,1998,11.859
+Low-income countries,0,1998,4.691.672
+Lower-middle-income countries,0,1998,5.908.306
+Luxembourg,LUX,1998,4.133
+Macao,MAC,1998,3.32
+Madagascar,MDG,1998,5.686
+Malawi,MWI,1998,6.646
+Malaysia,MYS,1998,3.309
+Maldives,MDV,1998,2.181
+Mali,MLI,1998,4.342
+Malta,MLT,1998,6.517
+Mauritania,MRT,1998,12.244
+Mauritius,MUS,1998,12.56
+Mexico,MEX,1998,5.105
+Middle East and North Africa (WB),0,1998,15.591.983
+Middle-income countries,0,1998,57.725.024
+Moldova,MDA,1998,08.05
+Mongolia,MNG,1998,6.157
+Montenegro,MNE,1998,32.399
+Morocco,MAR,1998,13.163
+Mozambique,MOZ,1998,1.675
+Myanmar,MMR,1998,811
+Namibia,NAM,1998,24.473
+Nepal,NPL,1998,1.628
+Netherlands,NLD,1998,5.797
+New Caledonia,NCL,1998,21.834
+New Zealand,NZL,1998,7.616
+Nicaragua,NIC,1998,7.692
+Niger,NER,1998,1.013
+Nigeria,NGA,1998,4.054
+North America (WB),0,1998,49.518.747
+North Korea,PRK,1998,2.965
+North Macedonia,MKD,1998,37.639
+Norway,NOR,1998,4.023
+Oman,OMN,1998,8.097
+Pakistan,PAK,1998,399
+Palestine,PSE,1998,8.354
+Panama,PAN,1998,5.409
+Papua New Guinea,PNG,1998,2.088
+Paraguay,PRY,1998,5.075
+Peru,PER,1998,5.094
+Philippines,PHL,1998,4.12
+Poland,POL,1998,11.827
+Portugal,PRT,1998,5.692
+Puerto Rico,PRI,1998,11.984
+Qatar,QAT,1998,3.095
+Romania,ROU,1998,5.469
+Russia,RUS,1998,12.952
+Rwanda,RWA,1998,448
+Saint Lucia,LCA,1998,26.32
+Saint Vincent and the Grenadines,VCT,1998,19.528
+Samoa,WSM,1998,5.073
+Sao Tome and Principe,STP,1998,17.744
+Saudi Arabia,SAU,1998,7.698
+Senegal,SEN,1998,7.531
+Serbia,SRB,1998,16.128
+Sierra Leone,SLE,1998,2.488
+Singapore,SGP,1998,3.697
+Slovakia,SVK,1998,12.548
+Slovenia,SVN,1998,7.47
+Solomon Islands,SLB,1998,1.452
+Somalia,SOM,1998,23.341
+South Africa,ZAF,1998,35.948
+South Asia (WB),0,1998,5.602.666
+South Korea,KOR,1998,5.649
+South Sudan,SSD,1998,13.079
+Spain,ESP,1998,26.63
+Sri Lanka,LKA,1998,13.737
+Sub-Saharan Africa (WB),0,1998,68.923.497
+Sudan,SDN,1998,19.656
+Suriname,SUR,1998,17.1
+Sweden,SWE,1998,8.037
+Switzerland,CHE,1998,4.141
+Syria,SYR,1998,15.12
+Tajikistan,TJK,1998,15.272
+Tanzania,TZA,1998,3.39
+Thailand,THA,1998,3.395
+Togo,TGO,1998,3.964
+Tonga,TON,1998,4.517
+Trinidad and Tobago,TTO,1998,18.757
+Tunisia,TUN,1998,16.984
+Turkey,TUR,1998,6.812
+Turkmenistan,TKM,1998,7.623
+Uganda,UGA,1998,2.891
+Ukraine,UKR,1998,10.777
+United Arab Emirates,ARE,1998,2.614
+United Kingdom,GBR,1998,5.356
+United States,USA,1998,4.618
+United States Virgin Islands,VIR,1998,13.938
+Upper-middle-income countries,0,1998,5.690.123
+Uruguay,URY,1998,12.323
+Uzbekistan,UZB,1998,15.333
+Vanuatu,VUT,1998,1.561
+Venezuela,VEN,1998,13.318
+Vietnam,VNM,1998,2.157
+World,OWID_WRL,1998,6.149.793
+Yemen,YEM,1998,7.3
+Zambia,ZMB,1998,11.493
+Zimbabwe,ZWE,1998,4.826
+Afghanistan,AFG,1999,13.845
+Albania,ALB,1999,20.391
+Algeria,DZA,1999,28.516
+Angola,AGO,1999,3.3
+Argentina,ARG,1999,15.14
+Armenia,ARM,1999,15.239
+Australia,AUS,1999,6.654
+Austria,AUT,1999,4.762
+Azerbaijan,AZE,1999,11.751
+Bahamas,BHS,1999,9.288
+Bahrain,BHR,1999,3.488
+Bangladesh,BGD,1999,3.005
+Barbados,BRB,1999,13.513
+Belarus,BLR,1999,10.281
+Belgium,BEL,1999,10.218
+Belize,BLZ,1999,20.494
+Benin,BEN,1999,477
+Bhutan,BTN,1999,1.638
+Bolivia,BOL,1999,2.512
+Bosnia and Herzegovina,BIH,1999,28.901
+Botswana,BWA,1999,20.374
+Brazil,BRA,1999,13.33
+Brunei,BRN,1999,7.072
+Bulgaria,BGR,1999,14.154
+Burkina Faso,BFA,1999,2.696
+Burundi,BDI,1999,1.241
+Cambodia,KHM,1999,1.253
+Cameroon,CMR,1999,6.627
+Canada,CAN,1999,7.287
+Cape Verde,CPV,1999,11.695
+Central African Republic,CAF,1999,6.372
+Chad,TCD,1999,391
+Channel Islands,OWID_CIS,1999,7.156
+Chile,CHL,1999,13.089
+China,CHN,1999,2.823
+Colombia,COL,1999,23.714
+Comoros,COM,1999,5.139
+Congo,COG,1999,21.25
+Costa Rica,CRI,1999,7.928
+Cote d'Ivoire,CIV,1999,4.584
+Croatia,HRV,1999,14.518
+Cuba,CUB,1999,9.793
+Cyprus,CYP,1999,7.853
+Czechia,CZE,1999,10.13
+Democratic Republic of Congo,COD,1999,2.358
+Denmark,DNK,1999,5.894
+Djibouti,DJI,1999,37.501
+Dominican Republic,DOM,1999,10.641
+East Asia and Pacific (WB),0,1999,32.968.054
+East Timor,TLS,1999,4.627
+Ecuador,ECU,1999,6.821
+Egypt,EGY,1999,18.984
+El Salvador,SLV,1999,4.438
+Equatorial Guinea,GNQ,1999,9.421
+Eritrea,ERI,1999,6.674
+Estonia,EST,1999,10.131
+Eswatini,SWZ,1999,26.862
+Ethiopia,ETH,1999,4.986
+Europe and Central Asia (WB),0,1999,1.150.761
+European Union (27),0,1999,11.831.549
+Fiji,FJI,1999,4.874
+Finland,FIN,1999,12.443
+France,FRA,1999,13.909
+French Polynesia,PYF,1999,13.299
+Gabon,GAB,1999,19.59
+Gambia,GMB,1999,11.957
+Georgia,GEO,1999,12.14
+Germany,DEU,1999,9.242
+Ghana,GHA,1999,10.771
+Greece,GRC,1999,18.307
+Guam,GUM,1999,11.995
+Guatemala,GTM,1999,3.353
+Guinea,GIN,1999,3.614
+Guinea-Bissau,GNB,1999,7.038
+Guyana,GUY,1999,15.203
+Haiti,HTI,1999,8.324
+High-income countries,0,1999,74.962.096
+Honduras,HND,1999,3.793
+Hong Kong,HKG,1999,5.076
+Hungary,HUN,1999,6.222
+Iceland,ISL,1999,2.789
+India,IND,1999,6.217
+Indonesia,IDN,1999,6.885
+Iran,IRN,1999,17.882
+Iraq,IRQ,1999,8.324
+Ireland,IRL,1999,5.615
+Israel,ISR,1999,11.535
+Italy,ITA,1999,16.267
+Jamaica,JAM,1999,22.877
+Japan,JPN,1999,4.52
+Jordan,JOR,1999,21.403
+Kazakhstan,KAZ,1999,15.477
+Kenya,KEN,1999,3.287
+Kuwait,KWT,1999,1.491
+Kyrgyzstan,KGZ,1999,9.478
+Laos,LAO,1999,2.115
+Latin America and Caribbean (WB),0,1999,11.497.207
+Latvia,LVA,1999,13.361
+Lebanon,LBN,1999,10.498
+Lesotho,LSO,1999,44.525
+Liberia,LBR,1999,2.192
+Libya,LBY,1999,26.173
+Lithuania,LTU,1999,12.065
+Low-income countries,0,1999,4.861.858
+Lower-middle-income countries,0,1999,6.075.343
+Luxembourg,LUX,1999,3.317
+Macao,MAC,1999,4.388
+Madagascar,MDG,1999,5.775
+Malawi,MWI,1999,6.671
+Malaysia,MYS,1999,3.295
+Maldives,MDV,1999,2.459
+Mali,MLI,1999,5.409
+Malta,MLT,1999,6.523
+Mauritania,MRT,1999,12.243
+Mauritius,MUS,1999,12.254
+Mexico,MEX,1999,3.682
+Middle East and North Africa (WB),0,1999,15.826.728
+Middle-income countries,0,1999,59.355.707
+Moldova,MDA,1999,8.918
+Mongolia,MNG,1999,6.169
+Montenegro,MNE,1999,31.862
+Morocco,MAR,1999,13.296
+Mozambique,MOZ,1999,1.78
+Myanmar,MMR,1999,765
+Namibia,NAM,1999,23.061
+Nepal,NPL,1999,1.659
+Netherlands,NLD,1999,4.846
+New Caledonia,NCL,1999,21.111
+New Zealand,NZL,1999,6.687
+Nicaragua,NIC,1999,7.639
+Niger,NER,1999,1.033
+Nigeria,NGA,1999,4.034
+North America (WB),0,1999,4.637.667
+North Korea,PRK,1999,3.106
+North Macedonia,MKD,1999,33.258
+Norway,NOR,1999,3.234
+Oman,OMN,1999,8.063
+Pakistan,PAK,1999,393
+Palestine,PSE,1999,8.18
+Panama,PAN,1999,5.472
+Papua New Guinea,PNG,1999,02.01
+Paraguay,PRY,1999,6.117
+Peru,PER,1999,5.028
+Philippines,PHL,1999,4.002
+Poland,POL,1999,13.173
+Portugal,PRT,1999,5.063
+Puerto Rico,PRI,1999,9.454
+Qatar,QAT,1999,3.144
+Romania,ROU,1999,5.529
+Russia,RUS,1999,12.9
+Rwanda,RWA,1999,507
+Saint Lucia,LCA,1999,20.636
+Saint Vincent and the Grenadines,VCT,1999,19.25
+Samoa,WSM,1999,5.463
+Sao Tome and Principe,STP,1999,17.771
+Saudi Arabia,SAU,1999,8.153
+Senegal,SEN,1999,7.543
+Serbia,SRB,1999,16.235
+Sierra Leone,SLE,1999,2.463
+Singapore,SGP,1999,5.201
+Slovakia,SVK,1999,15.912
+Slovenia,SVN,1999,7.466
+Solomon Islands,SLB,1999,1.508
+Somalia,SOM,1999,23.39
+South Africa,ZAF,1999,35.949
+South Asia (WB),0,1999,5.620.612
+South Korea,KOR,1999,5.081
+South Sudan,SSD,1999,13.101
+Spain,ESP,1999,22.85
+Sri Lanka,LKA,1999,13.372
+Sub-Saharan Africa (WB),0,1999,6.992.665
+Sudan,SDN,1999,19.668
+Suriname,SUR,1999,20.427
+Sweden,SWE,1999,6.86
+Switzerland,CHE,1999,3.574
+Syria,SYR,1999,15.018
+Tajikistan,TJK,1999,14.223
+Tanzania,TZA,1999,3.241
+Thailand,THA,1999,2.943
+Togo,TGO,1999,3.97
+Tonga,TON,1999,5.015
+Trinidad and Tobago,TTO,1999,16.721
+Tunisia,TUN,1999,16.572
+Turkey,TUR,1999,7.591
+Turkmenistan,TKM,1999,7.821
+Uganda,UGA,1999,3.24
+Ukraine,UKR,1999,11.314
+United Arab Emirates,ARE,1999,2.679
+United Kingdom,GBR,1999,5.148
+United States,USA,1999,4.345
+United States Virgin Islands,VIR,1999,13.262
+Upper-middle-income countries,0,1999,58.502.383
+Uruguay,URY,1999,13.683
+Uzbekistan,UZB,1999,15.371
+Vanuatu,VUT,1999,1.576
+Venezuela,VEN,1999,16.495
+Vietnam,VNM,1999,2.407
+World,OWID_WRL,1999,62.381.816
+Yemen,YEM,1999,8.171
+Zambia,ZMB,1999,11.452
+Zimbabwe,ZWE,1999,4.631
+Afghanistan,AFG,2000,13.846
+Albania,ALB,2000,18.533
+Algeria,DZA,2000,29.718
+Angola,AGO,2000,3.258
+Argentina,ARG,2000,16.338
+Armenia,ARM,2000,14.577
+Australia,AUS,2000,6.055
+Austria,AUT,2000,4.6
+Azerbaijan,AZE,2000,12.713
+Bahamas,BHS,2000,8.22
+Bahrain,BHR,2000,3.457
+Bangladesh,BGD,2000,3.331
+Barbados,BRB,2000,11.405
+Belarus,BLR,2000,9.793
+Belgium,BEL,2000,8.285
+Belize,BLZ,2000,17.824
+Benin,BEN,2000,0.46
+Bhutan,BTN,2000,2.209
+Bolivia,BOL,2000,2.545
+Bosnia and Herzegovina,BIH,2000,29.56
+Botswana,BWA,2000,17.26
+Brazil,BRA,2000,12.351
+Brunei,BRN,2000,7.117
+Bulgaria,BGR,2000,15.815
+Burkina Faso,BFA,2000,2.842
+Burundi,BDI,2000,1.232
+Cambodia,KHM,2000,1.282
+Cameroon,CMR,2000,6.67
+Canada,CAN,2000,6.695
+Cape Verde,CPV,2000,11.638
+Central African Republic,CAF,2000,6.29
+Chad,TCD,2000,0.41
+Channel Islands,OWID_CIS,2000,6.497
+Chile,CHL,2000,12.461
+China,CHN,2000,2.832
+Colombia,COL,2000,25.063
+Comoros,COM,2000,05.04
+Congo,COG,2000,21.149
+Costa Rica,CRI,2000,6.636
+Cote d'Ivoire,CIV,2000,4.827
+Croatia,HRV,2000,17.31
+Cuba,CUB,2000,8.359
+Cyprus,CYP,2000,7.48
+Czechia,CZE,2000,10.538
+Democratic Republic of Congo,COD,2000,2.34
+Denmark,DNK,2000,4.975
+Djibouti,DJI,2000,37.488
+Dominican Republic,DOM,2000,10.722
+East Asia and Pacific (WB),0,2000,32.149.985
+East Timor,TLS,2000,4.038
+Ecuador,ECU,2000,6.383
+Egypt,EGY,2000,22.671
+El Salvador,SLV,2000,3.744
+Equatorial Guinea,GNQ,2000,9.374
+Eritrea,ERI,2000,6.583
+Estonia,EST,2000,11.609
+Eswatini,SWZ,2000,27.433
+Ethiopia,ETH,2000,4.701
+Europe and Central Asia (WB),0,2000,10.692.095
+European Union (27),0,2000,11.501.125
+Fiji,FJI,2000,5.151
+Finland,FIN,2000,11.99
+France,FRA,2000,12.201
+French Polynesia,PYF,2000,13.274
+Gabon,GAB,2000,20.103
+Gambia,GMB,2000,12.026
+Georgia,GEO,2000,10.497
+Germany,DEU,2000,8.273
+Ghana,GHA,2000,10.743
+Greece,GRC,2000,17.143
+Guam,GUM,2000,13.104
+Guatemala,GTM,2000,3.366
+Guinea,GIN,2000,3.604
+Guinea-Bissau,GNB,2000,6.955
+Guyana,GUY,2000,15.261
+Haiti,HTI,2000,9.665
+High-income countries,0,2000,71.447.644
+Honduras,HND,2000,3.862
+Hong Kong,HKG,2000,4.012
+Hungary,HUN,2000,5.786
+Iceland,ISL,2000,2.631
+India,IND,2000,6.026
+Indonesia,IDN,2000,6.716
+Iran,IRN,2000,19.187
+Iraq,IRQ,2000,8.207
+Ireland,IRL,2000,4.272
+Israel,ISR,2000,11.166
+Italy,ITA,2000,14.851
+Jamaica,JAM,2000,22.379
+Japan,JPN,2000,4.512
+Jordan,JOR,2000,20.695
+Kazakhstan,KAZ,2000,14.687
+Kenya,KEN,2000,3.281
+Kuwait,KWT,2000,1.707
+Kyrgyzstan,KGZ,2000,8.526
+Laos,LAO,2000,2.063
+Latin America and Caribbean (WB),0,2000,11.227.418
+Latvia,LVA,2000,13.37
+Lebanon,LBN,2000,10.295
+Lesotho,LSO,2000,43.166
+Liberia,LBR,2000,2.19
+Libya,LBY,2000,26.047
+Lithuania,LTU,2000,13.608
+Low-income countries,0,2000,49.851.265
+Lower-middle-income countries,0,2000,6.012.074
+Luxembourg,LUX,2000,3.148
+Macao,MAC,2000,4.681
+Madagascar,MDG,2000,5.876
+Malawi,MWI,2000,6.699
+Malaysia,MYS,2000,3.058
+Maldives,MDV,2000,2.731
+Mali,MLI,2000,6.51
+Malta,MLT,2000,6.529
+Mauritania,MRT,2000,12.31
+Mauritius,MUS,2000,11.859
+Mexico,MEX,2000,3.384
+Middle East and North Africa (WB),0,2000,17.335.363
+Middle-income countries,0,2000,57.579.045
+Moldova,MDA,2000,7.19
+Mongolia,MNG,2000,6.232
+Montenegro,MNE,2000,33.087
+Morocco,MAR,2000,13.02
+Mozambique,MOZ,2000,1.916
+Myanmar,MMR,2000,745
+Namibia,NAM,2000,21.647
+Nepal,NPL,2000,1.637
+Netherlands,NLD,2000,3.461
+New Caledonia,NCL,2000,20.667
+New Zealand,NZL,2000,5.977
+Nicaragua,NIC,2000,7.734
+Niger,NER,2000,01.03
+Nigeria,NGA,2000,3.989
+North America (WB),0,2000,4.358.821
+North Korea,PRK,2000,3.075
+North Macedonia,MKD,2000,34.858
+Norway,NOR,2000,3.278
+Oman,OMN,2000,7.888
+Pakistan,PAK,2000,383
+Palestine,PSE,2000,08.04
+Panama,PAN,2000,5.419
+Papua New Guinea,PNG,2000,2.065
+Paraguay,PRY,2000,8.939
+Peru,PER,2000,4.997
+Philippines,PHL,2000,3.966
+Poland,POL,2000,18.327
+Portugal,PRT,2000,4.734
+Puerto Rico,PRI,2000,7.411
+Qatar,QAT,2000,3.196
+Romania,ROU,2000,6.378
+Russia,RUS,2000,10.368
+Rwanda,RWA,2000,559
+Saint Lucia,LCA,2000,21.284
+Saint Vincent and the Grenadines,VCT,2000,18.96
+Samoa,WSM,2000,5.71
+Sao Tome and Principe,STP,2000,17.837
+Saudi Arabia,SAU,2000,9.379
+Senegal,SEN,2000,7.588
+Serbia,SRB,2000,14.848
+Sierra Leone,SLE,2000,2.421
+Singapore,SGP,2000,3.457
+Slovakia,SVK,2000,18.608
+Slovenia,SVN,2000,7.065
+Solomon Islands,SLB,2000,1.822
+Somalia,SOM,2000,23.444
+South Africa,ZAF,2000,35.949
+South Asia (WB),0,2000,5.437.717
+South Korea,KOR,2000,3.228
+South Sudan,SSD,2000,13.095
+Spain,ESP,2000,20.358
+Sri Lanka,LKA,2000,11.478
+Sub-Saharan Africa (WB),0,2000,69.696.155
+Sudan,SDN,2000,19.624
+Suriname,SUR,2000,19.286
+Sweden,SWE,2000,5.004
+Switzerland,CHE,2000,3.134
+Syria,SYR,2000,19.94
+Tajikistan,TJK,2000,13.941
+Tanzania,TZA,2000,3.106
+Thailand,THA,2000,2.336
+Togo,TGO,2000,4.009
+Tonga,TON,2000,5.749
+Trinidad and Tobago,TTO,2000,15.08
+Tunisia,TUN,2000,16.102
+Turkey,TUR,2000,6.275
+Turkmenistan,TKM,2000,7.018
+Uganda,UGA,2000,3.679
+Ukraine,UKR,2000,11.194
+United Arab Emirates,ARE,2000,2.717
+United Kingdom,GBR,2000,4.861
+United States,USA,2000,4.098
+United States Virgin Islands,VIR,2000,12.676
+Upper-middle-income countries,0,2000,5.601.189
+Uruguay,URY,2000,15.888
+Uzbekistan,UZB,2000,14.165
+Vanuatu,VUT,2000,1.486
+Venezuela,VEN,2000,14.604
+Vietnam,VNM,2000,2.142
+World,OWID_WRL,2000,6.034.374
+Yemen,YEM,2000,9.185
+Zambia,ZMB,2000,11.431
+Zimbabwe,ZWE,2000,4.622
+Afghanistan,AFG,2001,13.849
+Albania,ALB,2001,18.955
+Algeria,DZA,2001,27.804
+Angola,AGO,2001,3.213
+Argentina,ARG,2001,17.193
+Armenia,ARM,2001,13.944
+Australia,AUS,2001,6.443
+Austria,AUT,2001,4.133
+Azerbaijan,AZE,2001,11.515
+Bahamas,BHS,2001,07.03
+Bahrain,BHR,2001,3.525
+Bangladesh,BGD,2001,3.831
+Barbados,BRB,2001,11.814
+Belarus,BLR,2001,9.178
+Belgium,BEL,2001,6.924
+Belize,BLZ,2001,15.48
+Benin,BEN,2001,444
+Bhutan,BTN,2001,2.886
+Bolivia,BOL,2001,2.728
+Bosnia and Herzegovina,BIH,2001,30.38
+Botswana,BWA,2001,22.087
+Brazil,BRA,2001,12.216
+Brunei,BRN,2001,7.177
+Bulgaria,BGR,2001,18.855
+Burkina Faso,BFA,2001,2.932
+Burundi,BDI,2001,1.216
+Cambodia,KHM,2001,1.297
+Cameroon,CMR,2001,6.697
+Canada,CAN,2001,6.859
+Cape Verde,CPV,2001,11.652
+Central African Republic,CAF,2001,6.515
+Chad,TCD,2001,423
+Channel Islands,OWID_CIS,2001,5.966
+Chile,CHL,2001,11.922
+China,CHN,2001,3.3
+Colombia,COL,2001,19.375
+Comoros,COM,2001,05.04
+Congo,COG,2001,21.165
+Costa Rica,CRI,2001,7.387
+Cote d'Ivoire,CIV,2001,5.036
+Croatia,HRV,2001,17.89
+Cuba,CUB,2001,5.779
+Cyprus,CYP,2001,5.82
+Czechia,CZE,2001,9.613
+Democratic Republic of Congo,COD,2001,2.308
+Denmark,DNK,2001,4.779
+Djibouti,DJI,2001,37.431
+Dominican Republic,DOM,2001,11.319
+East Asia and Pacific (WB),0,2001,36.519.291
+East Timor,TLS,2001,4.005
+Ecuador,ECU,2001,5.236
+Egypt,EGY,2001,21.694
+El Salvador,SLV,2001,5.219
+Equatorial Guinea,GNQ,2001,9.68
+Eritrea,ERI,2001,6.596
+Estonia,EST,2001,13.232
+Eswatini,SWZ,2001,27.992
+Ethiopia,ETH,2001,4.411
+Europe and Central Asia (WB),0,2001,9.692.588
+European Union (27),0,2001,10.530.644
+Fiji,FJI,2001,5.071
+Finland,FIN,2001,10.761
+France,FRA,2001,10.508
+French Polynesia,PYF,2001,13.441
+Gabon,GAB,2001,20.65
+Gambia,GMB,2001,12.085
+Georgia,GEO,2001,10.642
+Germany,DEU,2001,7.776
+Ghana,GHA,2001,9.759
+Greece,GRC,2001,16.001
+Guam,GUM,2001,11.233
+Guatemala,GTM,2001,3.415
+Guinea,GIN,2001,3.574
+Guinea-Bissau,GNB,2001,7.147
+Guyana,GUY,2001,15.237
+Haiti,HTI,2001,11.037
+High-income countries,0,2001,69.316.163
+Honduras,HND,2001,4.078
+Hong Kong,HKG,2001,3.86
+Hungary,HUN,2001,4.875
+Iceland,ISL,2001,2.231
+India,IND,2001,6.014
+Indonesia,IDN,2001,7.377
+Iran,IRN,2001,20.666
+Iraq,IRQ,2001,8.16
+Ireland,IRL,2001,3.544
+Israel,ISR,2001,12.008
+Italy,ITA,2001,13.031
+Jamaica,JAM,2001,21.039
+Japan,JPN,2001,4.735
+Jordan,JOR,2001,20.137
+Kazakhstan,KAZ,2001,12.042
+Kenya,KEN,2001,3.244
+Kuwait,KWT,2001,1.701
+Kyrgyzstan,KGZ,2001,8.886
+Laos,LAO,2001,1.936
+Latin America and Caribbean (WB),0,2001,10.724.726
+Latvia,LVA,2001,12.462
+Lebanon,LBN,2001,10.099
+Lesotho,LSO,2001,41.936
+Liberia,LBR,2001,2.23
+Libya,LBY,2001,26.035
+Lithuania,LTU,2001,14.097
+Low-income countries,0,2001,5.071.994
+Lower-middle-income countries,0,2001,61.172.576
+Luxembourg,LUX,2001,2.174
+Macao,MAC,2001,4.408
+Madagascar,MDG,2001,5.401
+Malawi,MWI,2001,6.757
+Malaysia,MYS,2001,3.787
+Maldives,MDV,2001,3.924
+Mali,MLI,2001,7.471
+Malta,MLT,2001,8.065
+Mauritania,MRT,2001,12.308
+Mauritius,MUS,2001,11.583
+Mexico,MEX,2001,3.394
+Middle East and North Africa (WB),0,2001,17.567.602
+Middle-income countries,0,2001,58.820.233
+Moldova,MDA,2001,5.885
+Mongolia,MNG,2001,6.216
+Montenegro,MNE,2001,33.341
+Morocco,MAR,2001,12.505
+Mozambique,MOZ,2001,1.997
+Myanmar,MMR,2001,773
+Namibia,NAM,2001,22.567
+Nepal,NPL,2001,1.538
+Netherlands,NLD,2001,2.52
+New Caledonia,NCL,2001,20.348
+New Zealand,NZL,2001,5.376
+Nicaragua,NIC,2001,7.789
+Niger,NER,2001,1.003
+Nigeria,NGA,2001,3.961
+North America (WB),0,2001,48.732.476
+North Korea,PRK,2001,3.108
+North Macedonia,MKD,2001,32.038
+Norway,NOR,2001,3.612
+Oman,OMN,2001,7.896
+Pakistan,PAK,2001,367
+Palestine,PSE,2001,10.074
+Panama,PAN,2001,5.378
+Papua New Guinea,PNG,2001,1.966
+Paraguay,PRY,2001,7.236
+Peru,PER,2001,5.097
+Philippines,PHL,2001,04.02
+Poland,POL,2001,20.025
+Portugal,PRT,2001,4.954
+Puerto Rico,PRI,2001,9.182
+Qatar,QAT,2001,3.214
+Romania,ROU,2001,06.01
+Russia,RUS,2001,8.598
+Rwanda,RWA,2001,615
+Saint Lucia,LCA,2001,22.815
+Saint Vincent and the Grenadines,VCT,2001,18.636
+Samoa,WSM,2001,6.094
+Sao Tome and Principe,STP,2001,25.976
+Saudi Arabia,SAU,2001,9.205
+Senegal,SEN,2001,7.604
+Serbia,SRB,2001,14.993
+Sierra Leone,SLE,2001,2.406
+Singapore,SGP,2001,3.888
+Slovakia,SVK,2001,18.547
+Slovenia,SVN,2001,6.011
+Solomon Islands,SLB,2001,1.714
+Somalia,SOM,2001,23.502
+South Africa,ZAF,2001,36.556
+South Asia (WB),0,2001,5.462.058
+South Korea,KOR,2001,3.002
+South Sudan,SSD,2001,13.11
+Spain,ESP,2001,15.052
+Sri Lanka,LKA,2001,11.431
+Sub-Saharan Africa (WB),0,2001,6.959.167
+Sudan,SDN,2001,19.618
+Suriname,SUR,2001,18.184
+Sweden,SWE,2001,4.4
+Switzerland,CHE,2001,3.462
+Syria,SYR,2001,25.396
+Tajikistan,TJK,2001,13.58
+Tanzania,TZA,2001,2.955
+Thailand,THA,2001,2.491
+Togo,TGO,2001,4.029
+Tonga,TON,2001,6.139
+Trinidad and Tobago,TTO,2001,14.413
+Tunisia,TUN,2001,15.558
+Turkey,TUR,2001,7.482
+Turkmenistan,TKM,2001,6.412
+Uganda,UGA,2001,4.041
+Ukraine,UKR,2001,10.598
+United Arab Emirates,ARE,2001,3.643
+United Kingdom,GBR,2001,4.116
+United States,USA,2001,4.649
+United States Virgin Islands,VIR,2001,12.562
+Upper-middle-income countries,0,2001,57.350.907
+Uruguay,URY,2001,19.81
+Uzbekistan,UZB,2001,13.014
+Vanuatu,VUT,2001,1.642
+Venezuela,VEN,2001,14.111
+Vietnam,VNM,2001,3.268
+World,OWID_WRL,2001,6.080.925
+Yemen,YEM,2001,10.231
+Zambia,ZMB,2001,12.038
+Zimbabwe,ZWE,2001,4.595
+Afghanistan,AFG,2002,14.355
+Albania,ALB,2002,18.284
+Algeria,DZA,2002,27.03
+Angola,AGO,2002,3.156
+Argentina,ARG,2002,18.827
+Armenia,ARM,2002,13.309
+Australia,AUS,2002,6.163
+Austria,AUT,2002,4.529
+Azerbaijan,AZE,2002,10.376
+Bahamas,BHS,2002,9.614
+Bahrain,BHR,2002,3.53
+Bangladesh,BGD,2002,4.272
+Barbados,BRB,2002,12.212
+Belarus,BLR,2002,8.617
+Belgium,BEL,2002,7.803
+Belize,BLZ,2002,15.181
+Benin,BEN,2002,427
+Bhutan,BTN,2002,2.729
+Bolivia,BOL,2002,2.82
+Bosnia and Herzegovina,BIH,2002,31.315
+Botswana,BWA,2002,24.242
+Brazil,BRA,2002,11.858
+Brunei,BRN,2002,7.308
+Bulgaria,BGR,2002,17.356
+Burkina Faso,BFA,2002,3.064
+Burundi,BDI,2002,1.201
+Cambodia,KHM,2002,1.313
+Cameroon,CMR,2002,6.176
+Canada,CAN,2002,7.118
+Cape Verde,CPV,2002,11.592
+Central African Republic,CAF,2002,6.692
+Chad,TCD,2002,443
+Channel Islands,OWID_CIS,2002,6.092
+Chile,CHL,2002,11.799
+China,CHN,2002,3.682
+Colombia,COL,2002,18.106
+Comoros,COM,2002,4.991
+Congo,COG,2002,21.143
+Costa Rica,CRI,2002,7.748
+Cote d'Ivoire,CIV,2002,5.268
+Croatia,HRV,2002,17.307
+Cuba,CUB,2002,4.643
+Cyprus,CYP,2002,4.226
+Czechia,CZE,2002,8.561
+Democratic Republic of Congo,COD,2002,2.274
+Denmark,DNK,2002,4.313
+Djibouti,DJI,2002,37.35
+Dominican Republic,DOM,2002,10.208
+East Asia and Pacific (WB),0,2002,38.876.948
+East Timor,TLS,2002,4.25
+Ecuador,ECU,2002,5.643
+Egypt,EGY,2002,23.934
+El Salvador,SLV,2002,3.208
+Equatorial Guinea,GNQ,2002,9.931
+Eritrea,ERI,2002,6.587
+Estonia,EST,2002,8.679
+Eswatini,SWZ,2002,28.489
+Ethiopia,ETH,2002,4.161
+Europe and Central Asia (WB),0,2002,9.547.691
+European Union (27),0,2002,10.676.147
+Fiji,FJI,2002,5.056
+Finland,FIN,2002,10.165
+France,FRA,2002,9.797
+French Polynesia,PYF,2002,13.365
+Gabon,GAB,2002,21.273
+Gambia,GMB,2002,12.246
+Georgia,GEO,2002,10.979
+Germany,DEU,2002,8.208
+Ghana,GHA,2002,8.769
+Greece,GRC,2002,15.428
+Guam,GUM,2002,9.62
+Guatemala,GTM,2002,3.371
+Guinea,GIN,2002,3.541
+Guinea-Bissau,GNB,2002,7.295
+Guyana,GUY,2002,15.259
+Haiti,HTI,2002,12.371
+High-income countries,0,2002,7.360.338
+Honduras,HND,2002,4.789
+Hong Kong,HKG,2002,5.898
+Hungary,HUN,2002,5.077
+Iceland,ISL,2002,2.65
+India,IND,2002,5.944
+Indonesia,IDN,2002,7.842
+Iran,IRN,2002,21.848
+Iraq,IRQ,2002,8.087
+Ireland,IRL,2002,3.752
+Israel,ISR,2002,12.742
+Italy,ITA,2002,12.605
+Jamaica,JAM,2002,19.73
+Japan,JPN,2002,5.123
+Jordan,JOR,2002,21.641
+Kazakhstan,KAZ,2002,11.205
+Kenya,KEN,2002,3.247
+Kuwait,KWT,2002,2.343
+Kyrgyzstan,KGZ,2002,14.257
+Laos,LAO,2002,1.798
+Latin America and Caribbean (WB),0,2002,10.862.344
+Latvia,LVA,2002,12.756
+Lebanon,LBN,2002,9.932
+Lesotho,LSO,2002,40.774
+Liberia,LBR,2002,2.236
+Libya,LBY,2002,25.942
+Lithuania,LTU,2002,12.785
+Low-income countries,0,2002,51.305.504
+Lower-middle-income countries,0,2002,60.823.913
+Luxembourg,LUX,2002,3.627
+Macao,MAC,2002,4.475
+Madagascar,MDG,2002,5.998
+Malawi,MWI,2002,6.739
+Malaysia,MYS,2002,3.777
+Maldives,MDV,2002,5.3
+Mali,MLI,2002,8.642
+Malta,MLT,2002,8.306
+Mauritania,MRT,2002,12.323
+Mauritius,MUS,2002,11.666
+Mexico,MEX,2002,3.828
+Middle East and North Africa (WB),0,2002,18.323.692
+Middle-income countries,0,2002,6.025.583
+Moldova,MDA,2002,5.54
+Mongolia,MNG,2002,6.2
+Montenegro,MNE,2002,33.876
+Morocco,MAR,2002,12.538
+Mozambique,MOZ,2002,2.115
+Myanmar,MMR,2002,772
+Namibia,NAM,2002,23.417
+Nepal,NPL,2002,1.376
+Netherlands,NLD,2002,2.881
+New Caledonia,NCL,2002,19.972
+New Zealand,NZL,2002,5.464
+Nicaragua,NIC,2002,7.871
+Niger,NER,2002,1.443
+Nigeria,NGA,2002,3.9
+North America (WB),0,2002,5.763.793
+North Korea,PRK,2002,3.052
+North Macedonia,MKD,2002,32.302
+Norway,NOR,2002,4.088
+Oman,OMN,2002,7.973
+Pakistan,PAK,2002,349
+Palestine,PSE,2002,12.827
+Panama,PAN,2002,5.298
+Papua New Guinea,PNG,2002,1.899
+Paraguay,PRY,2002,11.847
+Peru,PER,2002,4.913
+Philippines,PHL,2002,3.943
+Poland,POL,2002,20.675
+Portugal,PRT,2002,5.318
+Puerto Rico,PRI,2002,10.3
+Qatar,QAT,2002,3.236
+Romania,ROU,2002,7.59
+Russia,RUS,2002,7.604
+Rwanda,RWA,2002,666
+Saint Lucia,LCA,2002,24.156
+Saint Vincent and the Grenadines,VCT,2002,18.31
+Samoa,WSM,2002,6.231
+Sao Tome and Principe,STP,2002,26.451
+Saudi Arabia,SAU,2002,11.663
+Senegal,SEN,2002,7.674
+Serbia,SRB,2002,15.702
+Sierra Leone,SLE,2002,2.334
+Singapore,SGP,2002,5.784
+Slovakia,SVK,2002,18.78
+Slovenia,SVN,2002,6.265
+Solomon Islands,SLB,2002,1.639
+Somalia,SOM,2002,23.548
+South Africa,ZAF,2002,41.372
+South Asia (WB),0,2002,54.710.393
+South Korea,KOR,2002,2.493
+South Sudan,SSD,2002,13.124
+Spain,ESP,2002,16.055
+Sri Lanka,LKA,2002,13.038
+Sub-Saharan Africa (WB),0,2002,7.2609
+Sudan,SDN,2002,19.614
+Suriname,SUR,2002,17.179
+Sweden,SWE,2002,4.625
+Switzerland,CHE,2002,3.095
+Syria,SYR,2002,23.112
+Tajikistan,TJK,2002,13.217
+Tanzania,TZA,2002,3.243
+Thailand,THA,2002,1.635
+Togo,TGO,2002,4.044
+Tonga,TON,2002,6.627
+Trinidad and Tobago,TTO,2002,14.45
+Tunisia,TUN,2002,15.735
+Turkey,TUR,2002,9.467
+Turkmenistan,TKM,2002,5.783
+Uganda,UGA,2002,4.378
+Ukraine,UKR,2002,9.744
+United Arab Emirates,ARE,2002,4.514
+United Kingdom,GBR,2002,4.362
+United States,USA,2002,5.607
+United States Virgin Islands,VIR,2002,12.617
+Upper-middle-income countries,0,2002,5.989.911
+Uruguay,URY,2002,20.992
+Uzbekistan,UZB,2002,11.813
+Vanuatu,VUT,2002,1.675
+Venezuela,VEN,2002,18.927
+Vietnam,VNM,2002,2.33
+World,OWID_WRL,2002,62.922.244
+Yemen,YEM,2002,11.263
+Zambia,ZMB,2002,12.691
+Zimbabwe,ZWE,2002,4.599
+Afghanistan,AFG,2003,14.222
+Albania,ALB,2003,17.402
+Algeria,DZA,2003,25.431
+Angola,AGO,2003,3.128
+Argentina,ARG,2003,17.551
+Armenia,ARM,2003,12.613
+Australia,AUS,2003,5.98
+Austria,AUT,2003,4.342
+Azerbaijan,AZE,2003,9.272
+Bahamas,BHS,2003,11.781
+Bahrain,BHR,2003,3.504
+Bangladesh,BGD,2003,4.836
+Barbados,BRB,2003,12.55
+Belarus,BLR,2003,8.109
+Belgium,BEL,2003,7.999
+Belize,BLZ,2003,15.78
+Benin,BEN,2003,516
+Bhutan,BTN,2003,2.493
+Bolivia,BOL,2003,2.944
+Bosnia and Herzegovina,BIH,2003,32.118
+Botswana,BWA,2003,26.483
+Brazil,BRA,2003,12.661
+Brunei,BRN,2003,7.343
+Bulgaria,BGR,2003,13.189
+Burkina Faso,BFA,2003,3.163
+Burundi,BDI,2003,1.204
+Cambodia,KHM,2003,1.274
+Cameroon,CMR,2003,5.649
+Canada,CAN,2003,7.154
+Cape Verde,CPV,2003,11.55
+Central African Republic,CAF,2003,6.756
+Chad,TCD,2003,459
+Channel Islands,OWID_CIS,2003,6.397
+Chile,CHL,2003,12.013
+China,CHN,2003,3.976
+Colombia,COL,2003,17.053
+Comoros,COM,2003,4.942
+Congo,COG,2003,21.157
+Costa Rica,CRI,2003,7.994
+Cote d'Ivoire,CIV,2003,5.487
+Croatia,HRV,2003,15.644
+Cuba,CUB,2003,3.415
+Cyprus,CYP,2003,4.607
+Czechia,CZE,2003,9.645
+Democratic Republic of Congo,COD,2003,2.246
+Denmark,DNK,2003,5.754
+Djibouti,DJI,2003,37.284
+Dominican Republic,DOM,2003,10.07
+East Asia and Pacific (WB),0,2003,4.122.958
+East Timor,TLS,2003,4.192
+Ecuador,ECU,2003,6.157
+Egypt,EGY,2003,23.527
+El Salvador,SLV,2003,3.205
+Equatorial Guinea,GNQ,2003,10.063
+Eritrea,ERI,2003,6.495
+Estonia,EST,2003,10.381
+Eswatini,SWZ,2003,29.037
+Ethiopia,ETH,2003,3.896
+Europe and Central Asia (WB),0,2003,946.724
+European Union (27),0,2003,10.602.885
+Fiji,FJI,2003,5.128
+Finland,FIN,2003,9.937
+France,FRA,2003,9.133
+French Polynesia,PYF,2003,13.144
+Gabon,GAB,2003,21.838
+Gambia,GMB,2003,12.2
+Georgia,GEO,2003,11.542
+Germany,DEU,2003,9.283
+Ghana,GHA,2003,7.773
+Greece,GRC,2003,14.548
+Guam,GUM,2003,8.875
+Guatemala,GTM,2003,3.419
+Guinea,GIN,2003,3.657
+Guinea-Bissau,GNB,2003,7.332
+Guyana,GUY,2003,14.834
+Haiti,HTI,2003,13.681
+High-income countries,0,2003,73.987.274
+Honduras,HND,2003,6.543
+Hong Kong,HKG,2003,6.187
+Hungary,HUN,2003,5.386
+Iceland,ISL,2003,3.973
+India,IND,2003,6.022
+Indonesia,IDN,2003,8.309
+Iran,IRN,2003,18.916
+Iraq,IRQ,2003,7.961
+Ireland,IRL,2003,4.008
+Israel,ISR,2003,13.814
+Italy,ITA,2003,11.948
+Jamaica,JAM,2003,16.4
+Japan,JPN,2003,4.888
+Jordan,JOR,2003,20.379
+Kazakhstan,KAZ,2003,10.398
+Kenya,KEN,2003,3.215
+Kuwait,KWT,2003,2.805
+Kyrgyzstan,KGZ,2003,11.077
+Laos,LAO,2003,1.66
+Latin America and Caribbean (WB),0,2003,11.066.769
+Latvia,LVA,2003,12.019
+Lebanon,LBN,2003,9.76
+Lesotho,LSO,2003,39.464
+Liberia,LBR,2003,2.267
+Libya,LBY,2003,25.68
+Lithuania,LTU,2003,13.197
+Low-income countries,0,2003,5.159.046
+Lower-middle-income countries,0,2003,61.113.048
+Luxembourg,LUX,2003,4.706
+Macao,MAC,2003,4.714
+Madagascar,MDG,2003,6.237
+Malawi,MWI,2003,6.737
+Malaysia,MYS,2003,3.636
+Maldives,MDV,2003,6.685
+Mali,MLI,2003,9.669
+Malta,MLT,2003,9.894
+Mauritania,MRT,2003,12.311
+Mauritius,MUS,2003,12.503
+Mexico,MEX,2003,4.475
+Middle East and North Africa (WB),0,2003,17.756.077
+Middle-income countries,0,2003,61.667.786
+Moldova,MDA,2003,6.358
+Mongolia,MNG,2003,6.427
+Montenegro,MNE,2003,34.406
+Morocco,MAR,2003,12.993
+Mozambique,MOZ,2003,2.233
+Myanmar,MMR,2003,0.76
+Namibia,NAM,2003,24.328
+Nepal,NPL,2003,1.384
+Netherlands,NLD,2003,3.796
+New Caledonia,NCL,2003,19.436
+New Zealand,NZL,2003,5.111
+Nicaragua,NIC,2003,7.858
+Niger,NER,2003,1.886
+Nigeria,NGA,2003,3.905
+North America (WB),0,2003,5.823.191
+North Korea,PRK,2003,03.08
+North Macedonia,MKD,2003,36.283
+Norway,NOR,2003,3.956
+Oman,OMN,2003,7.982
+Pakistan,PAK,2003,353
+Palestine,PSE,2003,15.176
+Panama,PAN,2003,5.311
+Papua New Guinea,PNG,2003,1.805
+Paraguay,PRY,2003,8.359
+Peru,PER,2003,4.066
+Philippines,PHL,2003,3.843
+Poland,POL,2003,19.928
+Portugal,PRT,2003,7.258
+Puerto Rico,PRI,2003,10.643
+Qatar,QAT,2003,3.284
+Romania,ROU,2003,6.376
+Russia,RUS,2003,7.949
+Rwanda,RWA,2003,729
+Saint Lucia,LCA,2003,28.361
+Saint Vincent and the Grenadines,VCT,2003,18.085
+Samoa,WSM,2003,6.274
+Sao Tome and Principe,STP,2003,26.326
+Saudi Arabia,SAU,2003,12.668
+Senegal,SEN,2003,9.106
+Serbia,SRB,2003,16.32
+Sierra Leone,SLE,2003,2.324
+Singapore,SGP,2003,6.201
+Slovakia,SVK,2003,17.283
+Slovenia,SVN,2003,7.022
+Solomon Islands,SLB,2003,1.494
+Somalia,SOM,2003,23.607
+South Africa,ZAF,2003,39.319
+South Asia (WB),0,2003,55.689.983
+South Korea,KOR,2003,3.034
+South Sudan,SSD,2003,13.13
+Spain,ESP,2003,15.683
+Sri Lanka,LKA,2003,12.896
+Sub-Saharan Africa (WB),0,2003,7.136.737
+Sudan,SDN,2003,19.594
+Suriname,SUR,2003,16.041
+Sweden,SWE,2003,5.007
+Switzerland,CHE,2003,4.493
+Syria,SYR,2003,20.881
+Tajikistan,TJK,2003,12.828
+Tanzania,TZA,2003,3.549
+Thailand,THA,2003,1.442
+Togo,TGO,2003,04.06
+Tonga,TON,2003,7.383
+Trinidad and Tobago,TTO,2003,13.758
+Tunisia,TUN,2003,16.197
+Turkey,TUR,2003,10.104
+Turkmenistan,TKM,2003,5.262
+Uganda,UGA,2003,4.554
+Ukraine,UKR,2003,8.731
+United Arab Emirates,ARE,2003,5.331
+United Kingdom,GBR,2003,4.064
+United States,USA,2003,5.666
+United States Virgin Islands,VIR,2003,12.86
+Upper-middle-income countries,0,2003,6.202.148
+Uruguay,URY,2003,20.806
+Uzbekistan,UZB,2003,10.632
+Vanuatu,VUT,2003,1.513
+Venezuela,VEN,2003,20.523
+Vietnam,VNM,2003,2.636
+World,OWID_WRL,2003,64.064.493
+Yemen,YEM,2003,12.307
+Zambia,ZMB,2003,13.339
+Zimbabwe,ZWE,2003,4.587
+Afghanistan,AFG,2004,14.047
+Albania,ALB,2004,16.706
+Algeria,DZA,2004,18.202
+Angola,AGO,2004,3.072
+Argentina,ARG,2004,15.781
+Armenia,ARM,2004,11.838
+Australia,AUS,2004,5.535
+Austria,AUT,2004,5.885
+Azerbaijan,AZE,2004,8.041
+Bahamas,BHS,2004,11.132
+Bahrain,BHR,2004,3.522
+Bangladesh,BGD,2004,5.894
+Barbados,BRB,2004,10.448
+Belarus,BLR,2004,7.667
+Belgium,BEL,2004,8.278
+Belize,BLZ,2004,16.588
+Benin,BEN,2004,602
+Bhutan,BTN,2004,3.314
+Bolivia,BOL,2004,2.988
+Bosnia and Herzegovina,BIH,2004,33.131
+Botswana,BWA,2004,24.398
+Brazil,BRA,2004,11.989
+Brunei,BRN,2004,7.311
+Bulgaria,BGR,2004,11.623
+Burkina Faso,BFA,2004,3.932
+Burundi,BDI,2004,1.181
+Cambodia,KHM,2004,1.235
+Cameroon,CMR,2004,5.106
+Canada,CAN,2004,6.854
+Cape Verde,CPV,2004,11.475
+Central African Republic,CAF,2004,6.673
+Chad,TCD,2004,468
+Channel Islands,OWID_CIS,2004,6.628
+Chile,CHL,2004,12.987
+China,CHN,2004,3.897
+Colombia,COL,2004,16.387
+Comoros,COM,2004,4.893
+Congo,COG,2004,21.117
+Costa Rica,CRI,2004,8.284
+Cote d'Ivoire,CIV,2004,5.69
+Croatia,HRV,2004,15.289
+Cuba,CUB,2004,2.205
+Cyprus,CYP,2004,5.479
+Czechia,CZE,2004,9.652
+Democratic Republic of Congo,COD,2004,2.219
+Denmark,DNK,2004,5.435
+Djibouti,DJI,2004,37.232
+Dominican Republic,DOM,2004,10.04
+East Asia and Pacific (WB),0,2004,40.887.523
+East Timor,TLS,2004,4.157
+Ecuador,ECU,2004,5.712
+Egypt,EGY,2004,25.124
+El Salvador,SLV,2004,3.43
+Equatorial Guinea,GNQ,2004,10.03
+Eritrea,ERI,2004,6.284
+Estonia,EST,2004,8.825
+Eswatini,SWZ,2004,29.577
+Ethiopia,ETH,2004,3.555
+Europe and Central Asia (WB),0,2004,9.449.099
+European Union (27),0,2004,10.757.011
+Fiji,FJI,2004,5.034
+Finland,FIN,2004,10.574
+France,FRA,2004,9.871
+French Polynesia,PYF,2004,13.117
+Gabon,GAB,2004,22.457
+Gambia,GMB,2004,12.258
+Georgia,GEO,2004,11.762
+Germany,DEU,2004,10.084
+Ghana,GHA,2004,6.778
+Greece,GRC,2004,16.06
+Guam,GUM,2004,7.758
+Guatemala,GTM,2004,3.378
+Guinea,GIN,2004,3.738
+Guinea-Bissau,GNB,2004,7.22
+Guyana,GUY,2004,14.377
+Haiti,HTI,2004,15.156
+High-income countries,0,2004,73.107.615
+Honduras,HND,2004,8.292
+Hong Kong,HKG,2004,5.548
+Hungary,HUN,2004,5.857
+Iceland,ISL,2004,2.754
+India,IND,2004,5.982
+Indonesia,IDN,2004,9.18
+Iran,IRN,2004,16.182
+Iraq,IRQ,2004,7.714
+Ireland,IRL,2004,3.83
+Israel,ISR,2004,13.766
+Italy,ITA,2004,10.238
+Jamaica,JAM,2004,17.351
+Japan,JPN,2004,4.412
+Jordan,JOR,2004,22.627
+Kazakhstan,KAZ,2004,9.833
+Kenya,KEN,2004,3.185
+Kuwait,KWT,2004,3.657
+Kyrgyzstan,KGZ,2004,9.267
+Laos,LAO,2004,1.515
+Latin America and Caribbean (WB),0,2004,10.674.691
+Latvia,LVA,2004,12.275
+Lebanon,LBN,2004,9.548
+Lesotho,LSO,2004,38.299
+Liberia,LBR,2004,2.253
+Libya,LBY,2004,25.711
+Lithuania,LTU,2004,11.062
+Low-income countries,0,2004,50.497.875
+Lower-middle-income countries,0,2004,6.148.877
+Luxembourg,LUX,2004,7.073
+Macao,MAC,2004,4.045
+Madagascar,MDG,2004,4.894
+Malawi,MWI,2004,6.761
+Malaysia,MYS,2004,3.805
+Maldives,MDV,2004,7.876
+Mali,MLI,2004,10.836
+Malta,MLT,2004,8.259
+Mauritania,MRT,2004,12.361
+Mauritius,MUS,2004,13.375
+Mexico,MEX,2004,5.279
+Middle East and North Africa (WB),0,2004,17.073.835
+Middle-income countries,0,2004,6.087.959
+Moldova,MDA,2004,6.326
+Mongolia,MNG,2004,6.534
+Montenegro,MNE,2004,35.064
+Morocco,MAR,2004,11.364
+Mozambique,MOZ,2004,2.342
+Myanmar,MMR,2004,769
+Namibia,NAM,2004,25.107
+Nepal,NPL,2004,1.33
+Netherlands,NLD,2004,5.044
+New Caledonia,NCL,2004,19.181
+New Zealand,NZL,2004,4.522
+Nicaragua,NIC,2004,8.056
+Niger,NER,2004,2.327
+Nigeria,NGA,2004,3.872
+North America (WB),0,2004,5.554.841
+North Korea,PRK,2004,3.052
+North Macedonia,MKD,2004,37.805
+Norway,NOR,2004,3.923
+Oman,OMN,2004,7.924
+Pakistan,PAK,2004,0.35
+Palestine,PSE,2004,14.837
+Panama,PAN,2004,5.226
+Papua New Guinea,PNG,2004,1.733
+Paraguay,PRY,2004,8.394
+Peru,PER,2004,5.229
+Philippines,PHL,2004,3.884
+Poland,POL,2004,19.769
+Portugal,PRT,2004,7.19
+Puerto Rico,PRI,2004,8.614
+Qatar,QAT,2004,3.426
+Romania,ROU,2004,6.15
+Russia,RUS,2004,7.516
+Rwanda,RWA,2004,767
+Saint Lucia,LCA,2004,25.189
+Saint Vincent and the Grenadines,VCT,2004,18.003
+Samoa,WSM,2004,6.32
+Sao Tome and Principe,STP,2004,24.473
+Saudi Arabia,SAU,2004,13.512
+Senegal,SEN,2004,10.631
+Serbia,SRB,2004,22.894
+Sierra Leone,SLE,2004,2.292
+Singapore,SGP,2004,6.212
+Slovakia,SVK,2004,19.624
+Slovenia,SVN,2004,6.397
+Solomon Islands,SLB,2004,1.521
+Somalia,SOM,2004,23.669
+South Africa,ZAF,2004,36.244
+South Asia (WB),0,2004,561.463
+South Korea,KOR,2004,3.076
+South Sudan,SSD,2004,13.167
+Spain,ESP,2004,15.034
+Sri Lanka,LKA,2004,12.955
+Sub-Saharan Africa (WB),0,2004,68.394.594
+Sudan,SDN,2004,19.635
+Suriname,SUR,2004,14.934
+Sweden,SWE,2004,6.177
+Switzerland,CHE,2004,4.769
+Syria,SYR,2004,21.602
+Tajikistan,TJK,2004,12.422
+Tanzania,TZA,2004,3.844
+Thailand,THA,2004,1.38
+Togo,TGO,2004,4.12
+Tonga,TON,2004,5.663
+Trinidad and Tobago,TTO,2004,11.173
+Tunisia,TUN,2004,16.306
+Turkey,TUR,2004,10.988
+Turkmenistan,TKM,2004,4.728
+Uganda,UGA,2004,3.33
+Ukraine,UKR,2004,8.305
+United Arab Emirates,ARE,2004,6.213
+United Kingdom,GBR,2004,4.184
+United States,USA,2004,5.4
+United States Virgin Islands,VIR,2004,12.529
+Upper-middle-income countries,0,2004,60.485.992
+Uruguay,URY,2004,16.622
+Uzbekistan,UZB,2004,9.593
+Vanuatu,VUT,2004,1.518
+Venezuela,VEN,2004,17.956
+Vietnam,VNM,2004,2.439
+World,OWID_WRL,2004,631.546
+Yemen,YEM,2004,13.363
+Zambia,ZMB,2004,14.035
+Zimbabwe,ZWE,2004,4.525
+Afghanistan,AFG,2005,14.303
+Albania,ALB,2005,16.422
+Algeria,DZA,2005,17.211
+Angola,AGO,2005,3.022
+Argentina,ARG,2005,13.563
+Armenia,ARM,2005,11.187
+Australia,AUS,2005,5.218
+Austria,AUT,2005,5.859
+Azerbaijan,AZE,2005,7.286
+Bahamas,BHS,2005,11.182
+Bahrain,BHR,2005,3.556
+Bangladesh,BGD,2005,07.05
+Barbados,BRB,2005,10.792
+Belarus,BLR,2005,7.036
+Belgium,BEL,2005,9.509
+Belize,BLZ,2005,17.359
+Benin,BEN,2005,697
+Bhutan,BTN,2005,3.331
+Bolivia,BOL,2005,3.103
+Bosnia and Herzegovina,BIH,2005,34.189
+Botswana,BWA,2005,22.265
+Brazil,BRA,2005,12.539
+Brunei,BRN,2005,7.384
+Bulgaria,BGR,2005,9.833
+Burkina Faso,BFA,2005,4.665
+Burundi,BDI,2005,1.179
+Cambodia,KHM,2005,1.18
+Cameroon,CMR,2005,4.606
+Canada,CAN,2005,6.466
+Cape Verde,CPV,2005,11.442
+Central African Republic,CAF,2005,6.703
+Chad,TCD,2005,495
+Channel Islands,OWID_CIS,2005,6.658
+Chile,CHL,2005,12.251
+China,CHN,2005,3.922
+Colombia,COL,2005,14.444
+Comoros,COM,2005,5.441
+Congo,COG,2005,21.064
+Costa Rica,CRI,2005,9.31
+Cote d'Ivoire,CIV,2005,5.906
+Croatia,HRV,2005,13.857
+Cuba,CUB,2005,2.207
+Cyprus,CYP,2005,6.54
+Czechia,CZE,2005,9.796
+Democratic Republic of Congo,COD,2005,2.195
+Denmark,DNK,2005,5.277
+Djibouti,DJI,2005,37.186
+Dominican Republic,DOM,2005,9.746
+East Asia and Pacific (WB),0,2005,4.134.925
+East Timor,TLS,2005,4.122
+Ecuador,ECU,2005,4.71
+Egypt,EGY,2005,24.871
+El Salvador,SLV,2005,4.801
+Equatorial Guinea,GNQ,2005,10.154
+Eritrea,ERI,2005,6.209
+Estonia,EST,2005,6.903
+Eswatini,SWZ,2005,30.073
+Ethiopia,ETH,2005,3.284
+Europe and Central Asia (WB),0,2005,9.121.098
+European Union (27),0,2005,10.552.151
+Fiji,FJI,2005,5.168
+Finland,FIN,2005,8.608
+France,FRA,2005,9.265
+French Polynesia,PYF,2005,13.056
+Gabon,GAB,2005,23.035
+Gambia,GMB,2005,12.423
+Georgia,GEO,2005,12.668
+Germany,DEU,2005,10.895
+Ghana,GHA,2005,5.779
+Greece,GRC,2005,15.518
+Guam,GUM,2005,7.726
+Guatemala,GTM,2005,3.45
+Guinea,GIN,2005,3.822
+Guinea-Bissau,GNB,2005,7.228
+Guyana,GUY,2005,13.975
+Haiti,HTI,2005,16.38
+High-income countries,0,2005,71.101.356
+Honduras,HND,2005,6.439
+Hong Kong,HKG,2005,4.411
+Hungary,HUN,2005,7.429
+Iceland,ISL,2005,2.492
+India,IND,2005,5.939
+Indonesia,IDN,2005,10.04
+Iran,IRN,2005,17.651
+Iraq,IRQ,2005,7.678
+Ireland,IRL,2005,4.005
+Israel,ISR,2005,11.626
+Italy,ITA,2005,10.044
+Jamaica,JAM,2005,15.81
+Japan,JPN,2005,4.22
+Jordan,JOR,2005,25.003
+Kazakhstan,KAZ,2005,9.567
+Kenya,KEN,2005,3.162
+Kuwait,KWT,2005,3.216
+Kyrgyzstan,KGZ,2005,9.053
+Laos,LAO,2005,1.355
+Latin America and Caribbean (WB),0,2005,9.972.428
+Latvia,LVA,2005,9.968
+Lebanon,LBN,2005,9.805
+Lesotho,LSO,2005,37.026
+Liberia,LBR,2005,2.258
+Libya,LBY,2005,25.539
+Lithuania,LTU,2005,8.528
+Low-income countries,0,2005,49.467.697
+Lower-middle-income countries,0,2005,6.198.995
+Luxembourg,LUX,2005,5.819
+Macao,MAC,2005,3.843
+Madagascar,MDG,2005,3.512
+Malawi,MWI,2005,6.795
+Malaysia,MYS,2005,3.705
+Maldives,MDV,2005,8.821
+Mali,MLI,2005,11.498
+Malta,MLT,2005,8.353
+Mauritania,MRT,2005,12.363
+Mauritius,MUS,2005,16.325
+Mexico,MEX,2005,3.909
+Middle East and North Africa (WB),0,2005,17.255.894
+Middle-income countries,0,2005,6.057.347
+Moldova,MDA,2005,5.988
+Mongolia,MNG,2005,6.824
+Montenegro,MNE,2005,35.507
+Morocco,MAR,2005,11.556
+Mozambique,MOZ,2005,2.459
+Myanmar,MMR,2005,774
+Namibia,NAM,2005,25.054
+Nepal,NPL,2005,1.24
+Netherlands,NLD,2005,6.906
+New Caledonia,NCL,2005,18.609
+New Zealand,NZL,2005,4.153
+Nicaragua,NIC,2005,5.798
+Niger,NER,2005,2.711
+Nigeria,NGA,2005,3.856
+North America (WB),0,2005,5.241.232
+North Korea,PRK,2005,3.033
+North Macedonia,MKD,2005,38.418
+Norway,NOR,2005,4.19
+Oman,OMN,2005,7.929
+Pakistan,PAK,2005,333
+Palestine,PSE,2005,16.674
+Panama,PAN,2005,5.24
+Papua New Guinea,PNG,2005,1.628
+Paraguay,PRY,2005,6.27
+Peru,PER,2005,5.052
+Philippines,PHL,2005,4.205
+Poland,POL,2005,19.146
+Portugal,PRT,2005,8.638
+Puerto Rico,PRI,2005,10.092
+Qatar,QAT,2005,3.633
+Romania,ROU,2005,6.427
+Russia,RUS,2005,6.932
+Rwanda,RWA,2005,0.81
+Saint Lucia,LCA,2005,23.104
+Saint Vincent and the Grenadines,VCT,2005,17.852
+Samoa,WSM,2005,6.385
+Sao Tome and Principe,STP,2005,25.863
+Saudi Arabia,SAU,2005,14.217
+Senegal,SEN,2005,12.161
+Serbia,SRB,2005,26.227
+Sierra Leone,SLE,2005,2.447
+Singapore,SGP,2005,6.052
+Slovakia,SVK,2005,17.235
+Slovenia,SVN,2005,7.034
+Solomon Islands,SLB,2005,1.572
+Somalia,SOM,2005,23.725
+South Africa,ZAF,2005,36.439
+South Asia (WB),0,2005,5.650.319
+South Korea,KOR,2005,3.091
+South Sudan,SSD,2005,13.159
+Spain,ESP,2005,11.991
+Sri Lanka,LKA,2005,11.931
+Sub-Saharan Africa (WB),0,2005,67.548.814
+Sudan,SDN,2005,19.583
+Suriname,SUR,2005,14.933
+Sweden,SWE,2005,7.374
+Switzerland,CHE,2005,5.093
+Syria,SYR,2005,22.461
+Tajikistan,TJK,2005,11.949
+Tanzania,TZA,2005,4.151
+Thailand,THA,2005,1.21
+Togo,TGO,2005,4.164
+Tonga,TON,2005,3.497
+Trinidad and Tobago,TTO,2005,10.953
+Tunisia,TUN,2005,15.155
+Turkey,TUR,2005,11.181
+Turkmenistan,TKM,2005,4.262
+Uganda,UGA,2005,2.11
+Ukraine,UKR,2005,6.842
+United Arab Emirates,ARE,2005,7.208
+United Kingdom,GBR,2005,4.29
+United States,USA,2005,5.096
+United States Virgin Islands,VIR,2005,12.419
+Upper-middle-income countries,0,2005,5.964.577
+Uruguay,URY,2005,15.252
+Uzbekistan,UZB,2005,8.329
+Vanuatu,VUT,2005,1.498
+Venezuela,VEN,2005,11.639
+Vietnam,VNM,2005,2.263
+World,OWID_WRL,2005,6.221.174
+Yemen,YEM,2005,14.423
+Zambia,ZMB,2005,14.762
+Zimbabwe,ZWE,2005,4.743
+Afghanistan,AFG,2006,14.179
+Albania,ALB,2006,16.084
+Algeria,DZA,2006,15.198
+Angola,AGO,2006,2.978
+Argentina,ARG,2006,12.39
+Armenia,ARM,2006,10.466
+Australia,AUS,2006,4.918
+Austria,AUT,2006,5.599
+Azerbaijan,AZE,2006,6.335
+Bahamas,BHS,2006,8.048
+Bahrain,BHR,2006,3.6
+Bangladesh,BGD,2006,6.464
+Barbados,BRB,2006,9.814
+Belarus,BLR,2006,6.483
+Belgium,BEL,2006,9.315
+Belize,BLZ,2006,15.189
+Benin,BEN,2006,0.78
+Bhutan,BTN,2006,3.8
+Bolivia,BOL,2006,3.208
+Bosnia and Herzegovina,BIH,2006,34.86
+Botswana,BWA,2006,20.115
+Brazil,BRA,2006,11.375
+Brunei,BRN,2006,7.654
+Bulgaria,BGR,2006,9.301
+Burkina Faso,BFA,2006,4.312
+Burundi,BDI,2006,1.159
+Cambodia,KHM,2006,1.2
+Cameroon,CMR,2006,4.053
+Canada,CAN,2006,6.092
+Cape Verde,CPV,2006,11.391
+Central African Republic,CAF,2006,6.673
+Chad,TCD,2006,523
+Channel Islands,OWID_CIS,2006,6.373
+Chile,CHL,2006,11.73
+China,CHN,2006,3.843
+Colombia,COL,2006,15.141
+Comoros,COM,2006,5.997
+Congo,COG,2006,21.122
+Costa Rica,CRI,2006,8.35
+Cote d'Ivoire,CIV,2006,6.126
+Croatia,HRV,2006,12.69
+Cuba,CUB,2006,2.214
+Cyprus,CYP,2006,5.435
+Czechia,CZE,2006,8.85
+Democratic Republic of Congo,COD,2006,2.397
+Denmark,DNK,2006,4.537
+Djibouti,DJI,2006,37.096
+Dominican Republic,DOM,2006,8.919
+East Asia and Pacific (WB),0,2006,39.871.557
+East Timor,TLS,2006,4.193
+Ecuador,ECU,2006,4.37
+Egypt,EGY,2006,23.686
+El Salvador,SLV,2006,3.892
+Equatorial Guinea,GNQ,2006,10.124
+Eritrea,ERI,2006,6.211
+Estonia,EST,2006,5.585
+Eswatini,SWZ,2006,30.608
+Ethiopia,ETH,2006,3.243
+Europe and Central Asia (WB),0,2006,8.457.593
+European Union (27),0,2006,9.587.486
+Fiji,FJI,2006,5.041
+Finland,FIN,2006,8.083
+France,FRA,2006,9.113
+French Polynesia,PYF,2006,12.975
+Gabon,GAB,2006,24.308
+Gambia,GMB,2006,12.468
+Georgia,GEO,2006,11.641
+Germany,DEU,2006,10.174
+Ghana,GHA,2006,4.776
+Greece,GRC,2006,13.83
+Guam,GUM,2006,7.571
+Guatemala,GTM,2006,3.457
+Guinea,GIN,2006,3.924
+Guinea-Bissau,GNB,2006,7.158
+Guyana,GUY,2006,13.486
+Haiti,HTI,2006,17.799
+High-income countries,0,2006,65.607.615
+Honduras,HND,2006,4.421
+Hong Kong,HKG,2006,3.725
+Hungary,HUN,2006,7.909
+Iceland,ISL,2006,3.053
+India,IND,2006,5.904
+Indonesia,IDN,2006,9.279
+Iran,IRN,2006,16.542
+Iraq,IRQ,2006,7.54
+Ireland,IRL,2006,4.209
+Israel,ISR,2006,11.045
+Italy,ITA,2006,8.778
+Jamaica,JAM,2006,14.454
+Japan,JPN,2006,3.919
+Jordan,JOR,2006,24.214
+Kazakhstan,KAZ,2006,9.22
+Kenya,KEN,2006,3.14
+Kuwait,KWT,2006,2.779
+Kyrgyzstan,KGZ,2006,9.032
+Laos,LAO,2006,1.185
+Latin America and Caribbean (WB),0,2006,9.282.258
+Latvia,LVA,2006,6.737
+Lebanon,LBN,2006,10.032
+Lesotho,LSO,2006,35.767
+Liberia,LBR,2006,2.262
+Libya,LBY,2006,25.534
+Lithuania,LTU,2006,5.609
+Low-income countries,0,2006,49.688.716
+Lower-middle-income countries,0,2006,59.651.313
+Luxembourg,LUX,2006,6.273
+Macao,MAC,2006,3.82
+Madagascar,MDG,2006,3.862
+Malawi,MWI,2006,6.81
+Malaysia,MYS,2006,3.381
+Maldives,MDV,2006,10.974
+Mali,MLI,2006,12.234
+Malta,MLT,2006,8.312
+Mauritania,MRT,2006,12.316
+Mauritius,MUS,2006,15.509
+Mexico,MEX,2006,3.89
+Middle East and North Africa (WB),0,2006,1.642.296
+Middle-income countries,0,2006,58.341.446
+Moldova,MDA,2006,5.772
+Mongolia,MNG,2006,6.991
+Montenegro,MNE,2006,28.52
+Morocco,MAR,2006,9.67
+Mozambique,MOZ,2006,2.562
+Myanmar,MMR,2006,785
+Namibia,NAM,2006,24.783
+Nepal,NPL,2006,1.17
+Netherlands,NLD,2006,6.147
+New Caledonia,NCL,2006,17.84
+New Zealand,NZL,2006,4.203
+Nicaragua,NIC,2006,4.955
+Niger,NER,2006,2.305
+Nigeria,NGA,2006,3.831
+North America (WB),0,2006,47.810.454
+North Korea,PRK,2006,2.964
+North Macedonia,MKD,2006,37.206
+Norway,NOR,2006,3.342
+Oman,OMN,2006,7.922
+Pakistan,PAK,2006,319
+Palestine,PSE,2006,12.995
+Panama,PAN,2006,5.189
+Papua New Guinea,PNG,2006,1.575
+Paraguay,PRY,2006,6.698
+Peru,PER,2006,4.877
+Philippines,PHL,2006,4.325
+Poland,POL,2006,14.924
+Portugal,PRT,2006,8.914
+Puerto Rico,PRI,2006,10.543
+Qatar,QAT,2006,3.898
+Romania,ROU,2006,6.111
+Russia,RUS,2006,6.69
+Rwanda,RWA,2006,856
+Saint Lucia,LCA,2006,20.343
+Saint Vincent and the Grenadines,VCT,2006,17.488
+Samoa,WSM,2006,6.51
+Sao Tome and Principe,STP,2006,25.836
+Saudi Arabia,SAU,2006,14.764
+Senegal,SEN,2006,13.744
+Serbia,SRB,2006,24.709
+Sierra Leone,SLE,2006,2.6
+Singapore,SGP,2006,4.96
+Slovakia,SVK,2006,14.731
+Slovenia,SVN,2006,7.188
+Solomon Islands,SLB,2006,1.616
+Somalia,SOM,2006,23.796
+South Africa,ZAF,2006,35.844
+South Asia (WB),0,2006,55.106.254
+South Korea,KOR,2006,2.703
+South Sudan,SSD,2006,13.158
+Spain,ESP,2006,11.336
+Sri Lanka,LKA,2006,9.937
+Sub-Saharan Africa (WB),0,2006,6.691.697
+Sudan,SDN,2006,19.539
+Suriname,SUR,2006,14.821
+Sweden,SWE,2006,7.254
+Switzerland,CHE,2006,4.712
+Syria,SYR,2006,23.347
+Tajikistan,TJK,2006,11.565
+Tanzania,TZA,2006,4.473
+Thailand,THA,2006,1.122
+Togo,TGO,2006,4.163
+Tonga,TON,2006,1.515
+Trinidad and Tobago,TTO,2006,8.686
+Tunisia,TUN,2006,15.133
+Turkey,TUR,2006,9.096
+Turkmenistan,TKM,2006,3.7
+Uganda,UGA,2006,2.596
+Ukraine,UKR,2006,6.615
+United Arab Emirates,ARE,2006,6.939
+United Kingdom,GBR,2006,4.95
+United States,USA,2006,4.625
+United States Virgin Islands,VIR,2006,11.69
+Upper-middle-income countries,0,2006,57.482.715
+Uruguay,URY,2006,14.207
+Uzbekistan,UZB,2006,7.099
+Vanuatu,VUT,2006,1.45
+Venezuela,VEN,2006,9.393
+Vietnam,VNM,2006,2.123
+World,OWID_WRL,2006,59.396.977
+Yemen,YEM,2006,15.552
+Zambia,ZMB,2006,12.463
+Zimbabwe,ZWE,2006,4.955
+Afghanistan,AFG,2007,14.417
+Albania,ALB,2007,16.399
+Algeria,DZA,2007,19.026
+Angola,AGO,2007,2.925
+Argentina,ARG,2007,10.46
+Armenia,ARM,2007,9.767
+Australia,AUS,2007,4.788
+Austria,AUT,2007,5.3
+Azerbaijan,AZE,2007,5.501
+Bahamas,BHS,2007,9.082
+Bahrain,BHR,2007,3.603
+Bangladesh,BGD,2007,6.848
+Barbados,BRB,2007,8.446
+Belarus,BLR,2007,5.886
+Belgium,BEL,2007,8.448
+Belize,BLZ,2007,13.197
+Benin,BEN,2007,864
+Bhutan,BTN,2007,4.701
+Bolivia,BOL,2007,3.371
+Bosnia and Herzegovina,BIH,2007,32.936
+Botswana,BWA,2007,19.939
+Brazil,BRA,2007,11.131
+Brunei,BRN,2007,7.527
+Bulgaria,BGR,2007,7.291
+Burkina Faso,BFA,2007,3.927
+Burundi,BDI,2007,1.153
+Cambodia,KHM,2007,1.193
+Cameroon,CMR,2007,3.499
+Canada,CAN,2007,5.653
+Cape Verde,CPV,2007,11.309
+Central African Republic,CAF,2007,6.602
+Chad,TCD,2007,541
+Channel Islands,OWID_CIS,2007,5.986
+Chile,CHL,2007,10.867
+China,CHN,2007,3.773
+Colombia,COL,2007,13.136
+Comoros,COM,2007,6.569
+Congo,COG,2007,21.303
+Costa Rica,CRI,2007,6.749
+Cote d'Ivoire,CIV,2007,6.342
+Croatia,HRV,2007,11.343
+Cuba,CUB,2007,1.87
+Cyprus,CYP,2007,4.601
+Czechia,CZE,2007,6.739
+Democratic Republic of Congo,COD,2007,2.596
+Denmark,DNK,2007,4.198
+Djibouti,DJI,2007,37.046
+Dominican Republic,DOM,2007,7.609
+East Asia and Pacific (WB),0,2007,39.802.833
+East Timor,TLS,2007,4.031
+Ecuador,ECU,2007,3.917
+Egypt,EGY,2007,18.223
+El Salvador,SLV,2007,3.711
+Equatorial Guinea,GNQ,2007,10.044
+Eritrea,ERI,2007,6.186
+Estonia,EST,2007,3.757
+Eswatini,SWZ,2007,31.168
+Ethiopia,ETH,2007,3.196
+Europe and Central Asia (WB),0,2007,74.647.946
+European Union (27),0,2007,8.318.753
+Fiji,FJI,2007,5.018
+Finland,FIN,2007,7.187
+France,FRA,2007,8.093
+French Polynesia,PYF,2007,12.801
+Gabon,GAB,2007,25.383
+Gambia,GMB,2007,12.493
+Georgia,GEO,2007,12.563
+Germany,DEU,2007,8.796
+Ghana,GHA,2007,5.066
+Greece,GRC,2007,12.969
+Guam,GUM,2007,9.95
+Guatemala,GTM,2007,3.5
+Guinea,GIN,2007,3.97
+Guinea-Bissau,GNB,2007,7.051
+Guyana,GUY,2007,13.724
+Haiti,HTI,2007,19.042
+High-income countries,0,2007,5.980.214
+Honduras,HND,2007,4.331
+Hong Kong,HKG,2007,3.375
+Hungary,HUN,2007,7.738
+Iceland,ISL,2007,2.266
+India,IND,2007,5.852
+Indonesia,IDN,2007,9.904
+Iran,IRN,2007,16.122
+Iraq,IRQ,2007,7.437
+Ireland,IRL,2007,4.929
+Israel,ISR,2007,9.812
+Italy,ITA,2007,7.843
+Jamaica,JAM,2007,14.282
+Japan,JPN,2007,3.772
+Jordan,JOR,2007,25.19
+Kazakhstan,KAZ,2007,8.65
+Kenya,KEN,2007,3.12
+Kuwait,KWT,2007,2.973
+Kyrgyzstan,KGZ,2007,9.052
+Laos,LAO,2007,1.078
+Latin America and Caribbean (WB),0,2007,8.716.386
+Latvia,LVA,2007,5.566
+Lebanon,LBN,2007,10.168
+Lesotho,LSO,2007,34.514
+Liberia,LBR,2007,2.268
+Libya,LBY,2007,25.464
+Lithuania,LTU,2007,4.331
+Low-income countries,0,2007,50.100.803
+Lower-middle-income countries,0,2007,59.016.976
+Luxembourg,LUX,2007,4.729
+Macao,MAC,2007,2.953
+Madagascar,MDG,2007,4.215
+Malawi,MWI,2007,6.805
+Malaysia,MYS,2007,3.445
+Maldives,MDV,2007,11.853
+Mali,MLI,2007,12.959
+Malta,MLT,2007,7.889
+Mauritania,MRT,2007,12.515
+Mauritius,MUS,2007,14.399
+Mexico,MEX,2007,4
+Middle East and North Africa (WB),0,2007,15.310.862
+Middle-income countries,0,2007,56.451.635
+Moldova,MDA,2007,3.878
+Mongolia,MNG,2007,7.147
+Montenegro,MNE,2007,20.959
+Morocco,MAR,2007,9.428
+Mozambique,MOZ,2007,2.684
+Myanmar,MMR,2007,801
+Namibia,NAM,2007,24.608
+Nepal,NPL,2007,1.102
+Netherlands,NLD,2007,5.197
+New Caledonia,NCL,2007,17.357
+New Zealand,NZL,2007,3.964
+Nicaragua,NIC,2007,5.047
+Niger,NER,2007,1.901
+Nigeria,NGA,2007,3.801
+North America (WB),0,2007,4.620.465
+North Korea,PRK,2007,2.991
+North Macedonia,MKD,2007,35.533
+Norway,NOR,2007,2.416
+Oman,OMN,2007,7.987
+Pakistan,PAK,2007,252
+Palestine,PSE,2007,14.428
+Panama,PAN,2007,5.124
+Papua New Guinea,PNG,2007,1.487
+Paraguay,PRY,2007,6.683
+Peru,PER,2007,4.563
+Philippines,PHL,2007,3.71
+Poland,POL,2007,10.344
+Portugal,PRT,2007,9.489
+Puerto Rico,PRI,2007,9.519
+Qatar,QAT,2007,2.492
+Romania,ROU,2007,5.408
+Russia,RUS,2007,5.64
+Rwanda,RWA,2007,906
+Saint Lucia,LCA,2007,18.674
+Saint Vincent and the Grenadines,VCT,2007,17.405
+Samoa,WSM,2007,6.41
+Sao Tome and Principe,STP,2007,25.055
+Saudi Arabia,SAU,2007,14.33
+Senegal,SEN,2007,13.761
+Serbia,SRB,2007,21.031
+Sierra Leone,SLE,2007,2.748
+Singapore,SGP,2007,4.329
+Slovakia,SVK,2007,12.675
+Slovenia,SVN,2007,5.835
+Solomon Islands,SLB,2007,1.657
+Somalia,SOM,2007,23.726
+South Africa,ZAF,2007,33.088
+South Asia (WB),0,2007,54.647.126
+South Korea,KOR,2007,2.392
+South Sudan,SSD,2007,13.165
+Spain,ESP,2007,10.691
+Sri Lanka,LKA,2007,9.174
+Sub-Saharan Africa (WB),0,2007,6.468.728
+Sudan,SDN,2007,19.507
+Suriname,SUR,2007,14.767
+Sweden,SWE,2007,6.47
+Switzerland,CHE,2007,4.511
+Syria,SYR,2007,25.612
+Tajikistan,TJK,2007,11.192
+Tanzania,TZA,2007,3.904
+Thailand,THA,2007,1.066
+Togo,TGO,2007,3.679
+Tonga,TON,2007,1.724
+Trinidad and Tobago,TTO,2007,7.874
+Tunisia,TUN,2007,15.135
+Turkey,TUR,2007,9.15
+Turkmenistan,TKM,2007,3.174
+Uganda,UGA,2007,3.143
+Ukraine,UKR,2007,6.017
+United Arab Emirates,ARE,2007,6.832
+United Kingdom,GBR,2007,4.957
+United States,USA,2007,4.496
+United States Virgin Islands,VIR,2007,11.414
+Upper-middle-income countries,0,2007,5.474.822
+Uruguay,URY,2007,12.729
+Uzbekistan,UZB,2007,5.897
+Vanuatu,VUT,2007,1.537
+Venezuela,VEN,2007,7.646
+Vietnam,VNM,2007,1.932
+World,OWID_WRL,2007,56.788.507
+Yemen,YEM,2007,16.68
+Zambia,ZMB,2007,10.113
+Zimbabwe,ZWE,2007,5.173
+Afghanistan,AFG,2008,14.188
+Albania,ALB,2008,13.744
+Algeria,DZA,2008,17.613
+Angola,AGO,2008,2.879
+Argentina,ARG,2008,9.721
+Armenia,ARM,2008,15.017
+Australia,AUS,2008,4.565
+Austria,AUT,2008,4.411
+Azerbaijan,AZE,2008,5.544
+Bahamas,BHS,2008,9.235
+Bahrain,BHR,2008,3.666
+Bangladesh,BGD,2008,7.104
+Barbados,BRB,2008,9.434
+Belarus,BLR,2008,5.36
+Belgium,BEL,2008,7.604
+Belize,BLZ,2008,12.625
+Benin,BEN,2008,957
+Bhutan,BTN,2008,4.921
+Bolivia,BOL,2008,3.386
+Bosnia and Herzegovina,BIH,2008,26.789
+Botswana,BWA,2008,19.78
+Brazil,BRA,2008,9.944
+Brunei,BRN,2008,7.504
+Bulgaria,BGR,2008,5.76
+Burkina Faso,BFA,2008,3.976
+Burundi,BDI,2008,1.139
+Cambodia,KHM,2008,0.82
+Cameroon,CMR,2008,3.965
+Canada,CAN,2008,5.652
+Cape Verde,CPV,2008,11.299
+Central African Republic,CAF,2008,6.42
+Chad,TCD,2008,0.56
+Channel Islands,OWID_CIS,2008,5.895
+Chile,CHL,2008,12.112
+China,CHN,2008,3.98
+Colombia,COL,2008,13.451
+Comoros,COM,2008,7.105
+Congo,COG,2008,21.254
+Costa Rica,CRI,2008,5.868
+Cote d'Ivoire,CIV,2008,6.553
+Croatia,HRV,2008,10.346
+Cuba,CUB,2008,1.96
+Cyprus,CYP,2008,4.252
+Czechia,CZE,2008,5.606
+Democratic Republic of Congo,COD,2008,2.798
+Denmark,DNK,2008,4.069
+Djibouti,DJI,2008,36.99
+Dominican Republic,DOM,2008,7.423
+East Asia and Pacific (WB),0,2008,39.768.898
+East Timor,TLS,2008,4.015
+Ecuador,ECU,2008,5.006
+Egypt,EGY,2008,18.684
+El Salvador,SLV,2008,3.624
+Equatorial Guinea,GNQ,2008,9.838
+Eritrea,ERI,2008,6.069
+Estonia,EST,2008,5.132
+Eswatini,SWZ,2008,30.447
+Ethiopia,ETH,2008,3.156
+Europe and Central Asia (WB),0,2008,72.981.243
+European Union (27),0,2008,78.882.694
+Fiji,FJI,2008,4.886
+Finland,FIN,2008,6.693
+France,FRA,2008,7.439
+French Polynesia,PYF,2008,12.963
+Gabon,GAB,2008,26.727
+Gambia,GMB,2008,12.523
+Georgia,GEO,2008,17.587
+Germany,DEU,2008,7.645
+Ghana,GHA,2008,5.303
+Greece,GRC,2008,11.547
+Guam,GUM,2008,9.813
+Guatemala,GTM,2008,3.68
+Guinea,GIN,2008,04.08
+Guinea-Bissau,GNB,2008,6.837
+Guyana,GUY,2008,14.024
+Haiti,HTI,2008,18.73
+High-income countries,0,2008,60.983.906
+Honduras,HND,2008,3.874
+Hong Kong,HKG,2008,2.981
+Hungary,HUN,2008,8.005
+Iceland,ISL,2008,2.59
+India,IND,2008,5.681
+Indonesia,IDN,2008,8.104
+Iran,IRN,2008,16.928
+Iraq,IRQ,2008,8.419
+Ireland,IRL,2008,5.699
+Israel,ISR,2008,7.857
+Italy,ITA,2008,8.487
+Jamaica,JAM,2008,14.631
+Japan,JPN,2008,3.854
+Jordan,JOR,2008,23.945
+Kazakhstan,KAZ,2008,7.958
+Kenya,KEN,2008,3.14
+Kuwait,KWT,2008,3.597
+Kyrgyzstan,KGZ,2008,9.401
+Laos,LAO,2008,0.94
+Latin America and Caribbean (WB),0,2008,8.224.552
+Latvia,LVA,2008,07.08
+Lebanon,LBN,2008,10.336
+Lesotho,LSO,2008,33.233
+Liberia,LBR,2008,2.279
+Libya,LBY,2008,25.442
+Lithuania,LTU,2008,5.633
+Low-income countries,0,2008,4.987.998
+Lower-middle-income countries,0,2008,56.157.165
+Luxembourg,LUX,2008,6.021
+Macao,MAC,2008,2.793
+Madagascar,MDG,2008,4.567
+Malawi,MWI,2008,6.841
+Malaysia,MYS,2008,3.651
+Maldives,MDV,2008,13.218
+Mali,MLI,2008,12.274
+Malta,MLT,2008,6.779
+Mauritania,MRT,2008,12.535
+Mauritius,MUS,2008,12.642
+Mexico,MEX,2008,4.029
+Middle East and North Africa (WB),0,2008,15.336.542
+Middle-income countries,0,2008,55.030.036
+Moldova,MDA,2008,3.374
+Mongolia,MNG,2008,5.173
+Montenegro,MNE,2008,18.325
+Morocco,MAR,2008,9.781
+Mozambique,MOZ,2008,2.804
+Myanmar,MMR,2008,824
+Namibia,NAM,2008,24.448
+Nepal,NPL,2008,1.071
+Netherlands,NLD,2008,4.464
+New Caledonia,NCL,2008,17.037
+New Zealand,NZL,2008,4.266
+Nicaragua,NIC,2008,6.989
+Niger,NER,2008,1.465
+Nigeria,NGA,2008,3.773
+North America (WB),0,2008,54.396.114
+North Korea,PRK,2008,2.907
+North Macedonia,MKD,2008,34.156
+Norway,NOR,2008,2.361
+Oman,OMN,2008,7.968
+Pakistan,PAK,2008,524
+Palestine,PSE,2008,19.526
+Panama,PAN,2008,5.17
+Papua New Guinea,PNG,2008,1.512
+Paraguay,PRY,2008,6.003
+Peru,PER,2008,4.633
+Philippines,PHL,2008,4.009
+Poland,POL,2008,7.96
+Portugal,PRT,2008,8.754
+Puerto Rico,PRI,2008,9.649
+Qatar,QAT,2008,1.573
+Romania,ROU,2008,4.675
+Russia,RUS,2008,5.944
+Rwanda,RWA,2008,946
+Saint Lucia,LCA,2008,14.724
+Saint Vincent and the Grenadines,VCT,2008,17.234
+Samoa,WSM,2008,6.644
+Sao Tome and Principe,STP,2008,24.007
+Saudi Arabia,SAU,2008,13.931
+Senegal,SEN,2008,13.77
+Serbia,SRB,2008,16.004
+Sierra Leone,SLE,2008,2.906
+Singapore,SGP,2008,4.421
+Slovakia,SVK,2008,10.93
+Slovenia,SVN,2008,4.818
+Solomon Islands,SLB,2008,1.666
+Somalia,SOM,2008,23.819
+South Africa,ZAF,2008,25.819
+South Asia (WB),0,2008,5.334.338
+South Korea,KOR,2008,2.395
+South Sudan,SSD,2008,13.203
+Spain,ESP,2008,12.834
+Sri Lanka,LKA,2008,8.244
+Sub-Saharan Africa (WB),0,2008,5.992.485
+Sudan,SDN,2008,19.538
+Suriname,SUR,2008,14.733
+Sweden,SWE,2008,6.561
+Switzerland,CHE,2008,3.97
+Syria,SYR,2008,24.104
+Tajikistan,TJK,2008,10.805
+Tanzania,TZA,2008,3.34
+Thailand,THA,2008,01.04
+Togo,TGO,2008,3.159
+Tonga,TON,2008,1.849
+Trinidad and Tobago,TTO,2008,6.168
+Tunisia,TUN,2008,15.923
+Turkey,TUR,2008,9.98
+Turkmenistan,TKM,2008,2.683
+Uganda,UGA,2008,3.676
+Ukraine,UKR,2008,6.099
+United Arab Emirates,ARE,2008,6.612
+United Kingdom,GBR,2008,5.094
+United States,USA,2008,5.414
+United States Virgin Islands,VIR,2008,11.368
+Upper-middle-income countries,0,2008,5.427.966
+Uruguay,URY,2008,10.929
+Uzbekistan,UZB,2008,5.799
+Vanuatu,VUT,2008,1.494
+Venezuela,VEN,2008,6.226
+Vietnam,VNM,2008,1.795
+World,OWID_WRL,2008,5.593.691
+Yemen,YEM,2008,17.836
+Zambia,ZMB,2008,7.705
+Zimbabwe,ZWE,2008,5.429
+Afghanistan,AFG,2009,14.44
+Albania,ALB,2009,15.708
+Algeria,DZA,2009,18.093
+Angola,AGO,2009,2.842
+Argentina,ARG,2009,9.853
+Armenia,ARM,2009,19.689
+Australia,AUS,2009,5.401
+Austria,AUT,2009,5.085
+Azerbaijan,AZE,2009,6.575
+Bahamas,BHS,2009,14.041
+Bahrain,BHR,2009,3.746
+Bangladesh,BGD,2009,7.366
+Barbados,BRB,2009,9.887
+Belarus,BLR,2009,4.623
+Belgium,BEL,2009,8.113
+Belize,BLZ,2009,12.666
+Benin,BEN,2009,1.056
+Bhutan,BTN,2009,5.53
+Bolivia,BOL,2009,3.622
+Bosnia and Herzegovina,BIH,2009,25.645
+Botswana,BWA,2009,19.73
+Brazil,BRA,2009,11.356
+Brunei,BRN,2009,7.588
+Bulgaria,BGR,2009,6.627
+Burkina Faso,BFA,2009,4.059
+Burundi,BDI,2009,1.143
+Cambodia,KHM,2009,0.56
+Cameroon,CMR,2009,4.438
+Canada,CAN,2009,7.005
+Cape Verde,CPV,2009,11.285
+Central African Republic,CAF,2009,6.494
+Chad,TCD,2009,578
+Channel Islands,OWID_CIS,2009,6.883
+Chile,CHL,2009,13.4
+China,CHN,2009,4.091
+Colombia,COL,2009,14.485
+Comoros,COM,2009,7.674
+Congo,COG,2009,21.267
+Costa Rica,CRI,2009,9.576
+Cote d'Ivoire,CIV,2009,6.763
+Croatia,HRV,2009,10.703
+Cuba,CUB,2009,1.989
+Cyprus,CYP,2009,5.471
+Czechia,CZE,2009,7.724
+Democratic Republic of Congo,COD,2009,3.008
+Denmark,DNK,2009,5.668
+Djibouti,DJI,2009,37
+Dominican Republic,DOM,2009,7.929
+East Asia and Pacific (WB),0,2009,40.088.744
+East Timor,TLS,2009,4.025
+Ecuador,ECU,2009,5.891
+Egypt,EGY,2009,22.13
+El Salvador,SLV,2009,4.927
+Equatorial Guinea,GNQ,2009,9.982
+Eritrea,ERI,2009,6.201
+Estonia,EST,2009,10.299
+Eswatini,SWZ,2009,29.666
+Ethiopia,ETH,2009,3.12
+Europe and Central Asia (WB),0,2009,8.647.584
+European Union (27),0,2009,9.266.586
+Fiji,FJI,2009,4.866
+Finland,FIN,2009,7.568
+France,FRA,2009,8.803
+French Polynesia,PYF,2009,13.312
+Gabon,GAB,2009,27.885
+Gambia,GMB,2009,12.585
+Georgia,GEO,2009,19.056
+Germany,DEU,2009,7.312
+Ghana,GHA,2009,5.616
+Greece,GRC,2009,13.316
+Guam,GUM,2009,9.876
+Guatemala,GTM,2009,3.86
+Guinea,GIN,2009,4.212
+Guinea-Bissau,GNB,2009,6.896
+Guyana,GUY,2009,14.255
+Haiti,HTI,2009,18.189
+High-income countries,0,2009,7.713.942
+Honduras,HND,2009,4.296
+Hong Kong,HKG,2009,4.329
+Hungary,HUN,2009,9.737
+Iceland,ISL,2009,5.689
+India,IND,2009,5.772
+Indonesia,IDN,2009,6.705
+Iran,IRN,2009,17.041
+Iraq,IRQ,2009,9.46
+Ireland,IRL,2009,9.51
+Israel,ISR,2009,9.178
+Italy,ITA,2009,9.223
+Jamaica,JAM,2009,14.876
+Japan,JPN,2009,4.784
+Jordan,JOR,2009,23.803
+Kazakhstan,KAZ,2009,7.546
+Kenya,KEN,2009,3.103
+Kuwait,KWT,2009,3.3
+Kyrgyzstan,KGZ,2009,9.769
+Laos,LAO,2009,811
+Latin America and Caribbean (WB),0,2009,9.179.072
+Latvia,LVA,2009,14.128
+Lebanon,LBN,2009,10.478
+Lesotho,LSO,2009,32.093
+Liberia,LBR,2009,2.289
+Libya,LBY,2009,25.418
+Lithuania,LTU,2009,10.536
+Low-income countries,0,2009,52.076.287
+Lower-middle-income countries,0,2009,55.928.674
+Luxembourg,LUX,2009,6.116
+Macao,MAC,2009,2.842
+Madagascar,MDG,2009,5.003
+Malawi,MWI,2009,6.862
+Malaysia,MYS,2009,3.763
+Maldives,MDV,2009,14.04
+Mali,MLI,2009,11.587
+Malta,MLT,2009,7.624
+Mauritania,MRT,2009,12.564
+Mauritius,MUS,2009,12.314
+Mexico,MEX,2009,5.354
+Middle East and North Africa (WB),0,2009,16.487.999
+Middle-income countries,0,2009,57.523.365
+Moldova,MDA,2009,4.894
+Mongolia,MNG,2009,6.17
+Montenegro,MNE,2009,20.419
+Morocco,MAR,2009,9.281
+Mozambique,MOZ,2009,2.928
+Myanmar,MMR,2009,827
+Namibia,NAM,2009,24.283
+Nepal,NPL,2009,1.307
+Netherlands,NLD,2009,4.922
+New Caledonia,NCL,2009,16.306
+New Zealand,NZL,2009,6.141
+Nicaragua,NIC,2009,9.146
+Niger,NER,2009,1.064
+Nigeria,NGA,2009,3.739
+North America (WB),0,2009,7.944.973
+North Korea,PRK,2009,2.906
+North Macedonia,MKD,2009,32.818
+Norway,NOR,2009,2.601
+Oman,OMN,2009,8.592
+Pakistan,PAK,2009,363
+Palestine,PSE,2009,20.106
+Panama,PAN,2009,5.292
+Papua New Guinea,PNG,2009,1.375
+Paraguay,PRY,2009,6.674
+Peru,PER,2009,4.193
+Philippines,PHL,2009,4.135
+Poland,POL,2009,8.667
+Portugal,PRT,2009,10.089
+Puerto Rico,PRI,2009,12.427
+Qatar,QAT,2009,1.711
+Romania,ROU,2009,5.844
+Russia,RUS,2009,7.668
+Rwanda,RWA,2009,1.003
+Saint Lucia,LCA,2009,16.484
+Saint Vincent and the Grenadines,VCT,2009,17.458
+Samoa,WSM,2009,6.908
+Sao Tome and Principe,STP,2009,23.221
+Saudi Arabia,SAU,2009,16.192
+Senegal,SEN,2009,13.816
+Serbia,SRB,2009,17.884
+Sierra Leone,SLE,2009,3.063
+Singapore,SGP,2009,6.547
+Slovakia,SVK,2009,12.83
+Slovenia,SVN,2009,5.806
+Solomon Islands,SLB,2009,1.768
+Somalia,SOM,2009,23.909
+South Africa,ZAF,2009,25.577
+South Asia (WB),0,2009,54.062.896
+South Korea,KOR,2009,2.681
+South Sudan,SSD,2009,13.229
+Spain,ESP,2009,18.134
+Sri Lanka,LKA,2009,8.782
+Sub-Saharan Africa (WB),0,2009,60.500.336
+Sudan,SDN,2009,22.842
+Suriname,SUR,2009,14.723
+Sweden,SWE,2009,8.008
+Switzerland,CHE,2009,4.524
+Syria,SYR,2009,22.057
+Tajikistan,TJK,2009,10.345
+Tanzania,TZA,2009,2.758
+Thailand,THA,2009,875
+Togo,TGO,2009,2.652
+Tonga,TON,2009,2.265
+Trinidad and Tobago,TTO,2009,6.279
+Tunisia,TUN,2009,18.754
+Turkey,TUR,2009,12.608
+Turkmenistan,TKM,2009,2.135
+Uganda,UGA,2009,4.243
+Ukraine,UKR,2009,7.36
+United Arab Emirates,ARE,2009,6.474
+United Kingdom,GBR,2009,6.423
+United States,USA,2009,8.059
+United States Virgin Islands,VIR,2009,12.494
+Upper-middle-income countries,0,2009,5.859.205
+Uruguay,URY,2009,10.436
+Uzbekistan,UZB,2009,5.949
+Vanuatu,VUT,2009,1.535
+Venezuela,VEN,2009,5.967
+Vietnam,VNM,2009,1.579
+World,OWID_WRL,2009,6.121.986
+Yemen,YEM,2009,19.026
+Zambia,ZMB,2009,10.439
+Zimbabwe,ZWE,2009,5.565
+Afghanistan,AFG,2010,14.487
+Albania,ALB,2010,15.879
+Algeria,DZA,2010,19.085
+Angola,AGO,2010,10.925
+Argentina,ARG,2010,9.188
+Armenia,ARM,2010,21.292
+Australia,AUS,2010,5.38
+Austria,AUT,2010,4.632
+Azerbaijan,AZE,2010,6.907
+Bahamas,BHS,2010,14.619
+Bahrain,BHR,2010,3.707
+Bangladesh,BGD,2010,4.439
+Barbados,BRB,2010,10.471
+Belarus,BLR,2010,4.701
+Belgium,BEL,2010,8.514
+Belize,BLZ,2010,12.596
+Benin,BEN,2010,1.147
+Bhutan,BTN,2010,4.054
+Bolivia,BOL,2010,3.157
+Bosnia and Herzegovina,BIH,2010,29.929
+Botswana,BWA,2010,21.556
+Brazil,BRA,2010,9.834
+Brunei,BRN,2010,7.879
+Bulgaria,BGR,2010,9.609
+Burkina Faso,BFA,2010,04.08
+Burundi,BDI,2010,1.142
+Cambodia,KHM,2010,0.79
+Cameroon,CMR,2010,4.904
+Canada,CAN,2010,7.243
+Cape Verde,CPV,2010,11.218
+Central African Republic,CAF,2010,6.781
+Chad,TCD,2010,592
+Channel Islands,OWID_CIS,2010,7.285
+Chile,CHL,2010,9.904
+China,CHN,2010,3.926
+Colombia,COL,2010,14.183
+Comoros,COM,2010,8.235
+Congo,COG,2010,21.339
+Costa Rica,CRI,2010,9.123
+Cote d'Ivoire,CIV,2010,6.989
+Croatia,HRV,2010,12.305
+Cuba,CUB,2010,2.709
+Cyprus,CYP,2010,6.414
+Czechia,CZE,2010,8.459
+Democratic Republic of Congo,COD,2010,3.2
+Denmark,DNK,2010,6.764
+Djibouti,DJI,2010,36.894
+Dominican Republic,DOM,2010,7.062
+East Asia and Pacific (WB),0,2010,38.159.966
+East Timor,TLS,2010,4.025
+Ecuador,ECU,2010,4.973
+Egypt,EGY,2010,21.898
+El Salvador,SLV,2010,4.156
+Equatorial Guinea,GNQ,2010,10.412
+Eritrea,ERI,2010,6.562
+Estonia,EST,2010,14.097
+Eswatini,SWZ,2010,28.872
+Ethiopia,ETH,2010,3.066
+Europe and Central Asia (WB),0,2010,8.827.498
+European Union (27),0,2010,99.353.895
+Fiji,FJI,2010,4.687
+Finland,FIN,2010,7.636
+France,FRA,2010,9.069
+French Polynesia,PYF,2010,13.225
+Gabon,GAB,2010,28.984
+Gambia,GMB,2010,12.661
+Georgia,GEO,2010,17.529
+Germany,DEU,2010,6.499
+Ghana,GHA,2010,5.868
+Greece,GRC,2010,16.362
+Guam,GUM,2010,9.287
+Guatemala,GTM,2010,3.849
+Guinea,GIN,2010,4.253
+Guinea-Bissau,GNB,2010,7.187
+Guyana,GUY,2010,14.507
+Haiti,HTI,2010,18.087
+High-income countries,0,2010,806.371
+Honduras,HND,2010,5.448
+Hong Kong,HKG,2010,3.5
+Hungary,HUN,2010,10.66
+Iceland,ISL,2010,6.729
+India,IND,2010,5.746
+Indonesia,IDN,2010,6.388
+Iran,IRN,2010,20.746
+Iraq,IRQ,2010,10.461
+Ireland,IRL,2010,11.405
+Israel,ISR,2010,7.952
+Italy,ITA,2010,9.592
+Jamaica,JAM,2010,16.267
+Japan,JPN,2010,4.605
+Jordan,JOR,2010,21.41
+Kazakhstan,KAZ,2010,6.64
+Kenya,KEN,2010,3.053
+Kuwait,KWT,2010,2.841
+Kyrgyzstan,KGZ,2010,9.938
+Laos,LAO,2010,0.66
+Latin America and Caribbean (WB),0,2010,8.419.609
+Latvia,LVA,2010,16.285
+Lebanon,LBN,2010,10.888
+Lesotho,LSO,2010,30.717
+Liberia,LBR,2010,2.297
+Libya,LBY,2010,25.275
+Lithuania,LTU,2010,14.524
+Low-income countries,0,2010,54.242.177
+Lower-middle-income countries,0,2010,5.543.796
+Luxembourg,LUX,2010,5.091
+Macao,MAC,2010,2.081
+Madagascar,MDG,2010,5.336
+Malawi,MWI,2010,6.896
+Malaysia,MYS,2010,3.58
+Maldives,MDV,2010,13.244
+Mali,MLI,2010,10.869
+Malta,MLT,2010,7.131
+Mauritania,MRT,2010,12.575
+Mauritius,MUS,2010,12.942
+Mexico,MEX,2010,5.18
+Middle East and North Africa (WB),0,2010,1.716.409
+Middle-income countries,0,2010,55.622.425
+Moldova,MDA,2010,5.739
+Mongolia,MNG,2010,5.891
+Montenegro,MNE,2010,20.735
+Morocco,MAR,2010,9.485
+Mozambique,MOZ,2010,3.048
+Myanmar,MMR,2010,843
+Namibia,NAM,2010,24.001
+Nepal,NPL,2010,1.573
+Netherlands,NLD,2010,5.542
+New Caledonia,NCL,2010,15.839
+New Zealand,NZL,2010,6.932
+Nicaragua,NIC,2010,8.783
+Niger,NER,2010,632
+Nigeria,NGA,2010,3.71
+North America (WB),0,2010,84.604.645
+North Korea,PRK,2010,2.821
+North Macedonia,MKD,2010,32.24
+Norway,NOR,2010,2.94
+Oman,OMN,2010,9.291
+Pakistan,PAK,2010,634
+Palestine,PSE,2010,21.561
+Panama,PAN,2010,5.113
+Papua New Guinea,PNG,2010,1.283
+Paraguay,PRY,2010,6.071
+Peru,PER,2010,4.13
+Philippines,PHL,2010,3.793
+Poland,POL,2010,10.026
+Portugal,PRT,2010,11.86
+Puerto Rico,PRI,2010,12.586
+Qatar,QAT,2010,2.779
+Romania,ROU,2010,6.178
+Russia,RUS,2010,6.837
+Rwanda,RWA,2010,1.048
+Saint Lucia,LCA,2010,18.358
+Saint Vincent and the Grenadines,VCT,2010,17.607
+Samoa,WSM,2010,6.767
+Sao Tome and Principe,STP,2010,22.202
+Saudi Arabia,SAU,2010,17.498
+Senegal,SEN,2010,13.828
+Serbia,SRB,2010,20.234
+Sierra Leone,SLE,2010,3.213
+Singapore,SGP,2010,4.42
+Slovakia,SVK,2010,14.601
+Slovenia,SVN,2010,7.023
+Solomon Islands,SLB,2010,1.411
+Somalia,SOM,2010,23.993
+South Africa,ZAF,2010,27.02
+South Asia (WB),0,2010,5.062.788
+South Korea,KOR,2010,2.831
+South Sudan,SSD,2010,13.226
+Spain,ESP,2010,20.22
+Sri Lanka,LKA,2010,7.468
+Sub-Saharan Africa (WB),0,2010,652.967
+Sudan,SDN,2010,26.467
+Suriname,SUR,2010,12.705
+Sweden,SWE,2010,8.52
+Switzerland,CHE,2010,5.184
+Syria,SYR,2010,21.972
+Tajikistan,TJK,2010,9.682
+Tanzania,TZA,2010,3.545
+Thailand,THA,2010,0.62
+Togo,TGO,2010,2.147
+Tonga,TON,2010,2.328
+Trinidad and Tobago,TTO,2010,4.661
+Tunisia,TUN,2010,18.929
+Turkey,TUR,2010,11.382
+Turkmenistan,TKM,2010,2.272
+Uganda,UGA,2010,4.262
+Ukraine,UKR,2010,6.863
+United Arab Emirates,ARE,2010,6.109
+United Kingdom,GBR,2010,6.88
+United States,USA,2010,8.61
+United States Virgin Islands,VIR,2010,12.687
+Upper-middle-income countries,0,2010,55.747.466
+Uruguay,URY,2010,9.442
+Uzbekistan,UZB,2010,6.423
+Vanuatu,VUT,2010,1.564
+Venezuela,VEN,2010,6.946
+Vietnam,VNM,2010,1.074
+World,OWID_WRL,2010,6.077.188
+Yemen,YEM,2010,20.196
+Zambia,ZMB,2010,13.248
+Zimbabwe,ZWE,2010,5.758
+Afghanistan,AFG,2011,14.14
+Albania,ALB,2011,13.749
+Algeria,DZA,2011,17.156
+Angola,AGO,2011,7.721
+Argentina,ARG,2011,8.501
+Armenia,ARM,2011,19.65
+Australia,AUS,2011,5.305
+Austria,AUT,2011,4.576
+Azerbaijan,AZE,2011,6.446
+Bahamas,BHS,2011,15.317
+Bahrain,BHR,2011,3.87
+Bangladesh,BGD,2011,5.545
+Barbados,BRB,2011,12.629
+Belarus,BLR,2011,4.601
+Belgium,BEL,2011,7.178
+Belize,BLZ,2011,12.599
+Benin,BEN,2011,2.873
+Bhutan,BTN,2011,4.868
+Bolivia,BOL,2011,2.683
+Bosnia and Herzegovina,BIH,2011,29.938
+Botswana,BWA,2011,21.785
+Brazil,BRA,2011,9.437
+Brunei,BRN,2011,8.015
+Bulgaria,BGR,2011,10.11
+Burkina Faso,BFA,2011,4.157
+Burundi,BDI,2011,1.146
+Cambodia,KHM,2011,0.48
+Cameroon,CMR,2011,4.691
+Canada,CAN,2011,7.009
+Cape Verde,CPV,2011,11.43
+Central African Republic,CAF,2011,6.7
+Chad,TCD,2011,0.62
+Channel Islands,OWID_CIS,2011,7.602
+Chile,CHL,2011,8.857
+China,CHN,2011,3.944
+Colombia,COL,2011,13.093
+Comoros,COM,2011,8.801
+Congo,COG,2011,21.463
+Costa Rica,CRI,2011,12.73
+Cote d'Ivoire,CIV,2011,7.258
+Croatia,HRV,2011,13.724
+Cuba,CUB,2011,3.516
+Cyprus,CYP,2011,7.625
+Czechia,CZE,2011,7.89
+Democratic Republic of Congo,COD,2011,3.404
+Denmark,DNK,2011,7.622
+Djibouti,DJI,2011,36.807
+Dominican Republic,DOM,2011,8.382
+East Asia and Pacific (WB),0,2011,37.088.447
+East Timor,TLS,2011,4.415
+Ecuador,ECU,2011,4.29
+Egypt,EGY,2011,22.294
+El Salvador,SLV,2011,3.416
+Equatorial Guinea,GNQ,2011,10.282
+Eritrea,ERI,2011,6.568
+Estonia,EST,2011,11.58
+Eswatini,SWZ,2011,28.149
+Ethiopia,ETH,2011,3.028
+Europe and Central Asia (WB),0,2011,8.665.978
+European Union (27),0,2011,10.067.937
+Fiji,FJI,2011,4.623
+Finland,FIN,2011,7.096
+France,FRA,2011,9.119
+French Polynesia,PYF,2011,13.303
+Gabon,GAB,2011,28.881
+Gambia,GMB,2011,12.891
+Georgia,GEO,2011,17.353
+Germany,DEU,2011,5.578
+Ghana,GHA,2011,5.942
+Greece,GRC,2011,21.535
+Guam,GUM,2011,15.816
+Guatemala,GTM,2011,3.616
+Guinea,GIN,2011,4.335
+Guinea-Bissau,GNB,2011,7.052
+Guyana,GUY,2011,14.745
+Haiti,HTI,2011,17.341
+High-income countries,0,2011,7.995.215
+Honduras,HND,2011,6.382
+Hong Kong,HKG,2011,2.796
+Hungary,HUN,2011,10.982
+Iceland,ISL,2011,6.205
+India,IND,2011,5.611
+Indonesia,IDN,2011,5.564
+Iran,IRN,2011,21.062
+Iraq,IRQ,2011,11.476
+Ireland,IRL,2011,12.498
+Israel,ISR,2011,6.953
+Italy,ITA,2011,9.54
+Jamaica,JAM,2011,16.816
+Japan,JPN,2011,4.148
+Jordan,JOR,2011,20.947
+Kazakhstan,KAZ,2011,6.214
+Kenya,KEN,2011,3.047
+Kuwait,KWT,2011,3.461
+Kyrgyzstan,KGZ,2011,9.852
+Laos,LAO,2011,677
+Latin America and Caribbean (WB),0,2011,8.078.711
+Latvia,LVA,2011,13.789
+Lebanon,LBN,2011,11.374
+Lesotho,LSO,2011,29.463
+Liberia,LBR,2011,2.165
+Libya,LBY,2011,25.401
+Lithuania,LTU,2011,12.911
+Low-income countries,0,2011,53.224.382
+Lower-middle-income countries,0,2011,53.831.067
+Luxembourg,LUX,2011,6.25
+Macao,MAC,2011,2.156
+Madagascar,MDG,2011,2.988
+Malawi,MWI,2011,6.935
+Malaysia,MYS,2011,3.314
+Maldives,MDV,2011,12.033
+Mali,MLI,2011,9.281
+Malta,MLT,2011,7.128
+Mauritania,MRT,2011,12.595
+Mauritius,MUS,2011,11.738
+Mexico,MEX,2011,5.132
+Middle East and North Africa (WB),0,2011,17.614.801
+Middle-income countries,0,2011,54.284.067
+Moldova,MDA,2011,5.585
+Mongolia,MNG,2011,4.425
+Montenegro,MNE,2011,20.132
+Morocco,MAR,2011,10.224
+Mozambique,MOZ,2011,3.167
+Myanmar,MMR,2011,894
+Namibia,NAM,2011,21.508
+Nepal,NPL,2011,1.802
+Netherlands,NLD,2011,5.417
+New Caledonia,NCL,2011,15.865
+New Zealand,NZL,2011,6.76
+Nicaragua,NIC,2011,7.273
+Niger,NER,2011,219
+Nigeria,NGA,2011,3.69
+North America (WB),0,2011,8.301.042
+North Korea,PRK,2011,2.909
+North Macedonia,MKD,2011,30.793
+Norway,NOR,2011,2.984
+Oman,OMN,2011,9.939
+Pakistan,PAK,2011,673
+Palestine,PSE,2011,22.447
+Panama,PAN,2011,2.787
+Papua New Guinea,PNG,2011,1.454
+Paraguay,PRY,2011,6.429
+Peru,PER,2011,3.816
+Philippines,PHL,2011,3.827
+Poland,POL,2011,10.396
+Portugal,PRT,2011,13.046
+Puerto Rico,PRI,2011,12.664
+Qatar,QAT,2011,3.439
+Romania,ROU,2011,6.466
+Russia,RUS,2011,06.09
+Rwanda,RWA,2011,1.094
+Saint Lucia,LCA,2011,20.244
+Saint Vincent and the Grenadines,VCT,2011,17.629
+Samoa,WSM,2011,6.686
+Sao Tome and Principe,STP,2011,21.326
+Saudi Arabia,SAU,2011,19.131
+Senegal,SEN,2011,13.895
+Serbia,SRB,2011,23.712
+Sierra Leone,SLE,2011,3.366
+Singapore,SGP,2011,4.331
+Slovakia,SVK,2011,13.631
+Slovenia,SVN,2011,8.175
+Solomon Islands,SLB,2011,1.191
+Somalia,SOM,2011,24.083
+South Africa,ZAF,2011,27.236
+South Asia (WB),0,2011,5.056.507
+South Korea,KOR,2011,2.636
+South Sudan,SSD,2011,13.247
+Spain,ESP,2011,21.813
+Sri Lanka,LKA,2011,6.977
+Sub-Saharan Africa (WB),0,2011,64.296.727
+Sudan,SDN,2011,30.174
+Suriname,SUR,2011,12.623
+Sweden,SWE,2011,7.758
+Switzerland,CHE,2011,4.79
+Syria,SYR,2011,21.215
+Tajikistan,TJK,2011,8.987
+Tanzania,TZA,2011,4.33
+Thailand,THA,2011,676
+Togo,TGO,2011,1.641
+Tonga,TON,2011,2.374
+Trinidad and Tobago,TTO,2011,4.241
+Tunisia,TUN,2011,27.342
+Turkey,TUR,2011,10.062
+Turkmenistan,TKM,2011,2.351
+Uganda,UGA,2011,4.21
+Ukraine,UKR,2011,6.708
+United Arab Emirates,ARE,2011,5.739
+United Kingdom,GBR,2011,7.341
+United States,USA,2011,8.461
+United States Virgin Islands,VIR,2011,13.241
+Upper-middle-income countries,0,2011,54.588.118
+Uruguay,URY,2011,8.077
+Uzbekistan,UZB,2011,4.822
+Vanuatu,VUT,2011,1.539
+Venezuela,VEN,2011,7.209
+Vietnam,VNM,2011,901
+World,OWID_WRL,2011,59.587.383
+Yemen,YEM,2011,21.877
+Zambia,ZMB,2011,10.744
+Zimbabwe,ZWE,2011,5.988
+Afghanistan,AFG,2012,14.453
+Albania,ALB,2012,11.482
+Algeria,DZA,2012,17.018
+Angola,AGO,2012,7.715
+Argentina,ARG,2012,8.819
+Armenia,ARM,2012,18.179
+Australia,AUS,2012,5.324
+Austria,AUT,2012,4.795
+Azerbaijan,AZE,2012,6.094
+Bahamas,BHS,2012,13.969
+Bahrain,BHR,2012,3.905
+Bangladesh,BGD,2012,6.599
+Barbados,BRB,2012,12.269
+Belarus,BLR,2012,4.481
+Belgium,BEL,2012,7.409
+Belize,BLZ,2012,12.575
+Benin,BEN,2012,2.698
+Bhutan,BTN,2012,2.214
+Bolivia,BOL,2012,2.835
+Bosnia and Herzegovina,BIH,2012,30.669
+Botswana,BWA,2012,21.988
+Brazil,BRA,2012,9.067
+Brunei,BRN,2012,7.943
+Bulgaria,BGR,2012,10.84
+Burkina Faso,BFA,2012,4.222
+Burundi,BDI,2012,1.147
+Cambodia,KHM,2012,499
+Cameroon,CMR,2012,4.479
+Canada,CAN,2012,6.817
+Cape Verde,CPV,2012,11.668
+Central African Republic,CAF,2012,6.601
+Chad,TCD,2012,634
+Channel Islands,OWID_CIS,2012,8.341
+Chile,CHL,2012,8.121
+China,CHN,2012,3.962
+Colombia,COL,2012,12.649
+Comoros,COM,2012,9.382
+Congo,COG,2012,21.456
+Costa Rica,CRI,2012,11.605
+Cote d'Ivoire,CIV,2012,7.343
+Croatia,HRV,2012,15.979
+Cuba,CUB,2012,3.615
+Cyprus,CYP,2012,11.026
+Czechia,CZE,2012,8.213
+Democratic Republic of Congo,COD,2012,3.607
+Denmark,DNK,2012,7.795
+Djibouti,DJI,2012,36.792
+Dominican Republic,DOM,2012,9.239
+East Asia and Pacific (WB),0,2012,3.640.181
+East Timor,TLS,2012,4.767
+Ecuador,ECU,2012,3.82
+Egypt,EGY,2012,23.893
+El Salvador,SLV,2012,3.3
+Equatorial Guinea,GNQ,2012,10.126
+Eritrea,ERI,2012,6.556
+Estonia,EST,2012,9.098
+Eswatini,SWZ,2012,27.361
+Ethiopia,ETH,2012,2.994
+Europe and Central Asia (WB),0,2012,8.880.352
+European Union (27),0,2012,10.966.613
+Fiji,FJI,2012,4.83
+Finland,FIN,2012,7.051
+France,FRA,2012,9.358
+French Polynesia,PYF,2012,13.195
+Gabon,GAB,2012,28.811
+Gambia,GMB,2012,12.807
+Georgia,GEO,2012,18.338
+Germany,DEU,2012,5.181
+Ghana,GHA,2012,6.115
+Greece,GRC,2012,28.244
+Guam,GUM,2012,11.548
+Guatemala,GTM,2012,3.468
+Guinea,GIN,2012,4.422
+Guinea-Bissau,GNB,2012,6.906
+Guyana,GUY,2012,15.006
+Haiti,HTI,2012,17.073
+High-income countries,0,2012,8.151.328
+Honduras,HND,2012,5.168
+Hong Kong,HKG,2012,2.762
+Hungary,HUN,2012,10.608
+Iceland,ISL,2012,5.659
+India,IND,2012,5.571
+Indonesia,IDN,2012,4.786
+Iran,IRN,2012,19.822
+Iraq,IRQ,2012,12.454
+Ireland,IRL,2012,12.748
+Israel,ISR,2012,6.982
+Italy,ITA,2012,11.824
+Jamaica,JAM,2012,18.101
+Japan,JPN,2012,4.052
+Jordan,JOR,2012,19.703
+Kazakhstan,KAZ,2012,6.491
+Kenya,KEN,2012,3.036
+Kuwait,KWT,2012,4.206
+Kyrgyzstan,KGZ,2012,9.475
+Laos,LAO,2012,688
+Latin America and Caribbean (WB),0,2012,7.825.236
+Latvia,LVA,2012,13.948
+Lebanon,LBN,2012,11.758
+Lesotho,LSO,2012,28.165
+Liberia,LBR,2012,2.037
+Libya,LBY,2012,24.971
+Lithuania,LTU,2012,11.567
+Low-income countries,0,2012,52.217.355
+Lower-middle-income countries,0,2012,53.485.107
+Luxembourg,LUX,2012,5.905
+Macao,MAC,2012,1.65
+Madagascar,MDG,2012,631
+Malawi,MWI,2012,6.98
+Malaysia,MYS,2012,3.225
+Maldives,MDV,2012,10.632
+Mali,MLI,2012,8.928
+Malta,MLT,2012,7.212
+Mauritania,MRT,2012,12.624
+Mauritius,MUS,2012,11.737
+Mexico,MEX,2012,4.884
+Middle East and North Africa (WB),0,2012,17.903.776
+Middle-income countries,0,2012,53.518.753
+Moldova,MDA,2012,4.295
+Mongolia,MNG,2012,3.513
+Montenegro,MNE,2012,20.247
+Morocco,MAR,2012,9.942
+Mozambique,MOZ,2012,3.292
+Myanmar,MMR,2012,881
+Namibia,NAM,2012,18.991
+Nepal,NPL,2012,2.094
+Netherlands,NLD,2012,6.229
+New Caledonia,NCL,2012,15.897
+New Zealand,NZL,2012,7.389
+Nicaragua,NIC,2012,5.816
+Niger,NER,2012,3.159
+Nigeria,NGA,2012,3.534
+North America (WB),0,2012,7.768.036
+North Korea,PRK,2012,2.88
+North Macedonia,MKD,2012,30.334
+Norway,NOR,2012,2.63
+Oman,OMN,2012,10.49
+Pakistan,PAK,2012,2.025
+Palestine,PSE,2012,26.026
+Panama,PAN,2012,3.082
+Papua New Guinea,PNG,2012,1.433
+Paraguay,PRY,2012,5.469
+Peru,PER,2012,3.716
+Philippines,PHL,2012,3.725
+Poland,POL,2012,10.911
+Portugal,PRT,2012,15.504
+Puerto Rico,PRI,2012,12.094
+Qatar,QAT,2012,2.922
+Romania,ROU,2012,6.079
+Russia,RUS,2012,5.071
+Rwanda,RWA,2012,1.14
+Saint Lucia,LCA,2012,21.204
+Saint Vincent and the Grenadines,VCT,2012,17.686
+Samoa,WSM,2012,10.334
+Sao Tome and Principe,STP,2012,20.43
+Saudi Arabia,SAU,2012,21.121
+Senegal,SEN,2012,12.184
+Serbia,SRB,2012,24.989
+Sierra Leone,SLE,2012,3.505
+Singapore,SGP,2012,4.234
+Slovakia,SVK,2012,14.515
+Slovenia,SVN,2012,9.369
+Solomon Islands,SLB,2012,01.01
+Somalia,SOM,2012,24.135
+South Africa,ZAF,2012,27.094
+South Asia (WB),0,2012,52.528.353
+South Korea,KOR,2012,2.556
+South Sudan,SSD,2012,13.242
+Spain,ESP,2012,25.034
+Sri Lanka,LKA,2012,6.159
+Sub-Saharan Africa (WB),0,2012,63.023.405
+Sudan,SDN,2012,29.935
+Suriname,SUR,2012,12.604
+Sweden,SWE,2012,7.717
+Switzerland,CHE,2012,4.723
+Syria,SYR,2012,21.227
+Tajikistan,TJK,2012,8.278
+Tanzania,TZA,2012,4.101
+Thailand,THA,2012,531
+Togo,TGO,2012,1.651
+Tonga,TON,2012,2.709
+Trinidad and Tobago,TTO,2012,4.56
+Tunisia,TUN,2012,25.576
+Turkey,TUR,2012,9.365
+Turkmenistan,TKM,2012,2.38
+Uganda,UGA,2012,4.274
+Ukraine,UKR,2012,6.496
+United Arab Emirates,ARE,2012,5.445
+United Kingdom,GBR,2012,7.381
+United States,USA,2012,7.887
+United States Virgin Islands,VIR,2012,13.388
+Upper-middle-income countries,0,2012,5.354.115
+Uruguay,URY,2012,8.277
+Uzbekistan,UZB,2012,4.721
+Vanuatu,VUT,2012,1.58
+Venezuela,VEN,2012,7.106
+Vietnam,VNM,2012,931
+World,OWID_WRL,2012,5.928.558
+Yemen,YEM,2012,23.027
+Zambia,ZMB,2012,8.096
+Zimbabwe,ZWE,2012,5.695
+Afghanistan,AFG,2013,14.248
+Albania,ALB,2013,13.356
+Algeria,DZA,2013,16.285
+Angola,AGO,2013,7.741
+Argentina,ARG,2013,8.484
+Armenia,ARM,2013,18.142
+Australia,AUS,2013,5.606
+Austria,AUT,2013,5.287
+Azerbaijan,AZE,2013,5.945
+Bahamas,BHS,2013,16.255
+Bahrain,BHR,2013,3.819
+Bangladesh,BGD,2013,7.588
+Barbados,BRB,2013,11.432
+Belarus,BLR,2013,4.413
+Belgium,BEL,2013,8.175
+Belize,BLZ,2013,12.582
+Benin,BEN,2013,2.518
+Bhutan,BTN,2013,3.76
+Bolivia,BOL,2013,3.033
+Bosnia and Herzegovina,BIH,2013,29.012
+Botswana,BWA,2013,22.102
+Brazil,BRA,2013,8.776
+Brunei,BRN,2013,7.861
+Bulgaria,BGR,2013,11.841
+Burkina Faso,BFA,2013,4.292
+Burundi,BDI,2013,1.148
+Cambodia,KHM,2013,523
+Cameroon,CMR,2013,4.264
+Canada,CAN,2013,6.597
+Cape Verde,CPV,2013,11.892
+Central African Republic,CAF,2013,6.517
+Chad,TCD,2013,656
+Channel Islands,OWID_CIS,2013,8.962
+Chile,CHL,2013,7.168
+China,CHN,2013,3.98
+Colombia,COL,2013,11.665
+Comoros,COM,2013,9.943
+Congo,COG,2013,21.603
+Costa Rica,CRI,2013,10.404
+Cote d'Ivoire,CIV,2013,5.22
+Croatia,HRV,2013,16.759
+Cuba,CUB,2013,3.55
+Cyprus,CYP,2013,15.131
+Czechia,CZE,2013,8.288
+Democratic Republic of Congo,COD,2013,3.625
+Denmark,DNK,2013,7.669
+Djibouti,DJI,2013,36.731
+Dominican Republic,DOM,2013,10.567
+East Asia and Pacific (WB),0,2013,35.951.648
+East Timor,TLS,2013,5.176
+Ecuador,ECU,2013,3.662
+Egypt,EGY,2013,24.05
+El Salvador,SLV,2013,3.329
+Equatorial Guinea,GNQ,2013,9.944
+Eritrea,ERI,2013,6.563
+Estonia,EST,2013,8.156
+Eswatini,SWZ,2013,26.643
+Ethiopia,ETH,2013,2.945
+Europe and Central Asia (WB),0,2013,9.137.145
+European Union (27),0,2013,11.469.727
+Fiji,FJI,2013,4.926
+Finland,FIN,2013,7.516
+France,FRA,2013,9.79
+French Polynesia,PYF,2013,13.133
+Gabon,GAB,2013,28.71
+Gambia,GMB,2013,12.796
+Georgia,GEO,2013,16.152
+Germany,DEU,2013,4.919
+Ghana,GHA,2013,6.264
+Greece,GRC,2013,31.392
+Guam,GUM,2013,10.903
+Guatemala,GTM,2013,3.659
+Guinea,GIN,2013,4.529
+Guinea-Bissau,GNB,2013,6.789
+Guyana,GUY,2013,15.285
+Haiti,HTI,2013,16.918
+High-income countries,0,2013,8.004.772
+Honduras,HND,2013,7.544
+Hong Kong,HKG,2013,2.97
+Hungary,HUN,2013,10.142
+Iceland,ISL,2013,5.081
+India,IND,2013,5.548
+Indonesia,IDN,2013,4.272
+Iran,IRN,2013,19.937
+Iraq,IRQ,2013,17.239
+Ireland,IRL,2013,12.415
+Israel,ISR,2013,6.242
+Italy,ITA,2013,13.066
+Jamaica,JAM,2013,20.093
+Japan,JPN,2013,3.658
+Jordan,JOR,2013,21.589
+Kazakhstan,KAZ,2013,5.865
+Kenya,KEN,2013,3.008
+Kuwait,KWT,2013,5.031
+Kyrgyzstan,KGZ,2013,9.66
+Laos,LAO,2013,698
+Latin America and Caribbean (WB),0,2013,77.081.437
+Latvia,LVA,2013,11.141
+Lebanon,LBN,2013,12.15
+Lesotho,LSO,2013,26.959
+Liberia,LBR,2013,1.907
+Libya,LBY,2013,25.448
+Lithuania,LTU,2013,10.483
+Low-income countries,0,2013,5.088.331
+Lower-middle-income countries,0,2013,5.344.089
+Luxembourg,LUX,2013,6.383
+Macao,MAC,2013,1.396
+Madagascar,MDG,2013,1.021
+Malawi,MWI,2013,6.989
+Malaysia,MYS,2013,3.491
+Maldives,MDV,2013,9.457
+Mali,MLI,2013,8.506
+Malta,MLT,2013,6.141
+Mauritania,MRT,2013,12.422
+Mauritius,MUS,2013,11.169
+Mexico,MEX,2013,4.954
+Middle East and North Africa (WB),0,2013,17.897.264
+Middle-income countries,0,2013,5.359.782
+Moldova,MDA,2013,4.137
+Mongolia,MNG,2013,4.468
+Montenegro,MNE,2013,18.825
+Morocco,MAR,2013,9.568
+Mozambique,MOZ,2013,3.42
+Myanmar,MMR,2013,875
+Namibia,NAM,2013,20.702
+Nepal,NPL,2013,2.33
+Netherlands,NLD,2013,7.299
+New Caledonia,NCL,2013,15.741
+New Zealand,NZL,2013,6.425
+Nicaragua,NIC,2013,5.474
+Niger,NER,2013,1.84
+Nigeria,NGA,2013,3.364
+North America (WB),0,2013,7.015.944
+North Korea,PRK,2013,2.891
+North Macedonia,MKD,2013,29.024
+Norway,NOR,2013,3.23
+Oman,OMN,2013,11.317
+Pakistan,PAK,2013,3.421
+Palestine,PSE,2013,27.424
+Panama,PAN,2013,3.083
+Papua New Guinea,PNG,2013,1.454
+Paraguay,PRY,2013,4.965
+Peru,PER,2013,3.948
+Philippines,PHL,2013,3.822
+Poland,POL,2013,11.114
+Portugal,PRT,2013,16.365
+Puerto Rico,PRI,2013,11.808
+Qatar,QAT,2013,1.62
+Romania,ROU,2013,6.312
+Russia,RUS,2013,5.141
+Rwanda,RWA,2013,1.198
+Saint Lucia,LCA,2013,23.954
+Saint Vincent and the Grenadines,VCT,2013,17.785
+Samoa,WSM,2013,10.257
+Sao Tome and Principe,STP,2013,20.406
+Saudi Arabia,SAU,2013,20.932
+Senegal,SEN,2013,10.572
+Serbia,SRB,2013,23.846
+Sierra Leone,SLE,2013,3.649
+Singapore,SGP,2013,4.407
+Slovakia,SVK,2013,14.524
+Slovenia,SVN,2013,10.91
+Solomon Islands,SLB,2013,716
+Somalia,SOM,2013,24.161
+South Africa,ZAF,2013,26.548
+South Asia (WB),0,2013,55.108.185
+South Korea,KOR,2013,2.456
+South Sudan,SSD,2013,13.165
+Spain,ESP,2013,26.667
+Sri Lanka,LKA,2013,6.476
+Sub-Saharan Africa (WB),0,2013,61.278.195
+Sudan,SDN,2013,29.6
+Suriname,SUR,2013,11.083
+Sweden,SWE,2013,7.887
+Switzerland,CHE,2013,4.923
+Syria,SYR,2013,21.041
+Tajikistan,TJK,2013,7.566
+Tanzania,TZA,2013,3.804
+Thailand,THA,2013,239
+Togo,TGO,2013,1.662
+Tonga,TON,2013,2.903
+Trinidad and Tobago,TTO,2013,3.237
+Tunisia,TUN,2013,22.983
+Turkey,TUR,2013,10.529
+Turkmenistan,TKM,2013,2.424
+Uganda,UGA,2013,2.461
+Ukraine,UKR,2013,6.248
+United Arab Emirates,ARE,2013,5.107
+United Kingdom,GBR,2013,7.033
+United States,USA,2013,7.069
+United States Virgin Islands,VIR,2013,13.963
+Upper-middle-income countries,0,2013,5.370.261
+Uruguay,URY,2013,8.211
+Uzbekistan,UZB,2013,4.721
+Vanuatu,VUT,2013,1.595
+Venezuela,VEN,2013,8.598
+Vietnam,VNM,2013,1.143
+World,OWID_WRL,2013,58.992.934
+Yemen,YEM,2013,24.444
+Zambia,ZMB,2013,8.982
+Zimbabwe,ZWE,2013,5.451
+Afghanistan,AFG,2014,14.152
+Albania,ALB,2014,15.456
+Algeria,DZA,2014,15.581
+Angola,AGO,2014,7.754
+Argentina,ARG,2014,8.374
+Armenia,ARM,2014,19.468
+Australia,AUS,2014,6.172
+Austria,AUT,2014,5.381
+Azerbaijan,AZE,2014,5.839
+Bahamas,BHS,2014,14.601
+Bahrain,BHR,2014,3.802
+Bangladesh,BGD,2014,7.482
+Barbados,BRB,2014,12.653
+Belarus,BLR,2014,4.368
+Belgium,BEL,2014,7.938
+Belize,BLZ,2014,14.012
+Benin,BEN,2014,2.366
+Bhutan,BTN,2014,3.606
+Bolivia,BOL,2014,2.878
+Bosnia and Herzegovina,BIH,2014,31.179
+Botswana,BWA,2014,22.381
+Brazil,BRA,2014,8.115
+Brunei,BRN,2014,7.912
+Bulgaria,BGR,2014,10.398
+Burkina Faso,BFA,2014,4.37
+Burundi,BDI,2014,1.152
+Cambodia,KHM,2014,0.69
+Cameroon,CMR,2014,04.05
+Canada,CAN,2014,6.389
+Cape Verde,CPV,2014,12.116
+Central African Republic,CAF,2014,6.478
+Chad,TCD,2014,675
+Channel Islands,OWID_CIS,2014,8.711
+Chile,CHL,2014,7.121
+China,CHN,2014,3.998
+Colombia,COL,2014,11.02
+Comoros,COM,2014,10.549
+Congo,COG,2014,21.596
+Costa Rica,CRI,2014,11.242
+Cote d'Ivoire,CIV,2014,4.603
+Croatia,HRV,2014,18.262
+Cuba,CUB,2014,3.138
+Cyprus,CYP,2014,15.019
+Czechia,CZE,2014,7.394
+Democratic Republic of Congo,COD,2014,3.643
+Denmark,DNK,2014,7.147
+Djibouti,DJI,2014,36.635
+Dominican Republic,DOM,2014,9.734
+East Asia and Pacific (WB),0,2014,35.769.565
+East Timor,TLS,2014,5.506
+Ecuador,ECU,2014,4.142
+Egypt,EGY,2014,23.878
+El Salvador,SLV,2014,3.14
+Equatorial Guinea,GNQ,2014,9.834
+Eritrea,ERI,2014,6.614
+Estonia,EST,2014,6.808
+Eswatini,SWZ,2014,25.947
+Ethiopia,ETH,2014,2.954
+Europe and Central Asia (WB),0,2014,8.884.912
+European Union (27),0,2014,11.040.262
+Fiji,FJI,2014,5.082
+Finland,FIN,2014,7.945
+France,FRA,2014,10.025
+French Polynesia,PYF,2014,13.149
+Gabon,GAB,2014,28.642
+Gambia,GMB,2014,12.807
+Georgia,GEO,2014,14.455
+Germany,DEU,2014,4.632
+Ghana,GHA,2014,6.437
+Greece,GRC,2014,30.2
+Guam,GUM,2014,7.217
+Guatemala,GTM,2014,3.385
+Guinea,GIN,2014,4.621
+Guinea-Bissau,GNB,2014,6.73
+Guyana,GUY,2014,15.565
+Haiti,HTI,2014,16.835
+High-income countries,0,2014,74.956.656
+Honduras,HND,2014,9.38
+Hong Kong,HKG,2014,3.011
+Hungary,HUN,2014,7.914
+Iceland,ISL,2014,4.789
+India,IND,2014,5.526
+Indonesia,IDN,2014,3.882
+Iran,IRN,2014,19.833
+Iraq,IRQ,2014,21.966
+Ireland,IRL,2014,10.875
+Israel,ISR,2014,5.916
+Italy,ITA,2014,13.794
+Jamaica,JAM,2014,18.165
+Japan,JPN,2014,3.426
+Jordan,JOR,2014,20.083
+Kazakhstan,KAZ,2014,5.684
+Kenya,KEN,2014,2.99
+Kuwait,KWT,2014,5.879
+Kyrgyzstan,KGZ,2014,9.492
+Laos,LAO,2014,715
+Latin America and Caribbean (WB),0,2014,7.337.215
+Latvia,LVA,2014,9.839
+Lebanon,LBN,2014,12.575
+Lesotho,LSO,2014,26.204
+Liberia,LBR,2014,1.785
+Libya,LBY,2014,25.441
+Lithuania,LTU,2014,9.224
+Low-income countries,0,2014,50.296.917
+Lower-middle-income countries,0,2014,53.531.957
+Luxembourg,LUX,2014,5.767
+Macao,MAC,2014,1.436
+Madagascar,MDG,2014,1.411
+Malawi,MWI,2014,7.076
+Malaysia,MYS,2014,3.222
+Maldives,MDV,2014,8.161
+Mali,MLI,2014,6.301
+Malta,MLT,2014,5.098
+Mauritania,MRT,2014,12.215
+Mauritius,MUS,2014,10.854
+Mexico,MEX,2014,4.848
+Middle East and North Africa (WB),0,2014,18.039.307
+Middle-income countries,0,2014,53.456.206
+Moldova,MDA,2014,2.914
+Mongolia,MNG,2014,4.402
+Montenegro,MNE,2014,18.226
+Morocco,MAR,2014,10.279
+Mozambique,MOZ,2014,3.545
+Myanmar,MMR,2014,887
+Namibia,NAM,2014,20.376
+Nepal,NPL,2014,2.691
+Netherlands,NLD,2014,7.755
+New Caledonia,NCL,2014,15.598
+New Zealand,NZL,2014,6.129
+Nicaragua,NIC,2014,5.616
+Niger,NER,2014,424
+Nigeria,NGA,2014,5.385
+North America (WB),0,2014,6.098.627
+North Korea,PRK,2014,2.814
+North Macedonia,MKD,2014,28.616
+Norway,NOR,2014,3.238
+Oman,OMN,2014,12.156
+Pakistan,PAK,2014,2.018
+Palestine,PSE,2014,26.156
+Panama,PAN,2014,3.504
+Papua New Guinea,PNG,2014,1.376
+Paraguay,PRY,2014,6.836
+Peru,PER,2014,3.405
+Philippines,PHL,2014,3.721
+Poland,POL,2014,9.591
+Portugal,PRT,2014,14.326
+Puerto Rico,PRI,2014,11.346
+Qatar,QAT,2014,1.064
+Romania,ROU,2014,06.09
+Russia,RUS,2014,4.821
+Rwanda,RWA,2014,1.243
+Saint Lucia,LCA,2014,23.105
+Saint Vincent and the Grenadines,VCT,2014,17.914
+Samoa,WSM,2014,10.339
+Sao Tome and Principe,STP,2014,20.373
+Saudi Arabia,SAU,2014,21.802
+Senegal,SEN,2014,8.9
+Serbia,SRB,2014,20.375
+Sierra Leone,SLE,2014,3.835
+Singapore,SGP,2014,4.112
+Slovakia,SVK,2014,13.628
+Slovenia,SVN,2014,10.553
+Solomon Islands,SLB,2014,0.76
+Somalia,SOM,2014,24.188
+South Africa,ZAF,2014,27.043
+South Asia (WB),0,2014,53.676.577
+South Korea,KOR,2014,2.957
+South Sudan,SSD,2014,13.225
+Spain,ESP,2014,25.424
+Sri Lanka,LKA,2014,6.318
+Sub-Saharan Africa (WB),0,2014,63.103.886
+Sudan,SDN,2014,29.379
+Suriname,SUR,2014,11.999
+Sweden,SWE,2014,7.688
+Switzerland,CHE,2014,4.991
+Syria,SYR,2014,20.616
+Tajikistan,TJK,2014,6.848
+Tanzania,TZA,2014,2.703
+Thailand,THA,2014,564
+Togo,TGO,2014,1.672
+Tonga,TON,2014,3.021
+Trinidad and Tobago,TTO,2014,2.933
+Tunisia,TUN,2014,21.378
+Turkey,TUR,2014,11.808
+Turkmenistan,TKM,2014,2.475
+Uganda,UGA,2014,2.451
+Ukraine,UKR,2014,7.569
+United Arab Emirates,ARE,2014,4.789
+United Kingdom,GBR,2014,5.821
+United States,USA,2014,6.062
+United States Virgin Islands,VIR,2014,14.209
+Upper-middle-income countries,0,2014,53.405.294
+Uruguay,URY,2014,8.34
+Uzbekistan,UZB,2014,4.92
+Vanuatu,VUT,2014,1.556
+Venezuela,VEN,2014,7.609
+Vietnam,VNM,2014,1.109
+World,OWID_WRL,2014,5.773.772
+Yemen,YEM,2014,26.061
+Zambia,ZMB,2014,9.867
+Zimbabwe,ZWE,2014,5.166
+Afghanistan,AFG,2015,14.094
+Albania,ALB,2015,17.114
+Algeria,DZA,2015,16.567
+Angola,AGO,2015,7.781
+Argentina,ARG,2015,8.624
+Armenia,ARM,2015,19.256
+Australia,AUS,2015,6.066
+Austria,AUT,2015,5.306
+Azerbaijan,AZE,2015,5.867
+Bahamas,BHS,2015,12.954
+Bahrain,BHR,2015,3.823
+Bangladesh,BGD,2015,7.418
+Barbados,BRB,2015,8.968
+Belarus,BLR,2015,4.222
+Belgium,BEL,2015,7.769
+Belize,BLZ,2015,11.055
+Benin,BEN,2015,2.243
+Bhutan,BTN,2015,3.254
+Bolivia,BOL,2015,3.805
+Bosnia and Herzegovina,BIH,2015,30.676
+Botswana,BWA,2015,22.657
+Brazil,BRA,2015,10.06
+Brunei,BRN,2015,8.638
+Bulgaria,BGR,2015,8.414
+Burkina Faso,BFA,2015,4.441
+Burundi,BDI,2015,1.185
+Cambodia,KHM,2015,457
+Cameroon,CMR,2015,4.072
+Canada,CAN,2015,6.292
+Cape Verde,CPV,2015,12.337
+Central African Republic,CAF,2015,6.554
+Chad,TCD,2015,698
+Channel Islands,OWID_CIS,2015,8.436
+Chile,CHL,2015,7.136
+China,CHN,2015,4.016
+Colombia,COL,2015,10.842
+Comoros,COM,2015,10.51
+Congo,COG,2015,21.738
+Costa Rica,CRI,2015,11.147
+Cote d'Ivoire,CIV,2015,3.983
+Croatia,HRV,2015,16.9
+Cuba,CUB,2015,2.584
+Cyprus,CYP,2015,14.765
+Czechia,CZE,2015,6.078
+Democratic Republic of Congo,COD,2015,3.672
+Denmark,DNK,2015,6.53
+Djibouti,DJI,2015,36.555
+Dominican Republic,DOM,2015,10.921
+East Asia and Pacific (WB),0,2015,36.442.177
+East Timor,TLS,2015,5.892
+Ecuador,ECU,2015,4.521
+Egypt,EGY,2015,24.648
+El Salvador,SLV,2015,3.477
+Equatorial Guinea,GNQ,2015,9.889
+Eritrea,ERI,2015,6.776
+Estonia,EST,2015,6.134
+Eswatini,SWZ,2015,25.196
+Ethiopia,ETH,2015,2.961
+Europe and Central Asia (WB),0,2015,8.550.553
+European Union (27),0,2015,10.195.894
+Fiji,FJI,2015,5.302
+Finland,FIN,2015,8.842
+France,FRA,2015,9.904
+French Polynesia,PYF,2015,13.093
+Gabon,GAB,2015,28.562
+Gambia,GMB,2015,12.708
+Georgia,GEO,2015,13.91
+Germany,DEU,2015,4.219
+Ghana,GHA,2015,6.576
+Greece,GRC,2015,28.893
+Guam,GUM,2015,6.561
+Guatemala,GTM,2015,3.544
+Guinea,GIN,2015,4.71
+Guinea-Bissau,GNB,2015,6.795
+Guyana,GUY,2015,15.834
+Haiti,HTI,2015,16.822
+High-income countries,0,2015,6.882.229
+Honduras,HND,2015,8.955
+Hong Kong,HKG,2015,3.177
+Hungary,HUN,2015,7.037
+Iceland,ISL,2015,4.054
+India,IND,2015,5.491
+Indonesia,IDN,2015,4.423
+Iran,IRN,2015,19.584
+Iraq,IRQ,2015,22.159
+Ireland,IRL,2015,8.913
+Israel,ISR,2015,5.387
+Italy,ITA,2015,12.692
+Jamaica,JAM,2015,17.878
+Japan,JPN,2015,3.113
+Jordan,JOR,2015,22.078
+Kazakhstan,KAZ,2015,5.516
+Kenya,KEN,2015,2.967
+Kuwait,KWT,2015,4.698
+Kyrgyzstan,KGZ,2015,9.023
+Laos,LAO,2015,731
+Latin America and Caribbean (WB),0,2015,7.928.689
+Latvia,LVA,2015,8.637
+Lebanon,LBN,2015,13.012
+Lesotho,LSO,2015,25.417
+Liberia,LBR,2015,1.786
+Libya,LBY,2015,25.507
+Lithuania,LTU,2015,8.159
+Low-income countries,0,2015,51.717.806
+Lower-middle-income countries,0,2015,5.636.763
+Luxembourg,LUX,2015,7.346
+Macao,MAC,2015,1.601
+Madagascar,MDG,2015,1.805
+Malawi,MWI,2015,7.181
+Malaysia,MYS,2015,3.392
+Maldives,MDV,2015,6.793
+Mali,MLI,2015,8.785
+Malta,MLT,2015,5.392
+Mauritania,MRT,2015,11.998
+Mauritius,MUS,2015,10.713
+Mexico,MEX,2015,4.447
+Middle East and North Africa (WB),0,2015,18.390.148
+Middle-income countries,0,2015,5.593.914
+Moldova,MDA,2015,3.441
+Mongolia,MNG,2015,4.246
+Montenegro,MNE,2015,17.305
+Morocco,MAR,2015,10.401
+Mozambique,MOZ,2015,3.679
+Myanmar,MMR,2015,905
+Namibia,NAM,2015,22.671
+Nepal,NPL,2015,2.879
+Netherlands,NLD,2015,7.268
+New Caledonia,NCL,2015,15.73
+New Zealand,NZL,2015,5.899
+Nicaragua,NIC,2015,5.446
+Niger,NER,2015,437
+Nigeria,NGA,2015,5.097
+North America (WB),0,2015,53.026.447
+North Korea,PRK,2015,2.816
+North Macedonia,MKD,2015,25.065
+Norway,NOR,2015,4.007
+Oman,OMN,2015,12.783
+Pakistan,PAK,2015,6.157
+Palestine,PSE,2015,34.298
+Panama,PAN,2015,3.926
+Papua New Guinea,PNG,2015,1.452
+Paraguay,PRY,2015,4.948
+Peru,PER,2015,3.346
+Philippines,PHL,2015,3.221
+Poland,POL,2015,7.71
+Portugal,PRT,2015,12.741
+Puerto Rico,PRI,2015,9.671
+Qatar,QAT,2015,876
+Romania,ROU,2015,5.852
+Russia,RUS,2015,5.307
+Rwanda,RWA,2015,1.227
+Saint Lucia,LCA,2015,22.441
+Saint Vincent and the Grenadines,VCT,2015,18.019
+Samoa,WSM,2015,10.054
+Sao Tome and Principe,STP,2015,20.422
+Saudi Arabia,SAU,2015,21.796
+Senegal,SEN,2015,7.306
+Serbia,SRB,2015,18.765
+Sierra Leone,SLE,2015,3.912
+Singapore,SGP,2015,3.978
+Slovakia,SVK,2015,12.888
+Slovenia,SVN,2015,10.038
+Solomon Islands,SLB,2015,761
+Somalia,SOM,2015,24.21
+South Africa,ZAF,2015,27.548
+South Asia (WB),0,2015,57.930.098
+South Korea,KOR,2015,3.486
+South Sudan,SSD,2015,13.312
+Spain,ESP,2015,23.551
+Sri Lanka,LKA,2015,7.427
+Sub-Saharan Africa (WB),0,2015,63.757.777
+Sudan,SDN,2015,29.22
+Suriname,SUR,2015,11.444
+Sweden,SWE,2015,7.289
+Switzerland,CHE,2015,4.913
+Syria,SYR,2015,20.394
+Tajikistan,TJK,2015,6.133
+Tanzania,TZA,2015,2.726
+Thailand,THA,2015,611
+Togo,TGO,2015,1.683
+Tonga,TON,2015,3.208
+Trinidad and Tobago,TTO,2015,2.946
+Tunisia,TUN,2015,22.18
+Turkey,TUR,2015,12.563
+Turkmenistan,TKM,2015,2.502
+Uganda,UGA,2015,2.453
+Ukraine,UKR,2015,8.106
+United Arab Emirates,ARE,2015,4.47
+United Kingdom,GBR,2015,5.124
+United States,USA,2015,5.178
+United States Virgin Islands,VIR,2015,13.897
+Upper-middle-income countries,0,2015,5.564.968
+Uruguay,URY,2015,8.844
+Uzbekistan,UZB,2015,05.02
+Vanuatu,VUT,2015,1.608
+Venezuela,VEN,2015,6.502
+Vietnam,VNM,2015,1.709
+World,OWID_WRL,2015,58.283.954
+Yemen,YEM,2015,26.426
+Zambia,ZMB,2015,10.772
+Zimbabwe,ZWE,2015,5.177
+Afghanistan,AFG,2016,14.084
+Albania,ALB,2016,14.467
+Algeria,DZA,2016,18.239
+Angola,AGO,2016,7.807
+Argentina,ARG,2016,9.234
+Armenia,ARM,2016,17.491
+Australia,AUS,2016,5.78
+Austria,AUT,2016,5.538
+Azerbaijan,AZE,2016,5.908
+Bahamas,BHS,2016,14.384
+Bahrain,BHR,2016,3.819
+Bangladesh,BGD,2016,7.357
+Barbados,BRB,2016,8.654
+Belarus,BLR,2016,4.186
+Belgium,BEL,2016,7.56
+Belize,BLZ,2016,11.128
+Benin,BEN,2016,2.067
+Bhutan,BTN,2016,3.308
+Bolivia,BOL,2016,4.043
+Bosnia and Herzegovina,BIH,2016,30.055
+Botswana,BWA,2016,22.814
+Brazil,BRA,2016,13.466
+Brunei,BRN,2016,9.141
+Bulgaria,BGR,2016,6.964
+Burkina Faso,BFA,2016,4.493
+Burundi,BDI,2016,1.193
+Cambodia,KHM,2016,855
+Cameroon,CMR,2016,4.099
+Canada,CAN,2016,6.241
+Cape Verde,CPV,2016,12.541
+Central African Republic,CAF,2016,6.583
+Chad,TCD,2016,726
+Channel Islands,OWID_CIS,2016,8.059
+Chile,CHL,2016,7.267
+China,CHN,2016,3.93
+Colombia,COL,2016,11.201
+Comoros,COM,2016,10.435
+Congo,COG,2016,21.852
+Costa Rica,CRI,2016,10.835
+Cote d'Ivoire,CIV,2016,3.367
+Croatia,HRV,2016,13.785
+Cuba,CUB,2016,2.184
+Cyprus,CYP,2016,13.333
+Czechia,CZE,2016,4.667
+Democratic Republic of Congo,COD,2016,3.707
+Denmark,DNK,2016,6.381
+Djibouti,DJI,2016,36.533
+Dominican Republic,DOM,2016,10.746
+East Asia and Pacific (WB),0,2016,3.538.485
+East Timor,TLS,2016,6.251
+Ecuador,ECU,2016,5.848
+Egypt,EGY,2016,23.424
+El Salvador,SLV,2016,3.853
+Equatorial Guinea,GNQ,2016,9.955
+Eritrea,ERI,2016,6.835
+Estonia,EST,2016,6.064
+Eswatini,SWZ,2016,24.47
+Ethiopia,ETH,2016,2.972
+Europe and Central Asia (WB),0,2016,8.105.982
+European Union (27),0,2016,9.379.141
+Fiji,FJI,2016,5.559
+Finland,FIN,2016,8.581
+France,FRA,2016,9.853
+French Polynesia,PYF,2016,13.087
+Gabon,GAB,2016,28.542
+Gambia,GMB,2016,12.701
+Georgia,GEO,2016,12.539
+Germany,DEU,2016,3.741
+Ghana,GHA,2016,5.49
+Greece,GRC,2016,28.143
+Guam,GUM,2016,5.142
+Guatemala,GTM,2016,3.461
+Guinea,GIN,2016,4.735
+Guinea-Bissau,GNB,2016,6.864
+Guyana,GUY,2016,16.06
+Haiti,HTI,2016,16.756
+High-income countries,0,2016,64.213.004
+Honduras,HND,2016,09.03
+Hong Kong,HKG,2016,3.079
+Hungary,HUN,2016,5.105
+Iceland,ISL,2016,3.049
+India,IND,2016,5.447
+Indonesia,IDN,2016,3.869
+Iran,IRN,2016,20.849
+Iraq,IRQ,2016,22.277
+Ireland,IRL,2016,7.597
+Israel,ISR,2016,4.942
+Italy,ITA,2016,12.773
+Jamaica,JAM,2016,17.413
+Japan,JPN,2016,2.814
+Jordan,JOR,2016,23.698
+Kazakhstan,KAZ,2016,5.526
+Kenya,KEN,2016,2.945
+Kuwait,KWT,2016,5.635
+Kyrgyzstan,KGZ,2016,8.738
+Laos,LAO,2016,746
+Latin America and Caribbean (WB),0,2016,9.132.587
+Latvia,LVA,2016,8.394
+Lebanon,LBN,2016,13.395
+Lesotho,LSO,2016,24.633
+Liberia,LBR,2016,2.332
+Libya,LBY,2016,25.488
+Lithuania,LTU,2016,6.648
+Low-income countries,0,2016,52.128.916
+Lower-middle-income countries,0,2016,5.732.837
+Luxembourg,LUX,2016,6.629
+Macao,MAC,2016,1.525
+Madagascar,MDG,2016,1.826
+Malawi,MWI,2016,7.267
+Malaysia,MYS,2016,3.929
+Maldives,MDV,2016,5.528
+Mali,MLI,2016,8.586
+Malta,MLT,2016,5.164
+Mauritania,MRT,2016,11.821
+Mauritius,MUS,2016,10.427
+Mexico,MEX,2016,3.91
+Middle East and North Africa (WB),0,2016,18.596.577
+Middle-income countries,0,2016,5.796.124
+Moldova,MDA,2016,2.735
+Mongolia,MNG,2016,5.887
+Montenegro,MNE,2016,17.078
+Morocco,MAR,2016,10.673
+Mozambique,MOZ,2016,3.701
+Myanmar,MMR,2016,1.484
+Namibia,NAM,2016,25.009
+Nepal,NPL,2016,2.722
+Netherlands,NLD,2016,6.515
+New Caledonia,NCL,2016,15.677
+New Zealand,NZL,2016,5.523
+Nicaragua,NIC,2016,4.275
+Niger,NER,2016,446
+Nigeria,NGA,2016,8.101
+North America (WB),0,2016,4.951.768
+North Korea,PRK,2016,2.816
+North Macedonia,MKD,2016,22.722
+Norway,NOR,2016,3.922
+Oman,OMN,2016,13.452
+Pakistan,PAK,2016,5.69
+Palestine,PSE,2016,37.953
+Panama,PAN,2016,3.914
+Papua New Guinea,PNG,2016,1.475
+Paraguay,PRY,2016,6.735
+Peru,PER,2016,3.973
+Philippines,PHL,2016,2.852
+Poland,POL,2016,6.226
+Portugal,PRT,2016,11.172
+Puerto Rico,PRI,2016,9.585
+Qatar,QAT,2016,0.72
+Romania,ROU,2016,4.98
+Russia,RUS,2016,5.349
+Rwanda,RWA,2016,1.226
+Saint Lucia,LCA,2016,21.591
+Saint Vincent and the Grenadines,VCT,2016,18.11
+Samoa,WSM,2016,9.8
+Sao Tome and Principe,STP,2016,20.405
+Saudi Arabia,SAU,2016,21.497
+Senegal,SEN,2016,4.767
+Serbia,SRB,2016,16.108
+Sierra Leone,SLE,2016,3.882
+Singapore,SGP,2016,4.488
+Slovakia,SVK,2016,10.756
+Slovenia,SVN,2016,8.589
+Solomon Islands,SLB,2016,725
+Somalia,SOM,2016,24.252
+South Africa,ZAF,2016,29.013
+South Asia (WB),0,2016,56.977.158
+South Korea,KOR,2016,3.539
+South Sudan,SSD,2016,13.33
+Spain,ESP,2016,21.372
+Sri Lanka,LKA,2016,6.812
+Sub-Saharan Africa (WB),0,2016,68.146.915
+Sudan,SDN,2016,29.022
+Suriname,SUR,2016,11.167
+Sweden,SWE,2016,6.587
+Switzerland,CHE,2016,5.011
+Syria,SYR,2016,20.228
+Tajikistan,TJK,2016,5.435
+Tanzania,TZA,2016,2.74
+Thailand,THA,2016,712
+Togo,TGO,2016,2.225
+Tonga,TON,2016,3.182
+Trinidad and Tobago,TTO,2016,3.164
+Tunisia,TUN,2016,23.441
+Turkey,TUR,2016,13.598
+Turkmenistan,TKM,2016,2.55
+Uganda,UGA,2016,2.459
+Ukraine,UKR,2016,7.73
+United Arab Emirates,ARE,2016,4.208
+United Kingdom,GBR,2016,4.682
+United States,USA,2016,4.789
+United States Virgin Islands,VIR,2016,13.982
+Upper-middle-income countries,0,2016,58.391.213
+Uruguay,URY,2016,9.432
+Uzbekistan,UZB,2016,05.02
+Vanuatu,VUT,2016,1.542
+Venezuela,VEN,2016,5.41
+Vietnam,VNM,2016,1.699
+World,OWID_WRL,2016,5.875.874
+Yemen,YEM,2016,25.85
+Zambia,ZMB,2016,11.667
+Zimbabwe,ZWE,2016,5.191
+Afghanistan,AFG,2017,14.063
+Albania,ALB,2017,12.499
+Algeria,DZA,2017,18.415
+Angola,AGO,2017,7.81
+Argentina,ARG,2017,9.473
+Armenia,ARM,2017,17.469
+Australia,AUS,2017,5.67
+Austria,AUT,2017,5.032
+Azerbaijan,AZE,2017,5.927
+Bahamas,BHS,2017,11.301
+Bahrain,BHR,2017,3.837
+Bangladesh,BGD,2017,6.71
+Barbados,BRB,2017,8.778
+Belarus,BLR,2017,4.039
+Belgium,BEL,2017,7.058
+Belize,BLZ,2017,9.806
+Benin,BEN,2017,1.886
+Bhutan,BTN,2017,3.267
+Bolivia,BOL,2017,4.053
+Bosnia and Herzegovina,BIH,2017,23.114
+Botswana,BWA,2017,23.059
+Brazil,BRA,2017,14.718
+Brunei,BRN,2017,9.983
+Bulgaria,BGR,2017,5.946
+Burkina Faso,BFA,2017,4.56
+Burundi,BDI,2017,1.206
+Cambodia,KHM,2017,171
+Cameroon,CMR,2017,4.126
+Canada,CAN,2017,5.851
+Cape Verde,CPV,2017,12.769
+Central African Republic,CAF,2017,6.522
+Chad,TCD,2017,744
+Channel Islands,OWID_CIS,2017,7.48
+Chile,CHL,2017,7.462
+China,CHN,2017,3.853
+Colombia,COL,2017,11.502
+Comoros,COM,2017,10.381
+Congo,COG,2017,21.849
+Costa Rica,CRI,2017,10.29
+Cote d'Ivoire,CIV,2017,3.87
+Croatia,HRV,2017,11.908
+Cuba,CUB,2017,1.637
+Cyprus,CYP,2017,11.265
+Czechia,CZE,2017,3.578
+Democratic Republic of Congo,COD,2017,3.724
+Denmark,DNK,2017,6.046
+Djibouti,DJI,2017,36.489
+Dominican Republic,DOM,2017,8.133
+East Asia and Pacific (WB),0,2017,34.552.746
+East Timor,TLS,2017,6.352
+Ecuador,ECU,2017,4.928
+Egypt,EGY,2017,22.749
+El Salvador,SLV,2017,4.011
+Equatorial Guinea,GNQ,2017,9.896
+Eritrea,ERI,2017,6.824
+Estonia,EST,2017,5.3
+Eswatini,SWZ,2017,24.501
+Ethiopia,ETH,2017,2.98
+Europe and Central Asia (WB),0,2017,7.550.442
+European Union (27),0,2017,844.053
+Fiji,FJI,2017,5.482
+Finland,FIN,2017,8.39
+France,FRA,2017,9.374
+French Polynesia,PYF,2017,13.11
+Gabon,GAB,2017,28.513
+Gambia,GMB,2017,12.636
+Georgia,GEO,2017,12.709
+Germany,DEU,2017,3.317
+Ghana,GHA,2017,4.38
+Greece,GRC,2017,26.117
+Guam,GUM,2017,5.183
+Guatemala,GTM,2017,3.516
+Guinea,GIN,2017,4.83
+Guinea-Bissau,GNB,2017,6.848
+Guyana,GUY,2017,16.315
+Haiti,HTI,2017,16.678
+High-income countries,0,2017,58.692.775
+Honduras,HND,2017,8.016
+Hong Kong,HKG,2017,2.861
+Hungary,HUN,2017,4.573
+Iceland,ISL,2017,2.719
+India,IND,2017,5.357
+Indonesia,IDN,2017,3.599
+Iran,IRN,2017,19.938
+Iraq,IRQ,2017,30.956
+Ireland,IRL,2017,6.287
+Israel,ISR,2017,4.326
+Italy,ITA,2017,12.386
+Jamaica,JAM,2017,15.382
+Japan,JPN,2017,2.635
+Jordan,JOR,2017,27.152
+Kazakhstan,KAZ,2017,5.435
+Kenya,KEN,2017,3.717
+Kuwait,KWT,2017,5.741
+Kyrgyzstan,KGZ,2017,8.908
+Laos,LAO,2017,759
+Latin America and Caribbean (WB),0,2017,9.511.623
+Latvia,LVA,2017,7.679
+Lebanon,LBN,2017,13.806
+Lesotho,LSO,2017,23.932
+Liberia,LBR,2017,2.335
+Libya,LBY,2017,25.291
+Lithuania,LTU,2017,5.673
+Low-income countries,0,2017,52.411.537
+Lower-middle-income countries,0,2017,56.961.536
+Luxembourg,LUX,2017,5.498
+Macao,MAC,2017,1.586
+Madagascar,MDG,2017,1.85
+Malawi,MWI,2017,7.339
+Malaysia,MYS,2017,3.825
+Maldives,MDV,2017,5.283
+Mali,MLI,2017,8.386
+Malta,MLT,2017,4.249
+Mauritania,MRT,2017,11.593
+Mauritius,MUS,2017,10.062
+Mexico,MEX,2017,3.602
+Middle East and North Africa (WB),0,2017,18.664
+Middle-income countries,0,2017,58.097.777
+Moldova,MDA,2017,3.342
+Mongolia,MNG,2017,5.652
+Montenegro,MNE,2017,16.937
+Morocco,MAR,2017,10.683
+Mozambique,MOZ,2017,3.709
+Myanmar,MMR,2017,02.04
+Namibia,NAM,2017,21.81
+Nepal,NPL,2017,3.077
+Netherlands,NLD,2017,5.253
+New Caledonia,NCL,2017,15.757
+New Zealand,NZL,2017,5.239
+Nicaragua,NIC,2017,3.488
+Niger,NER,2017,457
+Nigeria,NGA,2017,9.257
+North America (WB),0,2017,44.851.646
+North Korea,PRK,2017,2.771
+North Macedonia,MKD,2017,21.819
+Norway,NOR,2017,3.696
+Oman,OMN,2017,10.831
+Pakistan,PAK,2017,5.118
+Palestine,PSE,2017,42.811
+Panama,PAN,2017,5.092
+Papua New Guinea,PNG,2017,1.508
+Paraguay,PRY,2017,5.431
+Peru,PER,2017,3.907
+Philippines,PHL,2017,2.698
+Poland,POL,2017,4.912
+Portugal,PRT,2017,9.35
+Puerto Rico,PRI,2017,8.836
+Qatar,QAT,2017,639
+Romania,ROU,2017,4.045
+Russia,RUS,2017,05.05
+Rwanda,RWA,2017,1.224
+Saint Lucia,LCA,2017,20.87
+Saint Vincent and the Grenadines,VCT,2017,18.244
+Samoa,WSM,2017,10.089
+Sao Tome and Principe,STP,2017,20.395
+Saudi Arabia,SAU,2017,21.253
+Senegal,SEN,2017,3.546
+Serbia,SRB,2017,14.279
+Sierra Leone,SLE,2017,3.91
+Singapore,SGP,2017,4.436
+Slovakia,SVK,2017,8.408
+Slovenia,SVN,2017,7.468
+Solomon Islands,SLB,2017,734
+Somalia,SOM,2017,24.306
+South Africa,ZAF,2017,29.283
+South Asia (WB),0,2017,55.311.847
+South Korea,KOR,2017,3.476
+South Sudan,SSD,2017,13.284
+Spain,ESP,2017,19.022
+Sri Lanka,LKA,2017,6.305
+Sub-Saharan Africa (WB),0,2017,6.984.642
+Sudan,SDN,2017,28.799
+Suriname,SUR,2017,11.105
+Sweden,SWE,2017,6.442
+Switzerland,CHE,2017,5.063
+Syria,SYR,2017,20.1
+Tajikistan,TJK,2017,5.506
+Tanzania,TZA,2017,2.76
+Thailand,THA,2017,841
+Togo,TGO,2017,2.774
+Tonga,TON,2017,3.424
+Trinidad and Tobago,TTO,2017,3.241
+Tunisia,TUN,2017,22.609
+Turkey,TUR,2017,13.848
+Turkmenistan,TKM,2017,2.602
+Uganda,UGA,2017,2.469
+Ukraine,UKR,2017,7.737
+United Arab Emirates,ARE,2017,7.111
+United Kingdom,GBR,2017,4.219
+United States,USA,2017,4.312
+United States Virgin Islands,VIR,2017,13.512
+Upper-middle-income countries,0,2017,58.876.705
+Uruguay,URY,2017,9.463
+Uzbekistan,UZB,2017,5.562
+Vanuatu,VUT,2017,1.521
+Venezuela,VEN,2017,5.871
+Vietnam,VNM,2017,1.698
+World,OWID_WRL,2017,57.758.307
+Yemen,YEM,2017,25.564
+Zambia,ZMB,2017,12.579
+Zimbabwe,ZWE,2017,5.192
+Afghanistan,AFG,2018,14.012
+Albania,ALB,2018,11.871
+Algeria,DZA,2018,18.52
+Angola,AGO,2018,7.829
+Argentina,ARG,2018,10.541
+Armenia,ARM,2018,20.407
+Australia,AUS,2018,5.321
+Austria,AUT,2018,4.653
+Azerbaijan,AZE,2018,5.766
+Bahamas,BHS,2018,9.95
+Bahrain,BHR,2018,3.916
+Bangladesh,BGD,2018,6.744
+Barbados,BRB,2018,8.535
+Belarus,BLR,2018,3.554
+Belgium,BEL,2018,5.565
+Belize,BLZ,2018,9.817
+Benin,BEN,2018,1.715
+Bhutan,BTN,2018,3.263
+Bolivia,BOL,2018,3.615
+Bosnia and Herzegovina,BIH,2018,20.316
+Botswana,BWA,2018,23.272
+Brazil,BRA,2018,14.227
+Brunei,BRN,2018,10.062
+Bulgaria,BGR,2018,4.65
+Burkina Faso,BFA,2018,4.624
+Burundi,BDI,2018,1.218
+Cambodia,KHM,2018,174
+Cameroon,CMR,2018,4.143
+Canada,CAN,2018,5.489
+Cape Verde,CPV,2018,11.546
+Central African Republic,CAF,2018,6.408
+Chad,TCD,2018,0.76
+Channel Islands,OWID_CIS,2018,6.932
+Chile,CHL,2018,7.981
+China,CHN,2018,3.715
+Colombia,COL,2018,11.791
+Comoros,COM,2018,10.338
+Congo,COG,2018,21.904
+Costa Rica,CRI,2018,12.193
+Cote d'Ivoire,CIV,2018,3.894
+Croatia,HRV,2018,9.337
+Cuba,CUB,2018,1.825
+Cyprus,CYP,2018,8.753
+Czechia,CZE,2018,2.799
+Democratic Republic of Congo,COD,2018,3.74
+Denmark,DNK,2018,5.347
+Djibouti,DJI,2018,36.434
+Dominican Republic,DOM,2018,9.127
+East Asia and Pacific (WB),0,2018,3.335.467
+East Timor,TLS,2018,6.284
+Ecuador,ECU,2018,4.391
+Egypt,EGY,2018,21.224
+El Salvador,SLV,2018,3.754
+Equatorial Guinea,GNQ,2018,9.774
+Eritrea,ERI,2018,6.76
+Estonia,EST,2018,5.323
+Eswatini,SWZ,2018,24.539
+Ethiopia,ETH,2018,2.996
+Europe and Central Asia (WB),0,2018,70.043.564
+European Union (27),0,2018,75.765.853
+Fiji,FJI,2018,5.526
+Finland,FIN,2018,7.298
+France,FRA,2018,9.061
+French Polynesia,PYF,2018,13.133
+Gabon,GAB,2018,28.446
+Gambia,GMB,2018,12.577
+Georgia,GEO,2018,11.228
+Germany,DEU,2018,2.91
+Ghana,GHA,2018,4.443
+Greece,GRC,2018,24.284
+Guam,GUM,2018,5.308
+Guatemala,GTM,2018,2.809
+Guinea,GIN,2018,4.958
+Guinea-Bissau,GNB,2018,6.779
+Guyana,GUY,2018,16.56
+Haiti,HTI,2018,16.635
+High-income countries,0,2018,53.557.887
+Honduras,HND,2018,7.243
+Hong Kong,HKG,2018,2.425
+Hungary,HUN,2018,3.987
+Iceland,ISL,2018,2.537
+India,IND,2018,5.298
+Indonesia,IDN,2018,4.181
+Iran,IRN,2018,18.986
+Iraq,IRQ,2018,30.593
+Ireland,IRL,2018,5.691
+Israel,ISR,2018,3.953
+Italy,ITA,2018,11.768
+Jamaica,JAM,2018,11.904
+Japan,JPN,2018,2.178
+Jordan,JOR,2018,24.004
+Kazakhstan,KAZ,2018,5.372
+Kenya,KEN,2018,4.473
+Kuwait,KWT,2018,5.714
+Kyrgyzstan,KGZ,2018,8.893
+Laos,LAO,2018,781
+Latin America and Caribbean (WB),0,2018,9.406.568
+Latvia,LVA,2018,6.416
+Lebanon,LBN,2018,14.248
+Lesotho,LSO,2018,23.105
+Liberia,LBR,2018,2.345
+Libya,LBY,2018,25.374
+Lithuania,LTU,2018,5.413
+Low-income countries,0,2018,526.093
+Lower-middle-income countries,0,2018,5.522.796
+Luxembourg,LUX,2018,5.886
+Macao,MAC,2018,1.318
+Madagascar,MDG,2018,1.875
+Malawi,MWI,2018,7.314
+Malaysia,MYS,2018,3.632
+Maldives,MDV,2018,5.036
+Mali,MLI,2018,8.403
+Malta,MLT,2018,3.502
+Mauritania,MRT,2018,11.64
+Mauritius,MUS,2018,9.543
+Mexico,MEX,2018,3.429
+Middle East and North Africa (WB),0,2018,17.988.209
+Middle-income countries,0,2018,5.655.073
+Moldova,MDA,2018,3.126
+Mongolia,MNG,2018,4.818
+Montenegro,MNE,2018,15.092
+Morocco,MAR,2018,10.767
+Mozambique,MOZ,2018,3.718
+Myanmar,MMR,2018,1.055
+Namibia,NAM,2018,18.594
+Nepal,NPL,2018,3.002
+Netherlands,NLD,2018,3.958
+New Caledonia,NCL,2018,15.806
+New Zealand,NZL,2018,4.497
+Nicaragua,NIC,2018,5.261
+Niger,NER,2018,465
+Nigeria,NGA,2018,8.362
+North America (WB),0,2018,40.271.525
+North Korea,PRK,2018,2.697
+North Macedonia,MKD,2018,19.877
+Norway,NOR,2018,3.544
+Oman,OMN,2018,8.023
+Pakistan,PAK,2018,4.548
+Palestine,PSE,2018,41.873
+Panama,PAN,2018,4.961
+Papua New Guinea,PNG,2018,1.561
+Paraguay,PRY,2018,7.55
+Peru,PER,2018,3.874
+Philippines,PHL,2018,2.677
+Poland,POL,2018,3.856
+Portugal,PRT,2018,7.432
+Puerto Rico,PRI,2018,7.579
+Qatar,QAT,2018,477
+Romania,ROU,2018,3.495
+Russia,RUS,2018,4.783
+Rwanda,RWA,2018,1.203
+Saint Lucia,LCA,2018,20.859
+Saint Vincent and the Grenadines,VCT,2018,18.312
+Samoa,WSM,2018,10.187
+Sao Tome and Principe,STP,2018,20.392
+Saudi Arabia,SAU,2018,22.587
+Senegal,SEN,2018,3.292
+Serbia,SRB,2018,13.703
+Sierra Leone,SLE,2018,3.936
+Singapore,SGP,2018,3.874
+Slovakia,SVK,2018,7.032
+Slovenia,SVN,2018,5.702
+Solomon Islands,SLB,2018,752
+Somalia,SOM,2018,24.332
+South Africa,ZAF,2018,29.071
+South Asia (WB),0,2018,5.455.334
+South Korea,KOR,2018,3.687
+South Sudan,SSD,2018,13.263
+Spain,ESP,2018,17.017
+Sri Lanka,LKA,2018,6.942
+Sub-Saharan Africa (WB),0,2018,6.856.646
+Sudan,SDN,2018,28.633
+Suriname,SUR,2018,11.09
+Sweden,SWE,2018,6.235
+Switzerland,CHE,2018,5.105
+Syria,SYR,2018,19.937
+Tajikistan,TJK,2018,5.58
+Tanzania,TZA,2018,2.789
+Thailand,THA,2018,748
+Togo,TGO,2018,2.797
+Tonga,TON,2018,3.659
+Trinidad and Tobago,TTO,2018,3.316
+Tunisia,TUN,2018,22.761
+Turkey,TUR,2018,13.733
+Turkmenistan,TKM,2018,2.651
+Uganda,UGA,2018,2.454
+Ukraine,UKR,2018,7.443
+United Arab Emirates,ARE,2018,6.583
+United Kingdom,GBR,2018,3.942
+United States,USA,2018,3.841
+United States Virgin Islands,VIR,2018,13.489
+Upper-middle-income countries,0,2018,57.461.576
+Uruguay,URY,2018,10.07
+Uzbekistan,UZB,2018,5.603
+Vanuatu,VUT,2018,1.582
+Venezuela,VEN,2018,5.866
+Vietnam,VNM,2018,1.029
+World,OWID_WRL,2018,55.618.334
+Yemen,YEM,2018,25.249
+Zambia,ZMB,2018,13.25
+Zimbabwe,ZWE,2018,5.206
+Afghanistan,AFG,2019,14.065
+Albania,ALB,2019,11.322
+Algeria,DZA,2019,18.63
+Angola,AGO,2019,7.835
+Argentina,ARG,2019,10.698
+Armenia,ARM,2019,19.292
+Australia,AUS,2019,5.101
+Austria,AUT,2019,4.351
+Azerbaijan,AZE,2019,5.712
+Bahamas,BHS,2019,10.038
+Bahrain,BHR,2019,3.932
+Bangladesh,BGD,2019,6.755
+Barbados,BRB,2019,7.267
+Belarus,BLR,2019,3.193
+Belgium,BEL,2019,4.939
+Belize,BLZ,2019,9.869
+Benin,BEN,2019,1.717
+Bhutan,BTN,2019,3.335
+Bolivia,BOL,2019,4.396
+Bosnia and Herzegovina,BIH,2019,18.739
+Botswana,BWA,2019,23.521
+Brazil,BRA,2019,14.139
+Brunei,BRN,2019,8.283
+Bulgaria,BGR,2019,3.869
+Burkina Faso,BFA,2019,4.641
+Burundi,BDI,2019,1.233
+Cambodia,KHM,2019,178
+Cameroon,CMR,2019,4.165
+Canada,CAN,2019,5.25
+Cape Verde,CPV,2019,11.621
+Central African Republic,CAF,2019,6.392
+Chad,TCD,2019,769
+Channel Islands,OWID_CIS,2019,6.737
+Chile,CHL,2019,8.015
+China,CHN,2019,3.924
+Colombia,COL,2019,12.748
+Comoros,COM,2019,10.309
+Congo,COG,2019,21.909
+Costa Rica,CRI,2019,14.941
+Cote d'Ivoire,CIV,2019,3.918
+Croatia,HRV,2019,7.162
+Cuba,CUB,2019,1.87
+Cyprus,CYP,2019,8.006
+Czechia,CZE,2019,2.375
+Democratic Republic of Congo,COD,2019,3.766
+Denmark,DNK,2019,5.269
+Djibouti,DJI,2019,36.442
+Dominican Republic,DOM,2019,9.632
+East Asia and Pacific (WB),0,2019,34.181.173
+East Timor,TLS,2019,5.96
+Ecuador,ECU,2019,4.591
+Egypt,EGY,2019,21.209
+El Salvador,SLV,2019,4.379
+Equatorial Guinea,GNQ,2019,9.782
+Eritrea,ERI,2019,6.776
+Estonia,EST,2019,4.847
+Eswatini,SWZ,2019,24.581
+Ethiopia,ETH,2019,2.999
+Europe and Central Asia (WB),0,2019,6.747.579
+European Union (27),0,2019,7.026.785
+Fiji,FJI,2019,5.649
+Finland,FIN,2019,6.165
+France,FRA,2019,8.348
+French Polynesia,PYF,2019,13.171
+Gabon,GAB,2019,28.327
+Gambia,GMB,2019,12.557
+Georgia,GEO,2019,10.151
+Germany,DEU,2019,2.733
+Ghana,GHA,2019,4.491
+Greece,GRC,2019,21.544
+Guam,GUM,2019,5.274
+Guatemala,GTM,2019,2.917
+Guinea,GIN,2019,5.057
+Guinea-Bissau,GNB,2019,6.804
+Guyana,GUY,2019,16.513
+Haiti,HTI,2019,16.681
+High-income countries,0,2019,50.713.854
+Honduras,HND,2019,8.215
+Hong Kong,HKG,2019,2.305
+Hungary,HUN,2019,3.496
+Iceland,ISL,2019,3.123
+India,IND,2019,4.932
+Indonesia,IDN,2019,3.348
+Iran,IRN,2019,17.569
+Iraq,IRQ,2019,30.128
+Ireland,IRL,2019,4.69
+Israel,ISR,2019,3.925
+Italy,ITA,2019,11.099
+Jamaica,JAM,2019,9.911
+Japan,JPN,2019,2.23
+Jordan,JOR,2019,23.877
+Kazakhstan,KAZ,2019,5.308
+Kenya,KEN,2019,5.252
+Kuwait,KWT,2019,5.748
+Kyrgyzstan,KGZ,2019,8.899
+Laos,LAO,2019,806
+Latin America and Caribbean (WB),0,2019,9.567.456
+Latvia,LVA,2019,5.427
+Lebanon,LBN,2019,14.724
+Lesotho,LSO,2019,22.282
+Liberia,LBR,2019,2.358
+Libya,LBY,2019,25.593
+Lithuania,LTU,2019,5.5
+Low-income countries,0,2019,52.682.133
+Lower-middle-income countries,0,2019,52.663.264
+Luxembourg,LUX,2019,5.525
+Macao,MAC,2019,1.336
+Madagascar,MDG,2019,1.895
+Malawi,MWI,2019,7.285
+Malaysia,MYS,2019,3.401
+Maldives,MDV,2019,4.77
+Mali,MLI,2019,8.414
+Malta,MLT,2019,4.002
+Mauritania,MRT,2019,11.647
+Mauritius,MUS,2019,9.714
+Mexico,MEX,2019,3.517
+Middle East and North Africa (WB),0,2019,17.559.635
+Middle-income countries,0,2019,56.715.384
+Moldova,MDA,2019,4.341
+Mongolia,MNG,2019,4.888
+Montenegro,MNE,2019,15.675
+Morocco,MAR,2019,10.842
+Mozambique,MOZ,2019,3.731
+Myanmar,MMR,2019,589
+Namibia,NAM,2019,18.742
+Nepal,NPL,2019,2.945
+Netherlands,NLD,2019,3.359
+New Caledonia,NCL,2019,15.856
+New Zealand,NZL,2019,4.427
+Nicaragua,NIC,2019,5.297
+Niger,NER,2019,476
+Nigeria,NGA,2019,7.472
+North America (WB),0,2019,37.969.687
+North Korea,PRK,2019,2.654
+North Macedonia,MKD,2019,18.392
+Norway,NOR,2019,3.399
+Oman,OMN,2019,8.144
+Pakistan,PAK,2019,4.162
+Palestine,PSE,2019,41.153
+Panama,PAN,2019,5.89
+Papua New Guinea,PNG,2019,1.51
+Paraguay,PRY,2019,8.33
+Peru,PER,2019,3.738
+Philippines,PHL,2019,2.532
+Poland,POL,2019,3.602
+Portugal,PRT,2019,7.144
+Puerto Rico,PRI,2019,6.895
+Qatar,QAT,2019,283
+Romania,ROU,2019,3.379
+Russia,RUS,2019,4.336
+Rwanda,RWA,2019,1.194
+Saint Lucia,LCA,2019,16.942
+Saint Vincent and the Grenadines,VCT,2019,18.469
+Samoa,WSM,2019,9.838
+Sao Tome and Principe,STP,2019,20.382
+Saudi Arabia,SAU,2019,21.449
+Senegal,SEN,2019,3.039
+Serbia,SRB,2019,11.074
+Sierra Leone,SLE,2019,3.955
+Singapore,SGP,2019,3.328
+Slovakia,SVK,2019,5.952
+Slovenia,SVN,2019,4.955
+Solomon Islands,SLB,2019,783
+Somalia,SOM,2019,24.37
+South Africa,ZAF,2019,30.514
+South Asia (WB),0,2019,51.731.133
+South Korea,KOR,2019,3.583
+South Sudan,SSD,2019,13.248
+Spain,ESP,2019,15.988
+Sri Lanka,LKA,2019,6.952
+Sub-Saharan Africa (WB),0,2019,682.355
+Sudan,SDN,2019,28.513
+Suriname,SUR,2019,11.213
+Sweden,SWE,2019,6.955
+Switzerland,CHE,2019,4.709
+Syria,SYR,2019,19.809
+Tajikistan,TJK,2019,5.646
+Tanzania,TZA,2019,2.806
+Thailand,THA,2019,736
+Togo,TGO,2019,2.82
+Tonga,TON,2019,3.64
+Trinidad and Tobago,TTO,2019,3.411
+Tunisia,TUN,2019,22.188
+Turkey,TUR,2019,16.385
+Turkmenistan,TKM,2019,2.702
+Uganda,UGA,2019,2.452
+Ukraine,UKR,2019,7.856
+United Arab Emirates,ARE,2019,5.892
+United Kingdom,GBR,2019,3.534
+United States,USA,2019,3.611
+United States Virgin Islands,VIR,2019,13.543
+Upper-middle-income countries,0,2019,59.551.105
+Uruguay,URY,2019,10.678
+Uzbekistan,UZB,2019,5.625
+Vanuatu,VUT,2019,1.581
+Venezuela,VEN,2019,5.998
+Vietnam,VNM,2019,2.008
+World,OWID_WRL,2019,5.515.888
+Yemen,YEM,2019,25.027
+Zambia,ZMB,2019,13.089
+Zimbabwe,ZWE,2019,5.248
+Afghanistan,AFG,2020,16.863
+Albania,ALB,2020,13.168
+Algeria,DZA,2020,21.45
+Angola,AGO,2020,8.774
+Argentina,ARG,2020,12.375
+Armenia,ARM,2020,22.284
+Australia,AUS,2020,6.354
+Austria,AUT,2020,5.227
+Azerbaijan,AZE,2020,7.472
+Bahamas,BHS,2020,13.294
+Bahrain,BHR,2020,5.189
+Bangladesh,BGD,2020,8
+Barbados,BRB,2020,9.093
+Belarus,BLR,2020,3.728
+Belgium,BEL,2020,5.353
+Belize,BLZ,2020,12.058
+Benin,BEN,2020,1.84
+Bhutan,BTN,2020,4.66
+Bolivia,BOL,2020,9.84
+Bosnia and Herzegovina,BIH,2020,17.411
+Botswana,BWA,2020,25.656
+Brazil,BRA,2020,16.042
+Brunei,BRN,2020,9.124
+Bulgaria,BGR,2020,4.764
+Burkina Faso,BFA,2020,4.842
+Burundi,BDI,2020,1.337
+Cambodia,KHM,2020,379
+Cameroon,CMR,2020,4.38
+Canada,CAN,2020,9.386
+Cape Verde,CPV,2020,14.628
+Central African Republic,CAF,2020,7.179
+Chad,TCD,2020,1.293
+Channel Islands,OWID_CIS,2020,8.041
+Chile,CHL,2020,11.439
+China,CHN,2020,4.338
+Colombia,COL,2020,19.04
+Comoros,COM,2020,11.621
+Congo,COG,2020,24.213
+Costa Rica,CRI,2020,22.556
+Cote d'Ivoire,CIV,2020,4.102
+Croatia,HRV,2020,7.58
+Cuba,CUB,2020,2.792
+Cyprus,CYP,2020,7.617
+Czechia,CZE,2020,2.951
+Democratic Republic of Congo,COD,2020,4.514
+Denmark,DNK,2020,5.984
+Djibouti,DJI,2020,38.948
+Dominican Republic,DOM,2020,9.055
+East Asia and Pacific (WB),0,2020,38.624.346
+East Timor,TLS,2020,6.425
+Ecuador,ECU,2020,7.332
+Egypt,EGY,2020,23.62
+El Salvador,SLV,2020,6.504
+Equatorial Guinea,GNQ,2020,11.09
+Eritrea,ERI,2020,8.773
+Estonia,EST,2020,6.619
+Eswatini,SWZ,2020,27.384
+Ethiopia,ETH,2020,4.044
+Europe and Central Asia (WB),0,2020,7.191.234
+European Union (27),0,2020,73.423.576
+Fiji,FJI,2020,5.949
+Finland,FIN,2020,7.488
+France,FRA,2020,7.953
+French Polynesia,PYF,2020,15.042
+Gabon,GAB,2020,29.814
+Gambia,GMB,2020,14.429
+Georgia,GEO,2020,16.314
+Germany,DEU,2020,3.375
+Ghana,GHA,2020,4.833
+Greece,GRC,2020,19.824
+Guam,GUM,2020,6.524
+Guatemala,GTM,2020,4.483
+Guinea,GIN,2020,6.144
+Guinea-Bissau,GNB,2020,7.554
+Guyana,GUY,2020,19.203
+Haiti,HTI,2020,18.407
+High-income countries,0,2020,68.866.515
+Honduras,HND,2020,11.45
+Hong Kong,HKG,2020,4.748
+Hungary,HUN,2020,4.48
+Iceland,ISL,2020,5.295
+India,IND,2020,5.507
+Indonesia,IDN,2020,3.778
+Iran,IRN,2020,19.764
+Iraq,IRQ,2020,32.111
+Ireland,IRL,2020,5.647
+Israel,ISR,2020,4.121
+Italy,ITA,2020,10.189
+Jamaica,JAM,2020,11.983
+Japan,JPN,2020,2.519
+Jordan,JOR,2020,26.543
+Kazakhstan,KAZ,2020,5.375
+Kenya,KEN,2020,5.99
+Kuwait,KWT,2020,8.232
+Kyrgyzstan,KGZ,2020,10.941
+Laos,LAO,2020,983
+Latin America and Caribbean (WB),0,2020,11.860.338
+Latvia,LVA,2020,07.07
+Lebanon,LBN,2020,16.962
+Lesotho,LSO,2020,24.395
+Liberia,LBR,2020,3.216
+Libya,LBY,2020,26.062
+Lithuania,LTU,2020,7.7
+Low-income countries,0,2020,60.577.817
+Lower-middle-income countries,0,2020,60.499.797
+Luxembourg,LUX,2020,6.968
+Macao,MAC,2020,2.215
+Madagascar,MDG,2020,2.518
+Malawi,MWI,2020,8.372
+Malaysia,MYS,2020,4.67
+Maldives,MDV,2020,5.703
+Mali,MLI,2020,8.685
+Malta,MLT,2020,4.357
+Mauritania,MRT,2020,12.578
+Mauritius,MUS,2020,11.129
+Mexico,MEX,2020,4.097
+Middle East and North Africa (WB),0,2020,19.360.512
+Middle-income countries,0,2020,63.841.276
+Moldova,MDA,2020,3.246
+Mongolia,MNG,2020,6.697
+Montenegro,MNE,2020,18.4
+Morocco,MAR,2020,13.196
+Mozambique,MOZ,2020,4.089
+Myanmar,MMR,2020,1.189
+Namibia,NAM,2020,20.148
+Nepal,NPL,2020,4.533
+Netherlands,NLD,2020,3.953
+New Caledonia,NCL,2020,17.431
+New Zealand,NZL,2020,4.971
+Nicaragua,NIC,2020,6.171
+Niger,NER,2020,542
+Nigeria,NGA,2020,8.581
+North America (WB),0,2020,8.462.085
+North Korea,PRK,2020,2.989
+North Macedonia,MKD,2020,16.913
+Norway,NOR,2020,4.135
+Oman,OMN,2020,11.944
+Pakistan,PAK,2020,4.987
+Palestine,PSE,2020,40.024
+Panama,PAN,2020,16.573
+Papua New Guinea,PNG,2020,1.627
+Paraguay,PRY,2020,10.018
+Peru,PER,2020,6.995
+Philippines,PHL,2020,2.714
+Poland,POL,2020,3.288
+Portugal,PRT,2020,7.049
+Puerto Rico,PRI,2020,7.378
+Qatar,QAT,2020,485
+Romania,ROU,2020,4.687
+Russia,RUS,2020,5.534
+Rwanda,RWA,2020,1.598
+Saint Lucia,LCA,2020,18.617
+Saint Vincent and the Grenadines,VCT,2020,20.146
+Samoa,WSM,2020,10.647
+Sao Tome and Principe,STP,2020,22.421
+Saudi Arabia,SAU,2020,20.382
+Senegal,SEN,2020,3.827
+Serbia,SRB,2020,9.411
+Sierra Leone,SLE,2020,4.458
+Singapore,SGP,2020,4.393
+Slovakia,SVK,2020,07.06
+Slovenia,SVN,2020,5.621
+Solomon Islands,SLB,2020,947
+Somalia,SOM,2020,25.403
+South Africa,ZAF,2020,31.036
+South Asia (WB),0,2020,5.978.134
+South Korea,KOR,2020,3.988
+South Sudan,SSD,2020,15.139
+Spain,ESP,2020,17.429
+Sri Lanka,LKA,2020,8.926
+Sub-Saharan Africa (WB),0,2020,7.481.607
+Sudan,SDN,2020,31.227
+Suriname,SUR,2020,13.328
+Sweden,SWE,2020,8.285
+Switzerland,CHE,2020,5.001
+Syria,SYR,2020,22.266
+Tajikistan,TJK,2020,6.114
+Tanzania,TZA,2020,3.152
+Thailand,THA,2020,1.089
+Togo,TGO,2020,3.018
+Tonga,TON,2020,4.261
+Trinidad and Tobago,TTO,2020,4.556
+Tunisia,TUN,2020,24.047
+Turkey,TUR,2020,14.83
+Turkmenistan,TKM,2020,3.252
+Uganda,UGA,2020,3.412
+Ukraine,UKR,2020,8.779
+United Arab Emirates,ARE,2020,7.47
+United Kingdom,GBR,2020,4.155
+United States,USA,2020,8.345
+United States Virgin Islands,VIR,2020,14.671
+Upper-middle-income countries,0,2020,6.615.547
+Uruguay,URY,2020,12.349
+Uzbekistan,UZB,2020,6.792
+Vanuatu,VUT,2020,1.879
+Venezuela,VEN,2020,7.656
+Vietnam,VNM,2020,2.819
+World,OWID_WRL,2020,6.463.784
+Yemen,YEM,2020,25.494
+Zambia,ZMB,2020,13.425
+Zimbabwe,ZWE,2020,5.791
+Afghanistan,AFG,2021,19.09
+Albania,ALB,2021,11.93
+Algeria,DZA,2021,22.132
+Angola,AGO,2021,9.112
+Argentina,ARG,2021,13.277
+Armenia,ARM,2021,22.301
+Australia,AUS,2021,4.804
+Austria,AUT,2021,6.252
+Azerbaijan,AZE,2021,7.746
+Bahamas,BHS,2021,13.446
+Bahrain,BHR,2021,5.631
+Bangladesh,BGD,2021,7.872
+Barbados,BRB,2021,9.29
+Belarus,BLR,2021,3.757
+Belgium,BEL,2021,6.547
+Belize,BLZ,2021,11.965
+Benin,BEN,2021,1.86
+Bhutan,BTN,2021,5.636
+Bolivia,BOL,2021,10.725
+Bosnia and Herzegovina,BIH,2021,17.722
+Botswana,BWA,2021,25.829
+Brazil,BRA,2021,17.682
+Brunei,BRN,2021,9.224
+Bulgaria,BGR,2021,5.317
+Burkina Faso,BFA,2021,4.782
+Burundi,BDI,2021,1.428
+Cambodia,KHM,2021,717
+Cameroon,CMR,2021,4.479
+Canada,CAN,2021,7.309
+Cape Verde,CPV,2021,15.016
+Central African Republic,CAF,2021,7.544
+Chad,TCD,2021,1.418
+Channel Islands,OWID_CIS,2021,7.869
+Chile,CHL,2021,9.414
+China,CHN,2021,4.263
+Colombia,COL,2021,18.323
+Comoros,COM,2021,12.095
+Congo,COG,2021,24.708
+Costa Rica,CRI,2021,24.286
+Cote d'Ivoire,CIV,2021,4.144
+Croatia,HRV,2021,8.603
+Cuba,CUB,2021,2.991
+Cyprus,CYP,2021,7.056
+Czechia,CZE,2021,3.639
+Democratic Republic of Congo,COD,2021,4.733
+Denmark,DNK,2021,4.94
+Djibouti,DJI,2021,39.358
+Dominican Republic,DOM,2021,12.578
+East Asia and Pacific (WB),0,2021,37.961.364
+East Timor,TLS,2021,6.743
+Ecuador,ECU,2021,7.794
+Egypt,EGY,2021,24.279
+El Salvador,SLV,2021,6.335
+Equatorial Guinea,GNQ,2021,10.609
+Eritrea,ERI,2021,9.163
+Estonia,EST,2021,6.066
+Eswatini,SWZ,2021,27.987
+Ethiopia,ETH,2021,4.704
+Europe and Central Asia (WB),0,2021,72.710.996
+European Union (27),0,2021,7.485.537
+Fiji,FJI,2021,6.685
+Finland,FIN,2021,6.984
+France,FRA,2021,8.012
+French Polynesia,PYF,2021,15.556
+Gabon,GAB,2021,30.5
+Gambia,GMB,2021,14.82
+Georgia,GEO,2021,9.646
+Germany,DEU,2021,3.164
+Ghana,GHA,2021,4.962
+Greece,GRC,2021,18.843
+Guam,GUM,2021,6.802
+Guatemala,GTM,2021,4.634
+Guinea,GIN,2021,6.487
+Guinea-Bissau,GNB,2021,7.694
+Guyana,GUY,2021,19.524
+Haiti,HTI,2021,18.962
+High-income countries,0,2021,5.972.754
+Honduras,HND,2021,11.906
+Hong Kong,HKG,2021,4.408
+Hungary,HUN,2021,4.334
+Iceland,ISL,2021,6.293
+India,IND,2021,4.533
+Indonesia,IDN,2021,3.965
+Iran,IRN,2021,18.956
+Iraq,IRQ,2021,32.819
+Ireland,IRL,2021,6.647
+Israel,ISR,2021,4.936
+Italy,ITA,2021,11.256
+Jamaica,JAM,2021,11.116
+Japan,JPN,2021,2.538
+Jordan,JOR,2021,27.233
+Kazakhstan,KAZ,2021,5.464
+Kenya,KEN,2021,6.094
+Kuwait,KWT,2021,8.938
+Kyrgyzstan,KGZ,2021,11.649
+Laos,LAO,2021,1.213
+Latin America and Caribbean (WB),0,2021,12.313.599
+Latvia,LVA,2021,6.886
+Lebanon,LBN,2021,18.644
+Lesotho,LSO,2021,24.766
+Liberia,LBR,2021,3.365
+Libya,LBY,2021,26.835
+Lithuania,LTU,2021,7.468
+Low-income countries,0,2021,6.387.615
+Lower-middle-income countries,0,2021,58.972.344
+Luxembourg,LUX,2021,5.775
+Macao,MAC,2021,2.579
+Madagascar,MDG,2021,2.686
+Malawi,MWI,2021,8.909
+Malaysia,MYS,2021,4.863
+Maldives,MDV,2021,5.661
+Mali,MLI,2021,8.847
+Malta,MLT,2021,3.068
+Mauritania,MRT,2021,13.004
+Mauritius,MUS,2021,11.311
+Mexico,MEX,2021,4.206
+Middle East and North Africa (WB),0,2021,198.594
+Middle-income countries,0,2021,6.461.229
+Moldova,MDA,2021,3.74
+Mongolia,MNG,2021,6.803
+Montenegro,MNE,2021,19.321
+Morocco,MAR,2021,13.522
+Mozambique,MOZ,2021,4.343
+Myanmar,MMR,2021,2.472
+Namibia,NAM,2021,20.618
+Nepal,NPL,2021,4.934
+Netherlands,NLD,2021,4.072
+New Caledonia,NCL,2021,17.791
+New Zealand,NZL,2021,4.107
+Nicaragua,NIC,2021,6.171
+Niger,NER,2021,664
+Nigeria,NGA,2021,8.81
+North America (WB),0,2021,54.897.223
+North Korea,PRK,2021,2.692
+North Macedonia,MKD,2021,16.475
+Norway,NOR,2021,4.817
+Oman,OMN,2021,12.927
+Pakistan,PAK,2021,5.165
+Palestine,PSE,2021,39.728
+Panama,PAN,2021,15.833
+Papua New Guinea,PNG,2021,1.76
+Paraguay,PRY,2021,9.149
+Peru,PER,2021,5.76
+Philippines,PHL,2021,2.668
+Poland,POL,2021,3.45
+Portugal,PRT,2021,6.952
+Puerto Rico,PRI,2021,7.076
+Qatar,QAT,2021,0.62
+Romania,ROU,2021,6.064
+Russia,RUS,2021,5.029
+Rwanda,RWA,2021,1.76
+Saint Lucia,LCA,2021,18.872
+Saint Vincent and the Grenadines,VCT,2021,20.965
+Samoa,WSM,2021,11.568
+Sao Tome and Principe,STP,2021,22.936
+Saudi Arabia,SAU,2021,21.573
+Senegal,SEN,2021,3.997
+Serbia,SRB,2021,12.846
+Sierra Leone,SLE,2021,4.65
+Singapore,SGP,2021,3.97
+Slovakia,SVK,2021,7.024
+Slovenia,SVN,2021,5.458
+Solomon Islands,SLB,2021,1.082
+Somalia,SOM,2021,25.937
+South Africa,ZAF,2021,35.68
+South Asia (WB),0,2021,5.356.565
+South Korea,KOR,2021,3.553
+South Sudan,SSD,2021,15.257
+Spain,ESP,2021,16.781
+Sri Lanka,LKA,2021,8.392
+Sub-Saharan Africa (WB),0,2021,7.985.011
+Sudan,SDN,2021,31.818
+Suriname,SUR,2021,13.918
+Sweden,SWE,2021,8.879
+Switzerland,CHE,2021,5.618
+Syria,SYR,2021,23.241
+Tajikistan,TJK,2021,6.371
+Tanzania,TZA,2021,3.352
+Thailand,THA,2021,1.412
+Togo,TGO,2021,3.114
+Tonga,TON,2021,4.723
+Trinidad and Tobago,TTO,2021,4.865
+Tunisia,TUN,2021,24.714
+Turkey,TUR,2021,15.616
+Turkmenistan,TKM,2021,3.398
+Uganda,UGA,2021,3.695
+Ukraine,UKR,2021,8.659
+United Arab Emirates,ARE,2021,8.125
+United Kingdom,GBR,2021,4.301
+United States,USA,2021,5.253
+United States Virgin Islands,VIR,2021,14.601
+Upper-middle-income countries,0,2021,68.587.217
+Uruguay,URY,2021,12.641
+Uzbekistan,UZB,2021,7.027
+Vanuatu,VUT,2021,1.968
+Venezuela,VEN,2021,7.579
+Vietnam,VNM,2021,2.092
+World,OWID_WRL,2021,63.575.025
+Yemen,YEM,2021,26.282
+Zambia,ZMB,2021,13.81
+Zimbabwe,ZWE,2021,5.69
